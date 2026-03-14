@@ -5,7 +5,7 @@ from data import loader
 def _model_options():
     models = loader.get_available_models()
     return [
-        {"label": f"{mt} / {reg}", "value": f"{mt}|{reg}"}
+        {"label": f"{reg} ({mt})", "value": f"{mt}|{reg}"}
         for mt, reg in models
     ]
 
@@ -47,12 +47,17 @@ def make_navbar():
             # Model / Region selector
             dbc.Row([
                 dbc.Col(
+                    html.Span("Model:", style={"color": "#adb5bd", "fontSize": "0.82rem",
+                                               "whiteSpace": "nowrap"}),
+                    width="auto", className="pe-1",
+                ),
+                dbc.Col(
                     dcc.Dropdown(
                         id="global-model-select",
                         options=model_options,
                         value=default_model,
                         clearable=False,
-                        style={"minWidth": "160px", "fontSize": "0.85rem"},
+                        style={"minWidth": "170px", "fontSize": "0.85rem"},
                     ),
                     width="auto",
                 ),

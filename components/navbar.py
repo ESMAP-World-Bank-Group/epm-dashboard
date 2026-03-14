@@ -36,8 +36,6 @@ def make_navbar():
             # Brand
             html.A(
                 dbc.Row([
-                    dbc.Col(html.I(className="bi bi-lightning-charge-fill me-2",
-                                   style={"fontSize": "1.3rem", "color": "#f4c430"})),
                     dbc.Col(dbc.NavbarBrand("EPM Dashboard",
                                             className="ms-0 fw-bold",
                                             style={"letterSpacing": "0.5px"})),

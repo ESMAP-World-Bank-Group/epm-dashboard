@@ -100,7 +100,8 @@ def init_pp_filters(store):
     years     = loader.get_years(mt, reg)
     s_opts = [{"label": s, "value": s} for s in scenarios]
     y_opts = [{"label": str(int(y)), "value": y} for y in years]
-    return s_opts, (scenarios[0] if scenarios else None), y_opts, (years[-1] if years else None)
+    default_s = "baseline" if "baseline" in scenarios else (scenarios[0] if scenarios else None)
+    return s_opts, default_s, y_opts, (years[-1] if years else None)
 
 
 @callback(

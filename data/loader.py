@@ -3,6 +3,7 @@ Central data loader for the EPM Dashboard.
 All CSV files are loaded here with lru_cache for performance.
 Heavy files (dispatch, hourly price) are loaded on demand without caching.
 """
+import json
 import pandas as pd
 import numpy as np
 from pathlib import Path
@@ -271,6 +272,50 @@ def load_hourly_price(model_type: str, region: str) -> pd.DataFrame:
     if not df.empty:
         df["value"] = pd.to_numeric(df["value"], errors="coerce")
     return df
+
+
+@lru_cache(maxsize=32)
+def load_zone_coords(model_type: str, region: str) -> dict:
+    """Return {zone_name: (lat, lon)} from linestring_countries.geojson."""
+    path = DATA_ROOT / model_type / region / "linestring_countries.geojson"
+    if not path.exists():
+        return {}
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    coords = {}
+    for feature in data.get("features", []):
+        props = feature.get("properties", {})
+        z = props.get("z")
+        if z and z not in coords:
+            coords[z] = (props["country_ini_lat"], props["country_ini_lon"])
+    return coords
+
+
+@lru_cache(maxsize=32)
+def load_phours(model_type: str, region: str) -> dict:
+    """Return {(q, d): pct_weight} from pHours.csv (baseline scenario preferred).
+
+    pHours value = number of days the representative day represents.
+    Weight = value / total_days * 100.
+    """
+    scenarios_dir = DATA_ROOT / model_type / region / "scenarios"
+    if not scenarios_dir.exists():
+        return {}
+    # Try baseline first, then any scenario alphabetically
+    candidates = sorted(scenarios_dir.iterdir(),
+                        key=lambda p: (p.name != "baseline", p.name))
+    for sc_dir in candidates:
+        csv_path = sc_dir / "input" / "pHours.csv"
+        if csv_path.exists():
+            df = pd.read_csv(csv_path)
+            df["value"] = pd.to_numeric(df["value"], errors="coerce")
+            # One representative weight per (q, d) — take first since all t equal within a day
+            unique_qd = df.groupby(["q", "d"])["value"].first()
+            total = unique_qd.sum()
+            if total <= 0:
+                return {}
+            return {(q, d): v / total * 100 for (q, d), v in unique_qd.items()}
+    return {}
 
 
 # Dispatch is heavy — no lru_cache, caller controls when it's loaded

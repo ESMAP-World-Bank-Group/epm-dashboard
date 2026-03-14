@@ -236,17 +236,19 @@ def _add_row(fig, df, ti, row, legend_shown):
         legend_shown.add("Demand")
         fig.add_trace(go.Scatter(
             x=dem.index, y=dem.values, name="Demand", mode="lines",
-            line=dict(color="#8B0000", width=1.5),
+            line=dict(color="#e74c3c", width=1.5),
             legendgroup="Demand", showlegend=sl,
             hovertemplate="<b>Demand</b><br>%{y:.1f} MW<extra></extra>",
         ), row=row, col=1)
 
 
-def _year_separators(fig, ti):
-    """Add quarter (solid) and day (dashed) separators + labels."""
+def _year_separators(fig, ti, day_weights=None):
+    """Quarter (thin solid) and day (thin dotted) separators with % weight labels."""
     qd = (ti.groupby(["q_num", "d_num", "q", "d"])["x"]
           .agg(x_min="min", x_max="max").reset_index())
     first_q = qd["q_num"].min()
+    n_total = len(qd)
+    pct_default = 100.0 / n_total if n_total else 0
 
     for _, r in qd.iterrows():
         first_d_in_q = r["d_num"] == qd[qd["q_num"] == r["q_num"]]["d_num"].min()
@@ -258,16 +260,21 @@ def _year_separators(fig, ti):
                 type="line",
                 x0=r["x_min"] - 0.5, x1=r["x_min"] - 0.5,
                 y0=0, y1=1.0, xref="x", yref="paper",
-                line=dict(color="#555" if is_q else "#bbb",
-                          width=1.5 if is_q else 0.8,
-                          dash="solid" if is_q else "dash"),
+                line=dict(color="#bbbbbb" if is_q else "#e0e0e0",
+                          width=1.0  if is_q else 0.5,
+                          dash="solid" if is_q else "dot"),
             )
         mid = (r["x_min"] + r["x_max"]) / 2
         fig.add_annotation(
-            x=mid, y=1.02, xref="x", yref="paper",
-            text=f"<b>{r['d']}</b>",
-            showarrow=False, font=dict(size=8, color="#555"),
-            xanchor="center", yanchor="bottom",
+            x=mid, y=1.03, xref="x", yref="paper",
+            text=f"<span style='font-size:8px;color:#888'>{r['d']}</span>",
+            showarrow=False, xanchor="center", yanchor="bottom",
+        )
+        pct = day_weights.get((r["q"], r["d"]), pct_default) if day_weights else pct_default
+        fig.add_annotation(
+            x=mid, y=1.005, xref="x", yref="paper",
+            text=f"<span style='font-size:7px;color:#cccccc'>{pct:.1f}%</span>",
+            showarrow=False, xanchor="center", yanchor="bottom",
         )
 
     for q_num in sorted(qd["q_num"].unique()):
@@ -276,7 +283,7 @@ def _year_separators(fig, ti):
         fig.add_annotation(
             x=mid, y=-0.05, xref="x", yref="paper",
             text=f"<b>{qr.iloc[0]['q']}</b>",
-            showarrow=False, font=dict(size=11, color="#1B2A4A"),
+            showarrow=False, font=dict(size=10, color="#555"),
             xanchor="center", yanchor="top",
         )
 
@@ -289,7 +296,7 @@ def _year_separators(fig, ti):
 # Main chart builder
 # ---------------------------------------------------------------------------
 
-def _build_chart(df, scenarios, zone, year, view, quarter=None, day=None):
+def _build_chart(df, scenarios, zone, year, view, quarter=None, day=None, day_weights=None):
     """Build dispatch figure. Returns (dispatch_fig, scenario_list_used)."""
     # Sort: baseline first
     all_s = sorted(df["scenario"].unique())
@@ -325,7 +332,7 @@ def _build_chart(df, scenarios, zone, year, view, quarter=None, day=None):
 
         fig = make_subplots(rows=1, cols=1)
         _add_row(fig, delta, ti, 1, set())
-        _year_separators(fig, ti)
+        _year_separators(fig, ti, day_weights=day_weights)
 
         fig.update_layout(
             title=dict(text=f"{zone} — Δ Dispatch ({cmp} − {ref}) | {int(year)}",
@@ -363,7 +370,7 @@ def _build_chart(df, scenarios, zone, year, view, quarter=None, day=None):
         _add_row(fig, sdf, ti, i, legend_shown)
 
     if view == "full":
-        _year_separators(fig, ti)
+        _year_separators(fig, ti, day_weights=day_weights)
         x_title = "Hours"
     else:
         fig.update_xaxes(tickmode="linear", dtick=2)
@@ -417,10 +424,12 @@ def update_dispatch_chart(data_json, quarter, day, view, year, zone, store):
     df = pd.read_json(data_json, orient="split")
     scenarios = sorted(df["scenario"].unique())
 
-    dispatch_fig, scenarios_list = _build_chart(df, scenarios, zone, year, view, quarter, day)
+    mt, reg = store["model_type"], store["region"]
+    day_weights = loader.load_phours(mt, reg)
+    dispatch_fig, scenarios_list = _build_chart(df, scenarios, zone, year, view, quarter, day,
+                                                day_weights=day_weights)
 
     # ── Price chart (all scenarios overlaid) ─────────────────────────────
-    mt, reg = store["model_type"], store["region"]
     price_df  = loader.load_hourly_price(mt, reg)
     price_fig = go.Figure()
 

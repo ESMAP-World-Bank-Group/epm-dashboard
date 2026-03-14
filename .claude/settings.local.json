@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(timeout 10 python -c \":*)",
+      "Bash(ls \"c:\\\\Users\\\\wb590892\\\\Documents\\\\EPM_Models\\\\epm-dashboard\\\\model_data\\\\regional\\\\CAPP\\\\scenarios\\\\baseline\\\\output_csv\"\" && echo \"---\" && ls \"c:Userswb590892DocumentsEPM_Modelsepm-dashboardmodel_dataregionalEAPPscenariosbaselineoutput_csv\"\")",
+      "Bash(python -c \":*)",
+      "Bash(python -c \"import ast; ast.parse\\(open\\(''pages/evolution.py''\\).read\\(\\)\\); print\\(''OK''\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\(''pages/dispatch.py''\\).read\\(\\)\\); print\\(''OK''\\)\")"
+    ]
+  }
+}

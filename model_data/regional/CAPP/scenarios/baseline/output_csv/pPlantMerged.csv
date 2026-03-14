@@ -1,0 +1,1184 @@
+c,z,attribute,y,tech,f,techfuel,g,uni,value
+Angola,Angola,CapacityPlant,2025,CCGT,Gas,CCGT-Gas,Soyo,,750.0
+Angola,Angola,CapacityPlant,2025,CCGT,Gas,CCGT-Gas,CCGT Lobito,,37.87645965565345
+Angola,Angola,CapacityPlant,2025,OCGT,Gas,GT-Gas,CT Cazenga,,140.0
+Angola,Angola,CapacityPlant,2025,OCGT,Gas,GT-Gas,CT Boa Vista,,131.0
+Angola,Angola,CapacityPlant,2025,OCGT,Gas,GT-Gas,CT CFL,,125.0
+Angola,Angola,CapacityPlant,2025,OCGT,Gas,GT-Gas,CT Malembo,,105.0
+Angola,Angola,CapacityPlant,2025,OCGT,Gas,GT-Gas,CT Belem,,50.0
+Angola,Angola,CapacityPlant,2025,OCGT,Gas,GT-Gas,CT Camana,,50.0
+Angola,Angola,CapacityPlant,2025,OCGT,Gas,GT-Gas,CT Morro Bento 2,,50.0
+Angola,Angola,CapacityPlant,2025,OCGT,Gas,GT-Gas,CT Biopo,,27.0
+Angola,Angola,CapacityPlant,2025,OCGT,Gas,GT-Gas,CT Viana,,22.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Huila thermique,,137.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Namibe thermique,,105.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Cuebe,,50.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Cunene thermique,,48.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Lunda Sul,,46.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Dundo,,41.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Huambo,,38.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Benfica,,36.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Bie,,34.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Luau,,33.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Chibodo,,31.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Quarteis,,28.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Capoca 2,,20.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Cavaco,,16.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Menongue,,12.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Santa Catarina,,10.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Cuito Cuanavale,,7.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Kianganga,,5.0
+Angola,Angola,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CD Buco Zau,,4.0
+Angola,Angola,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Cambambe,,960.0
+Angola,Angola,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Capanda,,520.0
+Angola,Angola,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Gove,,60.0
+Angola,Angola,CapacityPlant,2025,ROR,Water,ROR,Lauca,,2070.0
+Angola,Angola,CapacityPlant,2025,ROR,Water,ROR,Lomaum,,50.0
+Angola,Angola,CapacityPlant,2025,ROR,Water,ROR,Matala,,41.0
+Angola,Angola,CapacityPlant,2025,ROR,Water,ROR,AH Mabubas,,25.6
+Angola,Angola,CapacityPlant,2025,ROR,Water,ROR,Tchiumbwe Dala,,12.0
+Angola,Angola,CapacityPlant,2025,ROR,Water,ROR,Luachimo,,8.0
+Angola,Angola,CapacityPlant,2025,PV,Solar,PV,Biopo PV,,145.0
+Angola,Angola,CapacityPlant,2025,PV,Solar,PV,Baia farta,,76.0
+Angola,Angola,CapacityPlant,2025,PV,Solar,PV,Luena,,21.0
+Angola,Angola,CapacityPlant,2025,PV,Solar,PV,Saurimo,,21.0
+Angola,Angola,CapacityPlant,2025,PV,Solar,PV,Luau PV,,32.0
+Angola,Angola,CapacityPlant,2025,PV,Solar,PV,Lucapa,,6.0
+Angola,Angola,CapacityPlant,2025,PV,Solar,PV,Quilemba,,35.0
+Angola,Angola,CapacityPlant,2025,Storage,Battery,Battery,BESS_Angola,,50.0
+Angola,Angola,CapacityPlant,2040,CCGT,Gas,CCGT-Gas,Soyo,,750.0
+Angola,Angola,CapacityPlant,2040,CCGT,Gas,CCGT-Gas,CCGT Lobito,,37.87645965565345
+Angola,Angola,CapacityPlant,2040,CCGT,Gas,CCGT-Gas,CT Namibe,,143.09552318182494
+Angola,Angola,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Cambambe,,960.0
+Angola,Angola,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Capanda,,520.0
+Angola,Angola,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Baynes,,439.0
+Angola,Angola,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Gove,,60.0
+Angola,Angola,CapacityPlant,2040,ROR,Water,ROR,Lauca,,2070.0
+Angola,Angola,CapacityPlant,2040,ROR,Water,ROR,Cacula Cabasa,,529.1882721927559
+Angola,Angola,CapacityPlant,2040,ROR,Water,ROR,Calengue (Catumbela),,200.0
+Angola,Angola,CapacityPlant,2040,ROR,Water,ROR,Lomaum,,50.0
+Angola,Angola,CapacityPlant,2040,ROR,Water,ROR,Matala,,41.0
+Angola,Angola,CapacityPlant,2040,ROR,Water,ROR,AH Mabubas,,25.6
+Angola,Angola,CapacityPlant,2040,ROR,Water,ROR,Tchiumbwe Dala,,12.0
+Angola,Angola,CapacityPlant,2040,ROR,Water,ROR,Luachimo,,8.0
+Angola,Angola,CapacityPlant,2040,ROR,Water,ROR,Quilengue,,210.0
+Angola,Angola,CapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Benjoin,,52.0
+Angola,Angola,CapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Cacula,,88.0
+Angola,Angola,CapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Calenga,,84.0
+Angola,Angola,CapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Chibia,,88.0
+Angola,Angola,CapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Gastao,,30.0
+Angola,Angola,CapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Kiwaba Ngozi 1,,62.0
+Angola,Angola,CapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Kiwaba Ngozi 2,,42.0
+Angola,Angola,CapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Tombwa,,100.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Bailundo,,6.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Biopo PV,,145.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Cafunfo,,41.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Cambulo,,37.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Catete,,100.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Baia farta,,76.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Cuango,,11.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Cunene,,8.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Generic_PV_Angola,,3000.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Luena,,21.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Saurimo,,21.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Kuito,,12.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Lauca PV,,400.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Luau PV,,32.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Lucapa,,6.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Quilemba,,35.0
+Angola,Angola,CapacityPlant,2040,PV,Solar,PV,Quipungo,,150.0
+Angola,Angola,CapacityPlant,2040,Storage,Battery,Battery,BESS_Angola,,50.0
+Angola,Angola,CapacityPlant,2040,Storage,Battery,Battery,Generic_BESS_Angola,,1206.6167809366234
+Angola,Angola,CostsPlant,2025,CCGT,Gas,CCGT-Gas,Soyo,Variable Cost: $m,244.91803900691903
+Angola,Angola,CostsPlant,2025,CCGT,Gas,CCGT-Gas,CCGT Lobito,Investment costs: $m,2.352689448143324
+Angola,Angola,CostsPlant,2025,CCGT,Gas,CCGT-Gas,CCGT Lobito,Fixed O&M: $m,1.1362937896696033
+Angola,Angola,CostsPlant,2025,CCGT,Gas,CCGT-Gas,CCGT Lobito,Variable Cost: $m,6.874514334607269
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Cazenga,Fixed O&M: $m,2.8
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Cazenga,Variable Cost: $m,36.25138405452713
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Boa Vista,Fixed O&M: $m,2.6199999999999997
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Boa Vista,Variable Cost: $m,33.92093793673608
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT CFL,Fixed O&M: $m,2.5
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT CFL,Variable Cost: $m,32.36730719154208
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Malembo,Fixed O&M: $m,2.1
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Malembo,Variable Cost: $m,27.188538040895356
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Belem,Fixed O&M: $m,1.0
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Belem,Variable Cost: $m,12.946922876616837
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Camana,Fixed O&M: $m,1.0
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Camana,Variable Cost: $m,12.946922876616837
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Morro Bento 2,Fixed O&M: $m,1.0
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Morro Bento 2,Variable Cost: $m,12.946922876616837
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Biopo,Fixed O&M: $m,0.5399999999999999
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Biopo,Variable Cost: $m,6.991338353373095
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Viana,Fixed O&M: $m,0.44
+Angola,Angola,CostsPlant,2025,OCGT,Gas,GT-Gas,CT Viana,Variable Cost: $m,5.6966460657114135
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Huila thermique,Fixed O&M: $m,4.9319999999999995
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Namibe thermique,Fixed O&M: $m,3.78
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Cuebe,Fixed O&M: $m,1.7999999999999998
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Cunene thermique,Fixed O&M: $m,1.728
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Lunda Sul,Fixed O&M: $m,1.656
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Dundo,Fixed O&M: $m,1.476
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Huambo,Fixed O&M: $m,1.368
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Benfica,Fixed O&M: $m,1.296
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Bie,Fixed O&M: $m,1.224
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Luau,Fixed O&M: $m,1.188
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Chibodo,Fixed O&M: $m,1.116
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Quarteis,Fixed O&M: $m,1.008
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Capoca 2,Fixed O&M: $m,0.72
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Cavaco,Fixed O&M: $m,0.576
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Menongue,Fixed O&M: $m,0.432
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Santa Catarina,Fixed O&M: $m,0.36
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Cuito Cuanavale,Fixed O&M: $m,0.252
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Kianganga,Fixed O&M: $m,0.18
+Angola,Angola,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CD Buco Zau,Fixed O&M: $m,0.144
+Angola,Angola,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Cambambe,Fixed O&M: $m,48.0
+Angola,Angola,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Cambambe,Variable Cost: $m,1.4451456
+Angola,Angola,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Capanda,Fixed O&M: $m,26.0
+Angola,Angola,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Capanda,Variable Cost: $m,0.6413186746636796
+Angola,Angola,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Gove,Fixed O&M: $m,3.0
+Angola,Angola,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Gove,Variable Cost: $m,0.1113146743075199
+Angola,Angola,CostsPlant,2025,ROR,Water,ROR,Lauca,Fixed O&M: $m,82.8
+Angola,Angola,CostsPlant,2025,ROR,Water,ROR,Lauca,Variable Cost: $m,2.454128125714284
+Angola,Angola,CostsPlant,2025,ROR,Water,ROR,Lomaum,Fixed O&M: $m,2.0
+Angola,Angola,CostsPlant,2025,ROR,Water,ROR,Lomaum,Variable Cost: $m,0.0445935428207999
+Angola,Angola,CostsPlant,2025,ROR,Water,ROR,Matala,Fixed O&M: $m,1.64
+Angola,Angola,CostsPlant,2025,ROR,Water,ROR,Matala,Variable Cost: $m,0.0673407428869439
+Angola,Angola,CostsPlant,2025,ROR,Water,ROR,AH Mabubas,Fixed O&M: $m,1.024
+Angola,Angola,CostsPlant,2025,ROR,Water,ROR,AH Mabubas,Variable Cost: $m,0.0659176594378751
+Angola,Angola,CostsPlant,2025,ROR,Water,ROR,Tchiumbwe Dala,Fixed O&M: $m,0.48
+Angola,Angola,CostsPlant,2025,ROR,Water,ROR,Tchiumbwe Dala,Variable Cost: $m,0.018733361138496
+Angola,Angola,CostsPlant,2025,ROR,Water,ROR,Luachimo,Fixed O&M: $m,0.32
+Angola,Angola,CostsPlant,2025,ROR,Water,ROR,Luachimo,Variable Cost: $m,0.013677778276992
+Angola,Angola,CostsPlant,2025,PV,Solar,PV,Biopo PV,Fixed O&M: $m,2.175
+Angola,Angola,CostsPlant,2025,PV,Solar,PV,Baia farta,Fixed O&M: $m,1.14
+Angola,Angola,CostsPlant,2025,PV,Solar,PV,Luena,Fixed O&M: $m,0.315
+Angola,Angola,CostsPlant,2025,PV,Solar,PV,Saurimo,Fixed O&M: $m,0.315
+Angola,Angola,CostsPlant,2025,PV,Solar,PV,Luau PV,Investment costs: $m,1.802343587610792
+Angola,Angola,CostsPlant,2025,PV,Solar,PV,Luau PV,Fixed O&M: $m,0.48
+Angola,Angola,CostsPlant,2025,PV,Solar,PV,Lucapa,Fixed O&M: $m,0.09
+Angola,Angola,CostsPlant,2025,PV,Solar,PV,Quilemba,Investment costs: $m,1.9713132989493032
+Angola,Angola,CostsPlant,2025,PV,Solar,PV,Quilemba,Fixed O&M: $m,0.525
+Angola,Angola,CostsPlant,2040,CCGT,Gas,CCGT-Gas,Soyo,Variable Cost: $m,183.13860188424584
+Angola,Angola,CostsPlant,2040,CCGT,Gas,CCGT-Gas,CCGT Lobito,Investment costs: $m,2.352689448143324
+Angola,Angola,CostsPlant,2040,CCGT,Gas,CCGT-Gas,CCGT Lobito,Fixed O&M: $m,1.1362937896696033
+Angola,Angola,CostsPlant,2040,CCGT,Gas,CCGT-Gas,CCGT Lobito,Variable Cost: $m,9.302732860199225
+Angola,Angola,CostsPlant,2040,CCGT,Gas,CCGT-Gas,CT Namibe,Investment costs: $m,8.326982932604977
+Angola,Angola,CostsPlant,2040,CCGT,Gas,CCGT-Gas,CT Namibe,Fixed O&M: $m,4.292865695454748
+Angola,Angola,CostsPlant,2040,CCGT,Gas,CCGT-Gas,CT Namibe,Variable Cost: $m,35.14529704605766
+Angola,Angola,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Cambambe,Fixed O&M: $m,48.0
+Angola,Angola,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Cambambe,Variable Cost: $m,1.4451456000000005
+Angola,Angola,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Capanda,Fixed O&M: $m,26.0
+Angola,Angola,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Capanda,Variable Cost: $m,0.64131867466368
+Angola,Angola,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Baynes,Investment costs: $m,67.42814064935912
+Angola,Angola,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Baynes,Fixed O&M: $m,21.95
+Angola,Angola,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Baynes,Variable Cost: $m,0.6266857949499359
+Angola,Angola,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Gove,Fixed O&M: $m,3.0
+Angola,Angola,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Gove,Variable Cost: $m,0.1113146743075199
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Lauca,Fixed O&M: $m,82.8
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Lauca,Variable Cost: $m,2.454128125714284
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Cacula Cabasa,Investment costs: $m,96.47004613682094
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Cacula Cabasa,Fixed O&M: $m,21.167530887710235
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Cacula Cabasa,Variable Cost: $m,0.9923350570120832
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Calengue (Catumbela),Investment costs: $m,30.1402615185698
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Calengue (Catumbela),Fixed O&M: $m,8.0
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Calengue (Catumbela),Variable Cost: $m,0.3750404569247991
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Lomaum,Fixed O&M: $m,2.0
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Lomaum,Variable Cost: $m,0.0445935428207999
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Matala,Fixed O&M: $m,1.64
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Matala,Variable Cost: $m,0.0673407428869439
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,AH Mabubas,Fixed O&M: $m,1.024
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,AH Mabubas,Variable Cost: $m,0.0659176594378751
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Tchiumbwe Dala,Fixed O&M: $m,0.48
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Tchiumbwe Dala,Variable Cost: $m,0.018733361138496
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Luachimo,Fixed O&M: $m,0.32
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Luachimo,Variable Cost: $m,0.013677778276992
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Quilengue,Investment costs: $m,29.69055800554444
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Quilengue,Fixed O&M: $m,8.4
+Angola,Angola,CostsPlant,2040,ROR,Water,ROR,Quilengue,Variable Cost: $m,0.3937924797710396
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Benjoin,Investment costs: $m,3.3886358275417616
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Benjoin,Fixed O&M: $m,2.08
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Cacula,Investment costs: $m,5.734614477378365
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Cacula,Fixed O&M: $m,3.52
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Calenga,Investment costs: $m,5.473950182952076
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Calenga,Fixed O&M: $m,3.36
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Chibia,Investment costs: $m,5.734614477378365
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Chibia,Fixed O&M: $m,3.52
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Gastao,Investment costs: $m,1.9549822081971704
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Gastao,Fixed O&M: $m,1.2
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Kiwaba Ngozi 1,Investment costs: $m,4.040296563607485
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Kiwaba Ngozi 1,Fixed O&M: $m,2.48
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Kiwaba Ngozi 2,Investment costs: $m,2.736975091476038
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Kiwaba Ngozi 2,Fixed O&M: $m,1.68
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Tombwa,Investment costs: $m,6.5166073606572334
+Angola,Angola,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Tombwa,Fixed O&M: $m,4.0
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Bailundo,Investment costs: $m,0.2252929484513489
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Bailundo,Fixed O&M: $m,0.09
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Biopo PV,Fixed O&M: $m,2.175
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Cafunfo,Investment costs: $m,1.539501814417551
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Cafunfo,Fixed O&M: $m,0.615
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Cambulo,Investment costs: $m,1.389306515449985
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Cambulo,Fixed O&M: $m,0.5549999999999999
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Catete,Investment costs: $m,3.754882474189149
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Catete,Fixed O&M: $m,1.5
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Baia farta,Fixed O&M: $m,1.14
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Cuango,Investment costs: $m,0.4130370721608064
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Cuango,Fixed O&M: $m,0.1649999999999999
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Cunene,Investment costs: $m,0.3003905979351319
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Cunene,Fixed O&M: $m,0.12
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Generic_PV_Angola,Investment costs: $m,112.64647422567448
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Generic_PV_Angola,Fixed O&M: $m,45.0
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Luena,Fixed O&M: $m,0.315
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Saurimo,Fixed O&M: $m,0.315
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Kuito,Investment costs: $m,0.4505858969026978
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Kuito,Fixed O&M: $m,0.18
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Lauca PV,Investment costs: $m,15.019529896756596
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Lauca PV,Fixed O&M: $m,6.0
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Luau PV,Investment costs: $m,1.802343587610792
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Luau PV,Fixed O&M: $m,0.48
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Lucapa,Fixed O&M: $m,0.09
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Quilemba,Investment costs: $m,1.9713132989493032
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Quilemba,Fixed O&M: $m,0.525
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Quipungo,Investment costs: $m,5.632323711283724
+Angola,Angola,CostsPlant,2040,PV,Solar,PV,Quipungo,Fixed O&M: $m,2.25
+Angola,Angola,CostsPlant,2040,Storage,Battery,Battery,Generic_BESS_Angola,Investment costs: $m,33.63087580549702
+Angola,Angola,EnergyPlant,2025,CCGT,Gas,CCGT-Gas,Soyo,,4361.839082029583
+Angola,Angola,EnergyPlant,2025,CCGT,Gas,CCGT-Gas,CCGT Lobito,,118.2200058772253
+Angola,Angola,EnergyPlant,2025,OCGT,Gas,GT-Gas,CT Cazenga,,436.968
+Angola,Angola,EnergyPlant,2025,OCGT,Gas,GT-Gas,CT Boa Vista,,408.8772
+Angola,Angola,EnergyPlant,2025,OCGT,Gas,GT-Gas,CT CFL,,390.15
+Angola,Angola,EnergyPlant,2025,OCGT,Gas,GT-Gas,CT Malembo,,327.726
+Angola,Angola,EnergyPlant,2025,OCGT,Gas,GT-Gas,CT Belem,,156.06
+Angola,Angola,EnergyPlant,2025,OCGT,Gas,GT-Gas,CT Camana,,156.06
+Angola,Angola,EnergyPlant,2025,OCGT,Gas,GT-Gas,CT Morro Bento 2,,156.06000000000003
+Angola,Angola,EnergyPlant,2025,OCGT,Gas,GT-Gas,CT Biopo,,84.27239999999999
+Angola,Angola,EnergyPlant,2025,OCGT,Gas,GT-Gas,CT Viana,,68.6664
+Angola,Angola,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Cambambe,,2890.2912
+Angola,Angola,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Capanda,,1282.6373493273593
+Angola,Angola,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Gove,,222.62934861504
+Angola,Angola,EnergyPlant,2025,ROR,Water,ROR,Lauca,,4908.256251428569
+Angola,Angola,EnergyPlant,2025,ROR,Water,ROR,Lomaum,,89.18708564159998
+Angola,Angola,EnergyPlant,2025,ROR,Water,ROR,Matala,,134.68148577388794
+Angola,Angola,EnergyPlant,2025,ROR,Water,ROR,AH Mabubas,,131.83531887575026
+Angola,Angola,EnergyPlant,2025,ROR,Water,ROR,Tchiumbwe Dala,,37.466722276992066
+Angola,Angola,EnergyPlant,2025,ROR,Water,ROR,Luachimo,,27.355556553984037
+Angola,Angola,EnergyPlant,2025,PV,Solar,PV,Biopo PV,,298.0960894999999
+Angola,Angola,EnergyPlant,2025,PV,Solar,PV,Baia farta,,156.24346759999997
+Angola,Angola,EnergyPlant,2025,PV,Solar,PV,Luena,,43.1725371
+Angola,Angola,EnergyPlant,2025,PV,Solar,PV,Saurimo,,43.1725371
+Angola,Angola,EnergyPlant,2025,PV,Solar,PV,Luau PV,,65.78672319999998
+Angola,Angola,EnergyPlant,2025,PV,Solar,PV,Lucapa,,12.335010600000002
+Angola,Angola,EnergyPlant,2025,PV,Solar,PV,Quilemba,,71.9542285
+Angola,Angola,EnergyPlant,2040,CCGT,Gas,CCGT-Gas,Soyo,,2388.03742091966
+Angola,Angola,EnergyPlant,2040,CCGT,Gas,CCGT-Gas,CCGT Lobito,,118.22000587722556
+Angola,Angola,EnergyPlant,2040,CCGT,Gas,CCGT-Gas,CT Namibe,,446.6297469551107
+Angola,Angola,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Cambambe,,2890.291200000001
+Angola,Angola,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Capanda,,1282.63734932736
+Angola,Angola,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Baynes,,1253.371589899872
+Angola,Angola,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Gove,,222.62934861504
+Angola,Angola,EnergyPlant,2040,ROR,Water,ROR,Lauca,,4908.256251428569
+Angola,Angola,EnergyPlant,2040,ROR,Water,ROR,Cacula Cabasa,,1984.6701140241664
+Angola,Angola,EnergyPlant,2040,ROR,Water,ROR,Calengue (Catumbela),,750.0809138495982
+Angola,Angola,EnergyPlant,2040,ROR,Water,ROR,Lomaum,,89.18708564159998
+Angola,Angola,EnergyPlant,2040,ROR,Water,ROR,Matala,,134.68148577388794
+Angola,Angola,EnergyPlant,2040,ROR,Water,ROR,AH Mabubas,,131.83531887575026
+Angola,Angola,EnergyPlant,2040,ROR,Water,ROR,Tchiumbwe Dala,,37.466722276992066
+Angola,Angola,EnergyPlant,2040,ROR,Water,ROR,Luachimo,,27.355556553984037
+Angola,Angola,EnergyPlant,2040,ROR,Water,ROR,Quilengue,,787.5849595420792
+Angola,Angola,EnergyPlant,2040,OnshoreWind,Wind,Onshore Wind,Benjoin,,177.46676480000002
+Angola,Angola,EnergyPlant,2040,OnshoreWind,Wind,Onshore Wind,Cacula,,300.32837119999994
+Angola,Angola,EnergyPlant,2040,OnshoreWind,Wind,Onshore Wind,Calenga,,286.6770816000001
+Angola,Angola,EnergyPlant,2040,OnshoreWind,Wind,Onshore Wind,Chibia,,300.32837119999994
+Angola,Angola,EnergyPlant,2040,OnshoreWind,Wind,Onshore Wind,Gastao,,102.384672
+Angola,Angola,EnergyPlant,2040,OnshoreWind,Wind,Onshore Wind,Kiwaba Ngozi 1,,211.59498880000007
+Angola,Angola,EnergyPlant,2040,OnshoreWind,Wind,Onshore Wind,Kiwaba Ngozi 2,,143.33854080000006
+Angola,Angola,EnergyPlant,2040,OnshoreWind,Wind,Onshore Wind,Tombwa,,341.2822399999999
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Bailundo,,12.335010600000002
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Biopo PV,,298.0960894999999
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Cafunfo,,84.28923910000002
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Cambulo,,76.06589870000002
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Catete,,205.58351
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Baia farta,,156.24346759999997
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Cuango,,22.614186100000005
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Cunene,,16.446680799999996
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Generic_PV_Angola,,6167.5053
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Luena,,43.1725371
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Saurimo,,43.1725371
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Kuito,,24.670021200000004
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Lauca PV,,822.3340400000001
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Luau PV,,65.78672319999998
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Lucapa,,12.335010600000002
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Quilemba,,71.9542285
+Angola,Angola,EnergyPlant,2040,PV,Solar,PV,Quipungo,,308.37526499999996
+Angola,Angola,EnergyPlant,2040,Storage,Battery,Battery,BESS_Angola,,73.0
+Angola,Angola,EnergyPlant,2040,Storage,Battery,Battery,Generic_BESS_Angola,,1665.12140646896
+Angola,Angola,NewCapacityPlant,2025,CCGT,Gas,CCGT-Gas,CCGT Lobito,,37.87645965565345
+Angola,Angola,NewCapacityPlant,2025,PV,Solar,PV,Luau PV,,32.0
+Angola,Angola,NewCapacityPlant,2025,PV,Solar,PV,Quilemba,,35.0
+Angola,Angola,NewCapacityPlant,2040,CCGT,Gas,CCGT-Gas,CT Namibe,,143.09552318182494
+Angola,Angola,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Baynes,,439.0
+Angola,Angola,NewCapacityPlant,2040,ROR,Water,ROR,Cacula Cabasa,,529.1882721927559
+Angola,Angola,NewCapacityPlant,2040,ROR,Water,ROR,Calengue (Catumbela),,200.0
+Angola,Angola,NewCapacityPlant,2040,ROR,Water,ROR,Quilengue,,210.0
+Angola,Angola,NewCapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Benjoin,,52.0
+Angola,Angola,NewCapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Cacula,,88.0
+Angola,Angola,NewCapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Calenga,,84.0
+Angola,Angola,NewCapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Chibia,,88.0
+Angola,Angola,NewCapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Gastao,,30.0
+Angola,Angola,NewCapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Kiwaba Ngozi 1,,62.0
+Angola,Angola,NewCapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Kiwaba Ngozi 2,,42.0
+Angola,Angola,NewCapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Tombwa,,100.0
+Angola,Angola,NewCapacityPlant,2040,PV,Solar,PV,Bailundo,,6.0
+Angola,Angola,NewCapacityPlant,2040,PV,Solar,PV,Cafunfo,,41.0
+Angola,Angola,NewCapacityPlant,2040,PV,Solar,PV,Cambulo,,37.0
+Angola,Angola,NewCapacityPlant,2040,PV,Solar,PV,Catete,,100.0
+Angola,Angola,NewCapacityPlant,2040,PV,Solar,PV,Cuango,,11.0
+Angola,Angola,NewCapacityPlant,2040,PV,Solar,PV,Cunene,,8.0
+Angola,Angola,NewCapacityPlant,2040,PV,Solar,PV,Generic_PV_Angola,,3000.0
+Angola,Angola,NewCapacityPlant,2040,PV,Solar,PV,Kuito,,12.0
+Angola,Angola,NewCapacityPlant,2040,PV,Solar,PV,Lauca PV,,400.0
+Angola,Angola,NewCapacityPlant,2040,PV,Solar,PV,Quipungo,,150.0
+Angola,Angola,NewCapacityPlant,2040,Storage,Battery,Battery,Generic_BESS_Angola,,1206.6167809366234
+Angola,Angola,PlantAnnualLCOE,2025,CCGT,Gas,CCGT-Gas,Soyo,,56.15017757440001
+Angola,Angola,PlantAnnualLCOE,2025,CCGT,Gas,CCGT-Gas,CCGT Lobito,,87.66280711559911
+Angola,Angola,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,CT Cazenga,,89.36897908891984
+Angola,Angola,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,CT Boa Vista,,89.3689790889198
+Angola,Angola,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,CT CFL,,89.36897908891984
+Angola,Angola,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,CT Malembo,,89.36897908891989
+Angola,Angola,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,CT Belem,,89.36897908891987
+Angola,Angola,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,CT Camana,,89.36897908891989
+Angola,Angola,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,CT Morro Bento 2,,89.36897908891986
+Angola,Angola,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,CT Biopo,,89.36897908891993
+Angola,Angola,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,CT Viana,,89.36897908891997
+Angola,Angola,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Cambambe,,17.107323165222937
+Angola,Angola,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Capanda,,20.77073358937732
+Angola,Angola,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Gove,,13.975312301198242
+Angola,Angola,PlantAnnualLCOE,2025,ROR,Water,ROR,Lauca,,17.369534873184488
+Angola,Angola,PlantAnnualLCOE,2025,ROR,Water,ROR,Lomaum,,22.924771317643888
+Angola,Angola,PlantAnnualLCOE,2025,ROR,Water,ROR,Matala,,12.676877843130857
+Angola,Angola,PlantAnnualLCOE,2025,ROR,Water,ROR,AH Mabubas,,8.267266076589696
+Angola,Angola,PlantAnnualLCOE,2025,ROR,Water,ROR,Tchiumbwe Dala,,13.311368884936144
+Angola,Angola,PlantAnnualLCOE,2025,ROR,Water,ROR,Luachimo,,12.197806234302169
+Angola,Angola,PlantAnnualLCOE,2025,PV,Solar,PV,Biopo PV,,7.296305039251449
+Angola,Angola,PlantAnnualLCOE,2025,PV,Solar,PV,Baia farta,,7.296305039251447
+Angola,Angola,PlantAnnualLCOE,2025,PV,Solar,PV,Luena,,7.296305039251446
+Angola,Angola,PlantAnnualLCOE,2025,PV,Solar,PV,Saurimo,,7.296305039251446
+Angola,Angola,PlantAnnualLCOE,2025,PV,Solar,PV,Luau PV,,34.69307295747469
+Angola,Angola,PlantAnnualLCOE,2025,PV,Solar,PV,Lucapa,,7.296305039251445
+Angola,Angola,PlantAnnualLCOE,2025,PV,Solar,PV,Quilemba,,34.69307295747467
+Angola,Angola,PlantAnnualLCOE,2040,CCGT,Gas,CCGT-Gas,Soyo,,76.69000505599996
+Angola,Angola,PlantAnnualLCOE,2040,CCGT,Gas,CCGT-Gas,CCGT Lobito,,108.20263459719897
+Angola,Angola,PlantAnnualLCOE,2040,CCGT,Gas,CCGT-Gas,CT Namibe,,106.94573301432628
+Angola,Angola,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Cambambe,,17.107323165222933
+Angola,Angola,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Capanda,,20.77073358937731
+Angola,Angola,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Baynes,,71.81016960141825
+Angola,Angola,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Gove,,13.975312301198242
+Angola,Angola,PlantAnnualLCOE,2040,ROR,Water,ROR,Lauca,,17.369534873184488
+Angola,Angola,PlantAnnualLCOE,2040,ROR,Water,ROR,Cacula Cabasa,,59.77311354832985
+Angola,Angola,PlantAnnualLCOE,2040,ROR,Water,ROR,Calengue (Catumbela),,51.34819626035367
+Angola,Angola,PlantAnnualLCOE,2040,ROR,Water,ROR,Lomaum,,22.924771317643888
+Angola,Angola,PlantAnnualLCOE,2040,ROR,Water,ROR,Matala,,12.676877843130857
+Angola,Angola,PlantAnnualLCOE,2040,ROR,Water,ROR,AH Mabubas,,8.267266076589696
+Angola,Angola,PlantAnnualLCOE,2040,ROR,Water,ROR,Tchiumbwe Dala,,13.311368884936144
+Angola,Angola,PlantAnnualLCOE,2040,ROR,Water,ROR,Luachimo,,12.197806234302169
+Angola,Angola,PlantAnnualLCOE,2040,ROR,Water,ROR,Quilengue,,48.86374481769078
+Angola,Angola,PlantAnnualLCOE,2040,OnshoreWind,Wind,Onshore Wind,Benjoin,,30.81498574510421
+Angola,Angola,PlantAnnualLCOE,2040,OnshoreWind,Wind,Onshore Wind,Cacula,,30.814985745104213
+Angola,Angola,PlantAnnualLCOE,2040,OnshoreWind,Wind,Onshore Wind,Calenga,,30.81498574510419
+Angola,Angola,PlantAnnualLCOE,2040,OnshoreWind,Wind,Onshore Wind,Chibia,,30.814985745104213
+Angola,Angola,PlantAnnualLCOE,2040,OnshoreWind,Wind,Onshore Wind,Gastao,,30.81498574510421
+Angola,Angola,PlantAnnualLCOE,2040,OnshoreWind,Wind,Onshore Wind,Kiwaba Ngozi 1,,30.814985745104195
+Angola,Angola,PlantAnnualLCOE,2040,OnshoreWind,Wind,Onshore Wind,Kiwaba Ngozi 2,,30.81498574510419
+Angola,Angola,PlantAnnualLCOE,2040,OnshoreWind,Wind,Onshore Wind,Tombwa,,30.814985745104217
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Bailundo,,25.56081698473359
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Biopo PV,,7.296305039251449
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Cafunfo,,25.560816984733584
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Cambulo,,25.560816984733588
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Catete,,25.56081698473359
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Baia farta,,7.296305039251447
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Cuango,,25.560816984733588
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Cunene,,25.5608169847336
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Generic_PV_Angola,,25.5608169847336
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Luena,,7.296305039251446
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Saurimo,,7.296305039251446
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Kuito,,25.56081698473359
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Lauca PV,,25.56081698473359
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Luau PV,,34.69307295747469
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Lucapa,,7.296305039251445
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Quilemba,,34.69307295747467
+Angola,Angola,PlantAnnualLCOE,2040,PV,Solar,PV,Quipungo,,25.5608169847336
+Angola,Angola,PlantAnnualLCOE,2040,Storage,Battery,Battery,Generic_BESS_Angola,,20.197251488595253
+Angola,Angola,UtilizationPlant,2025,CCGT,Gas,CCGT-Gas,Soyo,,0.6639024477975012
+Angola,Angola,UtilizationPlant,2025,CCGT,Gas,CCGT-Gas,CCGT Lobito,,0.3563013698630129
+Angola,Angola,UtilizationPlant,2025,OCGT,Gas,GT-Gas,CT Cazenga,,0.3563013698630136
+Angola,Angola,UtilizationPlant,2025,OCGT,Gas,GT-Gas,CT Boa Vista,,0.3563013698630136
+Angola,Angola,UtilizationPlant,2025,OCGT,Gas,GT-Gas,CT CFL,,0.3563013698630136
+Angola,Angola,UtilizationPlant,2025,OCGT,Gas,GT-Gas,CT Malembo,,0.3563013698630136
+Angola,Angola,UtilizationPlant,2025,OCGT,Gas,GT-Gas,CT Belem,,0.3563013698630136
+Angola,Angola,UtilizationPlant,2025,OCGT,Gas,GT-Gas,CT Camana,,0.3563013698630136
+Angola,Angola,UtilizationPlant,2025,OCGT,Gas,GT-Gas,CT Morro Bento 2,,0.3563013698630137
+Angola,Angola,UtilizationPlant,2025,OCGT,Gas,GT-Gas,CT Biopo,,0.3563013698630136
+Angola,Angola,UtilizationPlant,2025,OCGT,Gas,GT-Gas,CT Viana,,0.3563013698630136
+Angola,Angola,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Cambambe,,0.343689497716895
+Angola,Angola,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Capanda,,0.2815765167999998
+Angola,Angola,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Gove,,0.4235718200438355
+Angola,Angola,UtilizationPlant,2025,ROR,Water,ROR,Lauca,,0.2706778864970644
+Angola,Angola,UtilizationPlant,2025,ROR,Water,ROR,Lomaum,,0.2036234831999999
+Angola,Angola,UtilizationPlant,2025,ROR,Water,ROR,Matala,,0.3749902154301368
+Angola,Angola,UtilizationPlant,2025,ROR,Water,ROR,AH Mabubas,,0.5878786693589034
+Angola,Angola,UtilizationPlant,2025,ROR,Water,ROR,Tchiumbwe Dala,,0.3564185909150691
+Angola,Angola,UtilizationPlant,2025,ROR,Water,ROR,Luachimo,,0.3903475535671238
+Angola,Angola,UtilizationPlant,2025,PV,Solar,PV,Biopo PV,,0.2346843721461186
+Angola,Angola,UtilizationPlant,2025,PV,Solar,PV,Baia farta,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2025,PV,Solar,PV,Luena,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2025,PV,Solar,PV,Saurimo,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2025,PV,Solar,PV,Luau PV,,0.2346843721461186
+Angola,Angola,UtilizationPlant,2025,PV,Solar,PV,Lucapa,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2025,PV,Solar,PV,Quilemba,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,CCGT,Gas,CCGT-Gas,Soyo,,0.3634760153606787
+Angola,Angola,UtilizationPlant,2040,CCGT,Gas,CCGT-Gas,CCGT Lobito,,0.3563013698630137
+Angola,Angola,UtilizationPlant,2040,CCGT,Gas,CCGT-Gas,CT Namibe,,0.3563013698630127
+Angola,Angola,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Cambambe,,0.343689497716895
+Angola,Angola,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Capanda,,0.2815765168
+Angola,Angola,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Baynes,,0.3259201563068493
+Angola,Angola,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Gove,,0.4235718200438355
+Angola,Angola,UtilizationPlant,2040,ROR,Water,ROR,Lauca,,0.2706778864970644
+Angola,Angola,UtilizationPlant,2040,ROR,Water,ROR,Cacula Cabasa,,0.4281283754849315
+Angola,Angola,UtilizationPlant,2040,ROR,Water,ROR,Calengue (Catumbela),,0.4281283754849305
+Angola,Angola,UtilizationPlant,2040,ROR,Water,ROR,Lomaum,,0.2036234831999999
+Angola,Angola,UtilizationPlant,2040,ROR,Water,ROR,Matala,,0.3749902154301368
+Angola,Angola,UtilizationPlant,2040,ROR,Water,ROR,AH Mabubas,,0.5878786693589034
+Angola,Angola,UtilizationPlant,2040,ROR,Water,ROR,Tchiumbwe Dala,,0.3564185909150691
+Angola,Angola,UtilizationPlant,2040,ROR,Water,ROR,Luachimo,,0.3903475535671238
+Angola,Angola,UtilizationPlant,2040,ROR,Water,ROR,Quilengue,,0.428128375484931
+Angola,Angola,UtilizationPlant,2040,OnshoreWind,Wind,Onshore Wind,Benjoin,,0.3895915981735159
+Angola,Angola,UtilizationPlant,2040,OnshoreWind,Wind,Onshore Wind,Cacula,,0.3895915981735158
+Angola,Angola,UtilizationPlant,2040,OnshoreWind,Wind,Onshore Wind,Calenga,,0.3895915981735161
+Angola,Angola,UtilizationPlant,2040,OnshoreWind,Wind,Onshore Wind,Chibia,,0.3895915981735158
+Angola,Angola,UtilizationPlant,2040,OnshoreWind,Wind,Onshore Wind,Gastao,,0.3895915981735159
+Angola,Angola,UtilizationPlant,2040,OnshoreWind,Wind,Onshore Wind,Kiwaba Ngozi 1,,0.3895915981735161
+Angola,Angola,UtilizationPlant,2040,OnshoreWind,Wind,Onshore Wind,Kiwaba Ngozi 2,,0.3895915981735161
+Angola,Angola,UtilizationPlant,2040,OnshoreWind,Wind,Onshore Wind,Tombwa,,0.3895915981735158
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Bailundo,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Biopo PV,,0.2346843721461186
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Cafunfo,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Cambulo,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Catete,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Baia farta,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Cuango,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Cunene,,0.2346843721461186
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Generic_PV_Angola,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Luena,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Saurimo,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Kuito,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Lauca PV,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Luau PV,,0.2346843721461186
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Lucapa,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Quilemba,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,PV,Solar,PV,Quipungo,,0.2346843721461187
+Angola,Angola,UtilizationPlant,2040,Storage,Battery,Battery,BESS_Angola,,0.1666666666666666
+Angola,Angola,UtilizationPlant,2040,Storage,Battery,Battery,Generic_BESS_Angola,,0.1575333240344046
+CAR,CAR,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Bangui Enerca,,20.0
+CAR,CAR,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Boali 2,,20.0
+CAR,CAR,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Boali 1 Rebuild,,9.0
+CAR,CAR,CapacityPlant,2025,PV,Solar,PV,Danzi,,25.0
+CAR,CAR,CapacityPlant,2025,PV,Solar,PV,Sakai,,15.0
+CAR,CAR,CapacityPlant,2040,ICE,Diesel,ICE-Diesel,Bangui Enerca,,20.0
+CAR,CAR,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Dimoli (CAR),,90.0
+CAR,CAR,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Boali 2,,20.0
+CAR,CAR,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Kotto,,41.15102310232639
+CAR,CAR,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Boali 1 Rebuild,,9.0
+CAR,CAR,CapacityPlant,2040,PV,Solar,PV,Danzi 2,,25.0
+CAR,CAR,CapacityPlant,2040,PV,Solar,PV,Generic_PV_CAF,,60.0
+CAR,CAR,CapacityPlant,2040,PV,Solar,PV,Danzi,,25.0
+CAR,CAR,CapacityPlant,2040,PV,Solar,PV,Sakai,,15.0
+CAR,CAR,CapacityPlant,2040,PV,Solar,PV,PV_CAF_2030,,15.0
+CAR,CAR,CapacityPlant,2040,Storage,Battery,Battery,Generic_BESS_CAF,,60.0
+CAR,CAR,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Bangui Enerca,Fixed O&M: $m,0.72
+CAR,CAR,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Bangui Enerca,Variable Cost: $m,3.196515644434717
+CAR,CAR,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Boali 2,Fixed O&M: $m,1.0
+CAR,CAR,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Boali 2,Variable Cost: $m,0.037648215316389
+CAR,CAR,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Boali 1 Rebuild,Fixed O&M: $m,0.4499999999999999
+CAR,CAR,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Boali 1 Rebuild,Variable Cost: $m,0.0206040039861335
+CAR,CAR,CostsPlant,2025,PV,Solar,PV,Danzi,Fixed O&M: $m,0.375
+CAR,CAR,CostsPlant,2025,PV,Solar,PV,Sakai,Fixed O&M: $m,0.2249999999999999
+CAR,CAR,CostsPlant,2040,ICE,Diesel,ICE-Diesel,Bangui Enerca,Fixed O&M: $m,0.72
+CAR,CAR,CostsPlant,2040,ICE,Diesel,ICE-Diesel,Bangui Enerca,Variable Cost: $m,0.1563755561682919
+CAR,CAR,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Dimoli (CAR),Investment costs: $m,9.706975815201526
+CAR,CAR,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Dimoli (CAR),Fixed O&M: $m,4.5
+CAR,CAR,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Dimoli (CAR),Variable Cost: $m,0.23871116561616
+CAR,CAR,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Boali 2,Fixed O&M: $m,1.0
+CAR,CAR,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Boali 2,Variable Cost: $m,0.0792011656924799
+CAR,CAR,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kotto,Investment costs: $m,8.876710800557369
+CAR,CAR,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kotto,Fixed O&M: $m,2.0575511551163195
+CAR,CAR,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kotto,Variable Cost: $m,0.0894536707970372
+CAR,CAR,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Boali 1 Rebuild,Fixed O&M: $m,0.4499999999999999
+CAR,CAR,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Boali 1 Rebuild,Variable Cost: $m,0.03610116
+CAR,CAR,CostsPlant,2040,PV,Solar,PV,Danzi 2,Investment costs: $m,0.9387206185472872
+CAR,CAR,CostsPlant,2040,PV,Solar,PV,Danzi 2,Fixed O&M: $m,0.375
+CAR,CAR,CostsPlant,2040,PV,Solar,PV,Generic_PV_CAF,Investment costs: $m,2.2529294845134893
+CAR,CAR,CostsPlant,2040,PV,Solar,PV,Generic_PV_CAF,Fixed O&M: $m,0.8999999999999999
+CAR,CAR,CostsPlant,2040,PV,Solar,PV,Danzi,Fixed O&M: $m,0.375
+CAR,CAR,CostsPlant,2040,PV,Solar,PV,Sakai,Fixed O&M: $m,0.2249999999999999
+CAR,CAR,CostsPlant,2040,PV,Solar,PV,PV_CAF_2030,Investment costs: $m,0.5632323711283723
+CAR,CAR,CostsPlant,2040,PV,Solar,PV,PV_CAF_2030,Fixed O&M: $m,0.2249999999999999
+CAR,CAR,CostsPlant,2040,Storage,Battery,Battery,Generic_BESS_CAF,Investment costs: $m,1.2482492431730594
+CAR,CAR,EnergyPlant,2025,ICE,Diesel,ICE-Diesel,Bangui Enerca,,19.13813039757551
+CAR,CAR,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Boali 2,,75.29643063277818
+CAR,CAR,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Boali 1 Rebuild,,41.208007972267175
+CAR,CAR,EnergyPlant,2025,PV,Solar,PV,Danzi,,34.11942114667407
+CAR,CAR,EnergyPlant,2025,PV,Solar,PV,Sakai,,20.32832465920821
+CAR,CAR,EnergyPlant,2040,ICE,Diesel,ICE-Diesel,Bangui Enerca,,0.7192606407952244
+CAR,CAR,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Dimoli (CAR),,477.42233123232
+CAR,CAR,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Boali 2,,158.40233138495998
+CAR,CAR,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Kotto,,178.9073415940744
+CAR,CAR,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Boali 1 Rebuild,,72.20232000000001
+CAR,CAR,EnergyPlant,2040,PV,Solar,PV,Danzi 2,,35.488564999999994
+CAR,CAR,EnergyPlant,2040,PV,Solar,PV,Generic_PV_CAF,,85.17255600000003
+CAR,CAR,EnergyPlant,2040,PV,Solar,PV,Danzi,,35.488564999999994
+CAR,CAR,EnergyPlant,2040,PV,Solar,PV,Sakai,,21.293139000000007
+CAR,CAR,EnergyPlant,2040,PV,Solar,PV,PV_CAF_2030,,21.293139000000007
+CAR,CAR,EnergyPlant,2040,Storage,Battery,Battery,Generic_BESS_CAF,,26.202640814773403
+CAR,CAR,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Dimoli (CAR),,90.0
+CAR,CAR,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Kotto,,41.15102310232639
+CAR,CAR,NewCapacityPlant,2040,PV,Solar,PV,Danzi 2,,25.0
+CAR,CAR,NewCapacityPlant,2040,PV,Solar,PV,Generic_PV_CAF,,60.0
+CAR,CAR,NewCapacityPlant,2040,PV,Solar,PV,PV_CAF_2030,,15.0
+CAR,CAR,NewCapacityPlant,2040,Storage,Battery,Battery,Generic_BESS_CAF,,60.0
+CAR,CAR,PlantAnnualLCOE,2025,ICE,Diesel,ICE-Diesel,Bangui Enerca,,204.64463158485304
+CAR,CAR,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Boali 2,,13.78084202127741
+CAR,CAR,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Boali 1 Rebuild,,11.420207555357884
+CAR,CAR,PlantAnnualLCOE,2025,PV,Solar,PV,Danzi,,10.990807797938114
+CAR,CAR,PlantAnnualLCOE,2025,PV,Solar,PV,Sakai,,11.06830020535316
+CAR,CAR,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Dimoli (CAR),,30.25766922869015
+CAR,CAR,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Boali 2,,6.8130383956896
+CAR,CAR,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Kotto,,61.61689916271073
+CAR,CAR,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Boali 1 Rebuild,,6.732486712338327
+CAR,CAR,PlantAnnualLCOE,2040,PV,Solar,PV,Danzi 2,,37.01813861865892
+CAR,CAR,PlantAnnualLCOE,2040,PV,Solar,PV,Generic_PV_CAF,,37.0181386186589
+CAR,CAR,PlantAnnualLCOE,2040,PV,Solar,PV,Danzi,,10.566783976754204
+CAR,CAR,PlantAnnualLCOE,2040,PV,Solar,PV,Sakai,,10.566783976754198
+CAR,CAR,PlantAnnualLCOE,2040,PV,Solar,PV,PV_CAF_2030,,37.0181386186589
+CAR,CAR,PlantAnnualLCOE,2040,Storage,Battery,Battery,Generic_BESS_CAF,,47.63829920796684
+CAR,CAR,UtilizationPlant,2025,ICE,Diesel,ICE-Diesel,Bangui Enerca,,0.1092359040957506
+CAR,CAR,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Boali 2,,0.429774147447364
+CAR,CAR,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Boali 1 Rebuild,,0.5226789443463619
+CAR,CAR,UtilizationPlant,2025,PV,Solar,PV,Danzi,,0.155796443592119
+CAR,CAR,UtilizationPlant,2025,PV,Solar,PV,Sakai,,0.1547056671172618
+CAR,CAR,UtilizationPlant,2040,ICE,Diesel,ICE-Diesel,Bangui Enerca,,0.0041053689543106
+CAR,CAR,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Dimoli (CAR),,0.6055585124712328
+CAR,CAR,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Boali 2,,0.9041228960328764
+CAR,CAR,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Kotto,,0.496299021775342
+CAR,CAR,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Boali 1 Rebuild,,0.9158082191780822
+CAR,CAR,UtilizationPlant,2040,PV,Solar,PV,Danzi 2,,0.1620482420091324
+CAR,CAR,UtilizationPlant,2040,PV,Solar,PV,Generic_PV_CAF,,0.1620482420091324
+CAR,CAR,UtilizationPlant,2040,PV,Solar,PV,Danzi,,0.1620482420091324
+CAR,CAR,UtilizationPlant,2040,PV,Solar,PV,Sakai,,0.1620482420091324
+CAR,CAR,UtilizationPlant,2040,PV,Solar,PV,PV_CAF_2030,,0.1620482420091324
+CAR,CAR,UtilizationPlant,2040,Storage,Battery,Battery,Generic_BESS_CAF,,0.0498528173797058
+Congo,Congo,CapacityPlant,2025,OCGT,Gas,GT-Gas,CEC (Cote Mateve),,484.0
+Congo,Congo,CapacityPlant,2025,OCGT,Gas,GT-Gas,Djeno,,50.0
+Congo,Congo,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Pointe Noire,,26.0
+Congo,Congo,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,CTB (Mpila),,21.0
+Congo,Congo,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Ouesso,,6.0
+Congo,Congo,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Oyo,,5.0
+Congo,Congo,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Dolisie,,2.0
+Congo,Congo,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Madingou,,2.0
+Congo,Congo,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Sibiti,,2.0
+Congo,Congo,CapacityPlant,2025,BiomassPlant,Biomass,Biomass,Nkayi Mill,,6.0
+Congo,Congo,CapacityPlant,2025,BiomassPlant,Biomass,Biomass,Ouesso Biomass,,2.5
+Congo,Congo,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Imboulou,,120.0
+Congo,Congo,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Moukouloukou,,74.0
+Congo,Congo,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Liouesso,,20.0
+Congo,Congo,CapacityPlant,2040,BiomassPlant,Biomass,Biomass,Nkayi Mill,,6.0
+Congo,Congo,CapacityPlant,2040,BiomassPlant,Biomass,Biomass,Ouesso Biomass,,2.5
+Congo,Congo,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Imboulou,,120.0
+Congo,Congo,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Moukouloukou,,74.0
+Congo,Congo,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Liouesso,,20.0
+Congo,Congo,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Kouembali,,150.0
+Congo,Congo,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Mourala,,101.0
+Congo,Congo,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Mpoukou,,180.0
+Congo,Congo,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Nyanga,,230.0
+Congo,Congo,CapacityPlant,2040,PV,Solar,PV,Brazzaville Solar,,55.0
+Congo,Congo,CapacityPlant,2040,PV,Solar,PV,Generic_PV_Congo,,675.0
+Congo,Congo,CostsPlant,2025,OCGT,Gas,GT-Gas,CEC (Cote Mateve),Fixed O&M: $m,9.68
+Congo,Congo,CostsPlant,2025,OCGT,Gas,GT-Gas,CEC (Cote Mateve),Variable Cost: $m,146.4170012369586
+Congo,Congo,CostsPlant,2025,OCGT,Gas,GT-Gas,Djeno,Fixed O&M: $m,1.0
+Congo,Congo,CostsPlant,2025,OCGT,Gas,GT-Gas,Djeno,Variable Cost: $m,12.137309731178805
+Congo,Congo,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Pointe Noire,Fixed O&M: $m,0.936
+Congo,Congo,CostsPlant,2025,ICE,Diesel,ICE-Diesel,CTB (Mpila),Fixed O&M: $m,0.756
+Congo,Congo,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Ouesso,Fixed O&M: $m,0.216
+Congo,Congo,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Oyo,Fixed O&M: $m,0.18
+Congo,Congo,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Dolisie,Fixed O&M: $m,0.072
+Congo,Congo,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Madingou,Fixed O&M: $m,0.072
+Congo,Congo,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Sibiti,Fixed O&M: $m,0.072
+Congo,Congo,CostsPlant,2025,BiomassPlant,Biomass,Biomass,Nkayi Mill,Fixed O&M: $m,0.6
+Congo,Congo,CostsPlant,2025,BiomassPlant,Biomass,Biomass,Nkayi Mill,Variable Cost: $m,0.1116899999999999
+Congo,Congo,CostsPlant,2025,BiomassPlant,Biomass,Biomass,Ouesso Biomass,Fixed O&M: $m,0.25
+Congo,Congo,CostsPlant,2025,BiomassPlant,Biomass,Biomass,Ouesso Biomass,Variable Cost: $m,0.0465374999999999
+Congo,Congo,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Imboulou,Fixed O&M: $m,6.0
+Congo,Congo,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Imboulou,Variable Cost: $m,0.2461145141548799
+Congo,Congo,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Moukouloukou,Fixed O&M: $m,3.7
+Congo,Congo,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Moukouloukou,Variable Cost: $m,0.187645309687392
+Congo,Congo,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Liouesso,Fixed O&M: $m,1.0
+Congo,Congo,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Liouesso,Variable Cost: $m,0.03865316569248
+Congo,Congo,CostsPlant,2040,BiomassPlant,Biomass,Biomass,Nkayi Mill,Fixed O&M: $m,0.6
+Congo,Congo,CostsPlant,2040,BiomassPlant,Biomass,Biomass,Nkayi Mill,Variable Cost: $m,0.11169
+Congo,Congo,CostsPlant,2040,BiomassPlant,Biomass,Biomass,Ouesso Biomass,Fixed O&M: $m,0.25
+Congo,Congo,CostsPlant,2040,BiomassPlant,Biomass,Biomass,Ouesso Biomass,Variable Cost: $m,0.0465374999999999
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Imboulou,Fixed O&M: $m,6.0
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Imboulou,Variable Cost: $m,0.24611451415488
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Moukouloukou,Fixed O&M: $m,3.7
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Moukouloukou,Variable Cost: $m,0.187645309687392
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Liouesso,Fixed O&M: $m,1.0
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Liouesso,Variable Cost: $m,0.03865316569248
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kouembali,Investment costs: $m,19.033285912159855
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kouembali,Fixed O&M: $m,7.5
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kouembali,Variable Cost: $m,0.3081826284623999
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Mourala,Investment costs: $m,16.01968230940121
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Mourala,Fixed O&M: $m,5.05
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Mourala,Variable Cost: $m,0.2340690582490079
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Mpoukou,Investment costs: $m,19.41395163040305
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Mpoukou,Fixed O&M: $m,9.0
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Mpoukou,Variable Cost: $m,0.41812169123232
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Nyanga,Investment costs: $m,23.347497385582756
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Nyanga,Fixed O&M: $m,11.5
+Congo,Congo,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Nyanga,Variable Cost: $m,0.4995063769756798
+Congo,Congo,CostsPlant,2040,PV,Solar,PV,Brazzaville Solar,Investment costs: $m,2.065185360804032
+Congo,Congo,CostsPlant,2040,PV,Solar,PV,Brazzaville Solar,Fixed O&M: $m,0.825
+Congo,Congo,CostsPlant,2040,PV,Solar,PV,Generic_PV_Congo,Investment costs: $m,25.34545670077675
+Congo,Congo,CostsPlant,2040,PV,Solar,PV,Generic_PV_Congo,Fixed O&M: $m,10.125
+Congo,Congo,EnergyPlant,2025,OCGT,Gas,GT-Gas,CEC (Cote Mateve),,1764.8855585838369
+Congo,Congo,EnergyPlant,2025,OCGT,Gas,GT-Gas,Djeno,,146.30106124048564
+Congo,Congo,EnergyPlant,2025,BiomassPlant,Biomass,Biomass,Nkayi Mill,,44.676
+Congo,Congo,EnergyPlant,2025,BiomassPlant,Biomass,Biomass,Ouesso Biomass,,18.615
+Congo,Congo,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Imboulou,,492.22902830976
+Congo,Congo,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Moukouloukou,,375.290619374784
+Congo,Congo,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Liouesso,,77.30633138496005
+Congo,Congo,EnergyPlant,2040,BiomassPlant,Biomass,Biomass,Nkayi Mill,,44.676
+Congo,Congo,EnergyPlant,2040,BiomassPlant,Biomass,Biomass,Ouesso Biomass,,18.615
+Congo,Congo,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Imboulou,,492.22902830976005
+Congo,Congo,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Moukouloukou,,375.290619374784
+Congo,Congo,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Liouesso,,77.30633138496
+Congo,Congo,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Kouembali,,616.3652569248
+Congo,Congo,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Mourala,,468.138116498016
+Congo,Congo,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Mpoukou,,836.2433824646403
+Congo,Congo,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Nyanga,,999.0127539513596
+Congo,Congo,EnergyPlant,2040,PV,Solar,PV,Brazzaville Solar,,81.77819099999999
+Congo,Congo,EnergyPlant,2040,PV,Solar,PV,Generic_PV_Congo,,1003.641435
+Congo,Congo,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Kouembali,,150.0
+Congo,Congo,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Mourala,,101.0
+Congo,Congo,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Mpoukou,,180.0
+Congo,Congo,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Nyanga,,230.0
+Congo,Congo,NewCapacityPlant,2040,PV,Solar,PV,Brazzaville Solar,,55.0
+Congo,Congo,NewCapacityPlant,2040,PV,Solar,PV,Generic_PV_Congo,,675.0
+Congo,Congo,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,CEC (Cote Mateve),,88.44596210658132
+Congo,Congo,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,Djeno,,89.79640762539691
+Congo,Congo,PlantAnnualLCOE,2025,BiomassPlant,Biomass,Biomass,Nkayi Mill,,15.930029546065
+Congo,Congo,PlantAnnualLCOE,2025,BiomassPlant,Biomass,Biomass,Ouesso Biomass,,15.930029546065
+Congo,Congo,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Imboulou,,12.689447706087332
+Congo,Congo,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Moukouloukou,,10.359026069353988
+Congo,Congo,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Liouesso,,13.43555110021105
+Congo,Congo,PlantAnnualLCOE,2040,BiomassPlant,Biomass,Biomass,Nkayi Mill,,15.930029546065
+Congo,Congo,PlantAnnualLCOE,2040,BiomassPlant,Biomass,Biomass,Ouesso Biomass,,15.930029546065
+Congo,Congo,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Imboulou,,12.68944770608733
+Congo,Congo,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Moukouloukou,,10.359026069353988
+Congo,Congo,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Liouesso,,13.435551100211056
+Congo,Congo,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Kouembali,,43.54799080425305
+Congo,Congo,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Mourala,,45.50740607711337
+Congo,Congo,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Mpoukou,,34.47808846828693
+Congo,Congo,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Nyanga,,35.38193443752513
+Congo,Congo,PlantAnnualLCOE,2040,PV,Solar,PV,Brazzaville Solar,,35.34176197177108
+Congo,Congo,PlantAnnualLCOE,2040,PV,Solar,PV,Generic_PV_Congo,,35.34176197177107
+Congo,Congo,UtilizationPlant,2025,OCGT,Gas,GT-Gas,CEC (Cote Mateve),,0.4162623020170187
+Congo,Congo,UtilizationPlant,2025,OCGT,Gas,GT-Gas,Djeno,,0.3340206877636658
+Congo,Congo,UtilizationPlant,2025,BiomassPlant,Biomass,Biomass,Nkayi Mill,,0.85
+Congo,Congo,UtilizationPlant,2025,BiomassPlant,Biomass,Biomass,Ouesso Biomass,,0.85
+Congo,Congo,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Imboulou,,0.4682544028821916
+Congo,Congo,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Moukouloukou,,0.5789377689972603
+Congo,Congo,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Liouesso,,0.4412461837041098
+Congo,Congo,UtilizationPlant,2040,BiomassPlant,Biomass,Biomass,Nkayi Mill,,0.85
+Congo,Congo,UtilizationPlant,2040,BiomassPlant,Biomass,Biomass,Ouesso Biomass,,0.85
+Congo,Congo,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Imboulou,,0.4682544028821918
+Congo,Congo,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Moukouloukou,,0.5789377689972603
+Congo,Congo,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Liouesso,,0.4412461837041097
+Congo,Congo,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Kouembali,,0.4690755379945205
+Congo,Congo,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Mourala,,0.5291131114630137
+Congo,Congo,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Mpoukou,,0.5303420741150686
+Congo,Congo,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Nyanga,,0.4958371818301368
+Congo,Congo,UtilizationPlant,2040,PV,Solar,PV,Brazzaville Solar,,0.1697347260273972
+Congo,Congo,UtilizationPlant,2040,PV,Solar,PV,Generic_PV_Congo,,0.1697347260273972
+DRC,DRC,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Mbandaka,,5.0
+DRC,DRC,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Inga 2,,800.0
+DRC,DRC,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Inga 1,,306.0
+DRC,DRC,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Nzongoii,,150.0
+DRC,DRC,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Nzongo,,75.0
+DRC,DRC,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Zongo 2,,74.0
+DRC,DRC,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Soleniama,,25.5
+DRC,DRC,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Zongo 1,,13.0
+DRC,DRC,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Mobayi,,10.0
+DRC,DRC,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Sanga,,6.0
+DRC,DRC,CapacityPlant,2040,ICE,Diesel,ICE-Diesel,Mbandaka,,5.0
+DRC,DRC,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Inga 2,,800.0
+DRC,DRC,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Inga 1,,306.0
+DRC,DRC,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Nzongoii,,150.0
+DRC,DRC,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Nzongo,,75.0
+DRC,DRC,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Zongo 2,,74.0
+DRC,DRC,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Soleniama,,25.5
+DRC,DRC,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Inga 3,,1405.5379769204033
+DRC,DRC,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Zongo 1,,13.0
+DRC,DRC,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Mobayi,,10.0
+DRC,DRC,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Sanga,,6.0
+DRC,DRC,CapacityPlant,2040,Storage,Battery,Battery,Generic_BESS_DRC,,6.052428785878874
+DRC,DRC,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Mbandaka,Fixed O&M: $m,0.18
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Inga 2,Fixed O&M: $m,40.0
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Inga 2,Variable Cost: $m,3.363882454938147
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Inga 1,Fixed O&M: $m,15.3
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Inga 1,Variable Cost: $m,1.1269472910949438
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Nzongoii,Fixed O&M: $m,7.5
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Nzongoii,Variable Cost: $m,0.3780797142311999
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Nzongo,Fixed O&M: $m,3.75
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Nzongo,Variable Cost: $m,0.1890398571156
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Zongo 2,Fixed O&M: $m,3.7
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Zongo 2,Variable Cost: $m,0.2631291153747839
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Soleniama,Fixed O&M: $m,1.275
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Soleniama,Variable Cost: $m,0.0642735514193039
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Zongo 1,Fixed O&M: $m,0.65
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Zongo 1,Variable Cost: $m,0.0113275165667039
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Mobayi,Fixed O&M: $m,0.5
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Mobayi,Variable Cost: $m,0.02520531428208
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Sanga,Fixed O&M: $m,0.3
+DRC,DRC,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Sanga,Variable Cost: $m,0.0155660914307519
+DRC,DRC,CostsPlant,2040,ICE,Diesel,ICE-Diesel,Mbandaka,Fixed O&M: $m,0.18
+DRC,DRC,CostsPlant,2040,ICE,Diesel,ICE-Diesel,Mbandaka,Variable Cost: $m,0.019567037673
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Inga 2,Fixed O&M: $m,40.0
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Inga 2,Variable Cost: $m,3.3663885971327683
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Inga 1,Fixed O&M: $m,15.3
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Inga 1,Variable Cost: $m,1.1269472910949443
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Nzongoii,Fixed O&M: $m,7.5
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Nzongoii,Variable Cost: $m,0.3780797142311999
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Nzongo,Fixed O&M: $m,3.75
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Nzongo,Variable Cost: $m,0.1890398571156
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Zongo 2,Fixed O&M: $m,3.7
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Zongo 2,Variable Cost: $m,0.2631291153747838
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Soleniama,Fixed O&M: $m,1.275
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Soleniama,Variable Cost: $m,0.0642735514193039
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Inga 3,Investment costs: $m,294.27206792637253
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Inga 3,Fixed O&M: $m,70.27689884602016
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Inga 3,Variable Cost: $m,6.006636421218334
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Zongo 1,Fixed O&M: $m,0.65
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Zongo 1,Variable Cost: $m,0.0113275165667039
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Mobayi,Fixed O&M: $m,0.5
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Mobayi,Variable Cost: $m,0.0252053142820799
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Sanga,Fixed O&M: $m,0.3
+DRC,DRC,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Sanga,Variable Cost: $m,0.015566091430752
+DRC,DRC,CostsPlant,2040,Storage,Battery,Battery,Generic_BESS_DRC,Investment costs: $m,0.1373660354356244
+DRC,DRC,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Inga 2,,6727.764909876295
+DRC,DRC,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Inga 1,,2253.894582189888
+DRC,DRC,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Nzongoii,,756.1594284623999
+DRC,DRC,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Nzongo,,378.07971423120006
+DRC,DRC,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Zongo 2,,526.2582307495678
+DRC,DRC,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Soleniama,,128.5471028386079
+DRC,DRC,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Zongo 1,,22.655033133408
+DRC,DRC,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Mobayi,,50.410628564160014
+DRC,DRC,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Sanga,,31.132182861504
+DRC,DRC,EnergyPlant,2040,ICE,Diesel,ICE-Diesel,Mbandaka,,0.09
+DRC,DRC,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Inga 2,,6732.777194265537
+DRC,DRC,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Inga 1,,2253.8945821898888
+DRC,DRC,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Nzongoii,,756.1594284623999
+DRC,DRC,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Nzongo,,378.07971423120006
+DRC,DRC,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Zongo 2,,526.2582307495677
+DRC,DRC,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Soleniama,,128.54710283860797
+DRC,DRC,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Inga 3,,12013.27284243667
+DRC,DRC,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Zongo 1,,22.65503313340799
+DRC,DRC,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Mobayi,,50.410628564159985
+DRC,DRC,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Sanga,,31.13218286150401
+DRC,DRC,EnergyPlant,2040,Storage,Battery,Battery,Generic_BESS_DRC,,5.235350899785226
+DRC,DRC,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Inga 3,,1405.5379769204033
+DRC,DRC,NewCapacityPlant,2040,Storage,Battery,Battery,Generic_BESS_DRC,,6.052428785878874
+DRC,DRC,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Inga 2,,6.445510958814922
+DRC,DRC,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Inga 1,,7.28825004545443
+DRC,DRC,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Nzongoii,,10.418543256480651
+DRC,DRC,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Nzongo,,10.418543256480648
+DRC,DRC,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Zongo 2,,7.530768895965696
+DRC,DRC,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Soleniama,,10.418543256480657
+DRC,DRC,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Zongo 1,,29.191196175806272
+DRC,DRC,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Mobayi,,10.418543256480648
+DRC,DRC,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Sanga,,10.13633039593122
+DRC,DRC,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Inga 2,,6.4410847627735155
+DRC,DRC,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Inga 1,,7.2882500454544275
+DRC,DRC,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Nzongoii,,10.418543256480651
+DRC,DRC,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Nzongo,,10.418543256480648
+DRC,DRC,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Zongo 2,,7.530768895965697
+DRC,DRC,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Soleniama,,10.418543256480651
+DRC,DRC,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Inga 3,,30.845516292998024
+DRC,DRC,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Zongo 1,,29.191196175806283
+DRC,DRC,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Mobayi,,10.418543256480651
+DRC,DRC,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Sanga,,10.136330395931216
+DRC,DRC,PlantAnnualLCOE,2040,Storage,Battery,Battery,Generic_BESS_DRC,,26.23817162690274
+DRC,DRC,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Inga 2,,0.960012116135316
+DRC,DRC,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Inga 1,,0.8408297453479451
+DRC,DRC,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Nzongoii,,0.5754637963945204
+DRC,DRC,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Nzongo,,0.5754637963945206
+DRC,DRC,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Zongo 2,,0.8118262229260271
+DRC,DRC,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Soleniama,,0.5754637963945202
+DRC,DRC,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Zongo 1,,0.1989377689972602
+DRC,DRC,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Mobayi,,0.5754637963945207
+DRC,DRC,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Sanga,,0.5923170255232876
+DRC,DRC,UtilizationPlant,2040,ICE,Diesel,ICE-Diesel,Mbandaka,,0.0020547945205479
+DRC,DRC,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Inga 2,,0.9607273393643744
+DRC,DRC,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Inga 1,,0.8408297453479454
+DRC,DRC,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Nzongoii,,0.5754637963945204
+DRC,DRC,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Nzongo,,0.5754637963945206
+DRC,DRC,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Zongo 2,,0.811826222926027
+DRC,DRC,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Soleniama,,0.5754637963945203
+DRC,DRC,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Inga 3,,0.9756962820493128
+DRC,DRC,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Zongo 1,,0.1989377689972601
+DRC,DRC,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Mobayi,,0.5754637963945203
+DRC,DRC,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Sanga,,0.5923170255232878
+DRC,DRC,UtilizationPlant,2040,Storage,Battery,Battery,Generic_BESS_DRC,,0.0987442922374429
+DRC,DRC_South,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Nseke,,250.0
+DRC,DRC_South,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Bousanga,,240.0
+DRC,DRC_South,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Nzilo,,110.0
+DRC,DRC_South,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Koni,,42.0
+DRC,DRC_South,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Kilubi,,8.0
+DRC,DRC_South,CapacityPlant,2025,PV,Solar,PV,Lubumbashi,,100.0
+DRC,DRC_South,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Nseke,,250.0
+DRC,DRC_South,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Bousanga,,240.0
+DRC,DRC_South,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Nzilo,,110.0
+DRC,DRC_South,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Koni,,42.0
+DRC,DRC_South,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Kilubi,,8.0
+DRC,DRC_South,CapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Generic_OnshoreWind_DRCSouth,,540.0
+DRC,DRC_South,CapacityPlant,2040,PV,Solar,PV,Generic_PV_DRCSouth,,1110.0
+DRC,DRC_South,CapacityPlant,2040,PV,Solar,PV,Lubumbashi,,100.0
+DRC,DRC_South,CapacityPlant,2040,Storage,Battery,Battery,Generic_BESS_DRCSouth,,442.17005924523255
+DRC,DRC_South,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Nseke,Fixed O&M: $m,12.5
+DRC,DRC_South,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Nseke,Variable Cost: $m,1.001322857052001
+DRC,DRC_South,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Bousanga,Fixed O&M: $m,12.0
+DRC,DRC_South,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Bousanga,Variable Cost: $m,0.6049275427699198
+DRC,DRC_South,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Nzilo,Fixed O&M: $m,5.5
+DRC,DRC_South,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Nzilo,Variable Cost: $m,0.27483908579424
+DRC,DRC_South,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Koni,Fixed O&M: $m,2.1
+DRC,DRC_South,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Koni,Variable Cost: $m,0.090285120045792
+DRC,DRC_South,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Kilubi,Fixed O&M: $m,0.3999999999999999
+DRC,DRC_South,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Kilubi,Variable Cost: $m,0.0201642514256639
+DRC,DRC_South,CostsPlant,2025,PV,Solar,PV,Lubumbashi,Investment costs: $m,5.632323711283725
+DRC,DRC_South,CostsPlant,2025,PV,Solar,PV,Lubumbashi,Fixed O&M: $m,1.5
+DRC,DRC_South,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Nseke,Fixed O&M: $m,12.5
+DRC,DRC_South,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Nseke,Variable Cost: $m,1.001322857052
+DRC,DRC_South,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Bousanga,Fixed O&M: $m,12.0
+DRC,DRC_South,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Bousanga,Variable Cost: $m,0.6049275427699208
+DRC,DRC_South,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Nzilo,Fixed O&M: $m,5.5
+DRC,DRC_South,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Nzilo,Variable Cost: $m,0.2748390857942401
+DRC,DRC_South,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Koni,Fixed O&M: $m,2.1
+DRC,DRC_South,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Koni,Variable Cost: $m,0.090285120045792
+DRC,DRC_South,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kilubi,Fixed O&M: $m,0.3999999999999999
+DRC,DRC_South,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kilubi,Variable Cost: $m,0.020164251425664
+DRC,DRC_South,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Generic_OnshoreWind_DRCSouth,Investment costs: $m,35.189679747549064
+DRC,DRC_South,CostsPlant,2040,OnshoreWind,Wind,Onshore Wind,Generic_OnshoreWind_DRCSouth,Fixed O&M: $m,21.6
+DRC,DRC_South,CostsPlant,2040,PV,Solar,PV,Generic_PV_DRCSouth,Investment costs: $m,41.67919546349955
+DRC,DRC_South,CostsPlant,2040,PV,Solar,PV,Generic_PV_DRCSouth,Fixed O&M: $m,16.65
+DRC,DRC_South,CostsPlant,2040,PV,Solar,PV,Lubumbashi,Investment costs: $m,5.632323711283725
+DRC,DRC_South,CostsPlant,2040,PV,Solar,PV,Lubumbashi,Fixed O&M: $m,1.5
+DRC,DRC_South,CostsPlant,2040,Storage,Battery,Battery,Generic_BESS_DRCSouth,Investment costs: $m,8.194820846848938
+DRC,DRC_South,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Nseke,,2002.645714104002
+DRC,DRC_South,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Bousanga,,1209.8550855398398
+DRC,DRC_South,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Nzilo,,549.67817158848
+DRC,DRC_South,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Koni,,180.57024009158405
+DRC,DRC_South,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Kilubi,,40.328502851328
+DRC,DRC_South,EnergyPlant,2025,PV,Solar,PV,Lubumbashi,,168.75715
+DRC,DRC_South,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Nseke,,2002.645714104
+DRC,DRC_South,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Bousanga,,1209.8550855398416
+DRC,DRC_South,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Nzilo,,549.6781715884803
+DRC,DRC_South,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Koni,,180.57024009158405
+DRC,DRC_South,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Kilubi,,40.328502851328
+DRC,DRC_South,EnergyPlant,2040,OnshoreWind,Wind,Onshore Wind,Generic_OnshoreWind_DRCSouth,,1853.6463900000008
+DRC,DRC_South,EnergyPlant,2040,PV,Solar,PV,Generic_PV_DRCSouth,,1873.2043650000005
+DRC,DRC_South,EnergyPlant,2040,PV,Solar,PV,Lubumbashi,,168.75715
+DRC,DRC_South,EnergyPlant,2040,Storage,Battery,Battery,Generic_BESS_DRCSouth,,337.72165862683994
+DRC,DRC_South,NewCapacityPlant,2025,PV,Solar,PV,Lubumbashi,,100.0
+DRC,DRC_South,NewCapacityPlant,2040,OnshoreWind,Wind,Onshore Wind,Generic_OnshoreWind_DRCSouth,,540.0
+DRC,DRC_South,NewCapacityPlant,2040,PV,Solar,PV,Generic_PV_DRCSouth,,1110.0
+DRC,DRC_South,NewCapacityPlant,2040,Storage,Battery,Battery,Generic_BESS_DRCSouth,,442.17005924523255
+DRC,DRC_South,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Nseke,,6.741743066168141
+DRC,DRC_South,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Bousanga,,10.418543256480651
+DRC,DRC_South,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Nzilo,,10.505854851586884
+DRC,DRC_South,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Koni,,12.129823380280683
+DRC,DRC_South,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Kilubi,,10.41854325648065
+DRC,DRC_South,PlantAnnualLCOE,2025,PV,Solar,PV,Lubumbashi,,42.26383125860875
+DRC,DRC_South,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Nseke,,6.741743066168146
+DRC,DRC_South,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Bousanga,,10.41854325648064
+DRC,DRC_South,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Nzilo,,10.50585485158688
+DRC,DRC_South,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Koni,,12.129823380280683
+DRC,DRC_South,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Kilubi,,10.418543256480648
+DRC,DRC_South,PlantAnnualLCOE,2040,OnshoreWind,Wind,Onshore Wind,Generic_OnshoreWind_DRCSouth,,30.636738513837603
+DRC,DRC_South,PlantAnnualLCOE,2040,PV,Solar,PV,Generic_PV_DRCSouth,,31.138724932183013
+DRC,DRC_South,PlantAnnualLCOE,2040,PV,Solar,PV,Lubumbashi,,42.26383125860875
+DRC,DRC_South,PlantAnnualLCOE,2040,Storage,Battery,Battery,Generic_BESS_DRCSouth,,24.265014213683205
+DRC,DRC_South,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Nseke,,0.9144500977643844
+DRC,DRC_South,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Bousanga,,0.5754637963945204
+DRC,DRC_South,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Nzilo,,0.5704422702246575
+DRC,DRC_South,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Koni,,0.4907866930082192
+DRC,DRC_South,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Kilubi,,0.5754637963945205
+DRC,DRC_South,UtilizationPlant,2025,PV,Solar,PV,Lubumbashi,,0.1926451484018264
+DRC,DRC_South,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Nseke,,0.9144500977643836
+DRC,DRC_South,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Bousanga,,0.5754637963945213
+DRC,DRC_South,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Nzilo,,0.5704422702246578
+DRC,DRC_South,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Koni,,0.4907866930082192
+DRC,DRC_South,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Kilubi,,0.5754637963945206
+DRC,DRC_South,UtilizationPlant,2040,OnshoreWind,Wind,Onshore Wind,Generic_OnshoreWind_DRCSouth,,0.3918582762557078
+DRC,DRC_South,UtilizationPlant,2040,PV,Solar,PV,Generic_PV_DRCSouth,,0.1926451484018265
+DRC,DRC_South,UtilizationPlant,2040,PV,Solar,PV,Lubumbashi,,0.1926451484018264
+DRC,DRC_South,UtilizationPlant,2040,Storage,Battery,Battery,Generic_BESS_DRCSouth,,0.0871897586695412
+Gabon,Gabon,CapacityPlant,2025,OCGT,Gas,GT-Gas,Owendo Gas,,165.0
+Gabon,Gabon,CapacityPlant,2025,OCGT,Gas,GT-Gas,Port Gentil Perenco,,62.0
+Gabon,Gabon,CapacityPlant,2025,OCGT,Gas,GT-Gas,Cap Lopez,,52.5
+Gabon,Gabon,CapacityPlant,2025,OCGT,Gas,GT-Gas,Alenakiri,,48.0
+Gabon,Gabon,CapacityPlant,2025,OCGT,Gas,GT-Gas,Rabi Kounga Field,,15.51
+Gabon,Gabon,CapacityPlant,2025,OCGT,Gas,GT-Gas,Gamba,,3.4
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Owendoc,,66.2
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Owendo,,44.0
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Oyem,,6.5
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Lambarene,,5.9
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Koula-Moutou,,4.73
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Makokou,,3.57
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Mouila,,3.26
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Moanda Comilog,,2.81
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Bitam,,2.34
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Tchibanga,,1.6
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Ndjole,,1.49
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Lastourville,,1.05
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Mitzic,,1.03
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Mayumba,,0.9
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Mandji,,0.76
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Mekambo,,0.76
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Akok,,0.69
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Moabi,,0.67
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Omboue,,0.49
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Bifoun,,0.48
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Minvoul,,0.46
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Mimongo,,0.28
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Ndindi,,0.26
+Gabon,Gabon,CapacityPlant,2025,ICE,Diesel,ICE-Diesel,Fougamou,,0.24
+Gabon,Gabon,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Grand Poubara,,160.0
+Gabon,Gabon,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Tchimbele,,68.0
+Gabon,Gabon,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Kinguele,,57.0
+Gabon,Gabon,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Poubara,,38.0
+Gabon,Gabon,CapacityPlant,2025,ReservoirHydro,Water,Reservoir,Bongolo,,6.0
+Gabon,Gabon,CapacityPlant,2025,ROR,Water,ROR,FE-2 (Kinguele Aval),,34.3
+Gabon,Gabon,CapacityPlant,2025,PV,Solar,PV,Ayeme I,,30.0
+Gabon,Gabon,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Grand Poubara,,160.0
+Gabon,Gabon,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Booue,,411.0
+Gabon,Gabon,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Tchimbele,,68.0
+Gabon,Gabon,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Kinguele,,57.0
+Gabon,Gabon,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Chute de Tsamba,,90.0
+Gabon,Gabon,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Poubara,,38.0
+Gabon,Gabon,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Kongue,,104.0
+Gabon,Gabon,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Kouata Mango,,70.0
+Gabon,Gabon,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Lifouta,,105.0
+Gabon,Gabon,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Mitoungou,,410.0
+Gabon,Gabon,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Bongolo,,6.0
+Gabon,Gabon,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Ngoulmendjim,,88.0
+Gabon,Gabon,CapacityPlant,2040,ReservoirHydro,Water,Reservoir,Tsengue Leledi,,300.0
+Gabon,Gabon,CapacityPlant,2040,ROR,Water,ROR,FE-2 (Kinguele Aval),,34.3
+Gabon,Gabon,CapacityPlant,2040,PV,Solar,PV,Doubou,,20.0
+Gabon,Gabon,CapacityPlant,2040,PV,Solar,PV,Ayeme I,,30.0
+Gabon,Gabon,CapacityPlant,2040,PV,Solar,PV,Generic_PV_Gabon,,675.0
+Gabon,Gabon,CapacityPlant,2040,PV,Solar,PV,Oyem PV,,50.0
+Gabon,Gabon,CostsPlant,2025,OCGT,Gas,GT-Gas,Owendo Gas,Fixed O&M: $m,3.3
+Gabon,Gabon,CostsPlant,2025,OCGT,Gas,GT-Gas,Owendo Gas,Variable Cost: $m,87.86422224233962
+Gabon,Gabon,CostsPlant,2025,OCGT,Gas,GT-Gas,Port Gentil Perenco,Fixed O&M: $m,1.24
+Gabon,Gabon,CostsPlant,2025,OCGT,Gas,GT-Gas,Port Gentil Perenco,Variable Cost: $m,31.261076114142114
+Gabon,Gabon,CostsPlant,2025,OCGT,Gas,GT-Gas,Cap Lopez,Fixed O&M: $m,1.05
+Gabon,Gabon,CostsPlant,2025,OCGT,Gas,GT-Gas,Cap Lopez,Variable Cost: $m,32.04009922600033
+Gabon,Gabon,CostsPlant,2025,OCGT,Gas,GT-Gas,Alenakiri,Fixed O&M: $m,0.96
+Gabon,Gabon,CostsPlant,2025,OCGT,Gas,GT-Gas,Alenakiri,Variable Cost: $m,28.162008574967953
+Gabon,Gabon,CostsPlant,2025,OCGT,Gas,GT-Gas,Rabi Kounga Field,Fixed O&M: $m,0.3102
+Gabon,Gabon,CostsPlant,2025,OCGT,Gas,GT-Gas,Rabi Kounga Field,Variable Cost: $m,9.038587481814824
+Gabon,Gabon,CostsPlant,2025,OCGT,Gas,GT-Gas,Gamba,Fixed O&M: $m,0.0679999999999999
+Gabon,Gabon,CostsPlant,2025,OCGT,Gas,GT-Gas,Gamba,Variable Cost: $m,1.8741595852194697
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Owendoc,Fixed O&M: $m,2.3832
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Owendo,Fixed O&M: $m,1.584
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Oyem,Fixed O&M: $m,0.2339999999999999
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Lambarene,Fixed O&M: $m,0.2123999999999999
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Koula-Moutou,Fixed O&M: $m,0.17028
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Makokou,Fixed O&M: $m,0.12852
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Mouila,Fixed O&M: $m,0.1173599999999999
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Moanda Comilog,Fixed O&M: $m,0.10116
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Bitam,Fixed O&M: $m,0.08424
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Tchibanga,Fixed O&M: $m,0.0576
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Ndjole,Fixed O&M: $m,0.05364
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Lastourville,Fixed O&M: $m,0.0378
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Mitzic,Fixed O&M: $m,0.0370799999999999
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Mayumba,Fixed O&M: $m,0.0324
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Mandji,Fixed O&M: $m,0.02736
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Mekambo,Fixed O&M: $m,0.02736
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Akok,Fixed O&M: $m,0.0248399999999999
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Moabi,Fixed O&M: $m,0.02412
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Omboue,Fixed O&M: $m,0.01764
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Bifoun,Fixed O&M: $m,0.01728
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Minvoul,Fixed O&M: $m,0.01656
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Mimongo,Fixed O&M: $m,0.01008
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Ndindi,Fixed O&M: $m,0.00936
+Gabon,Gabon,CostsPlant,2025,ICE,Diesel,ICE-Diesel,Fougamou,Fixed O&M: $m,0.00864
+Gabon,Gabon,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Grand Poubara,Fixed O&M: $m,8.0
+Gabon,Gabon,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Grand Poubara,Variable Cost: $m,0.28317915446016
+Gabon,Gabon,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Tchimbele,Fixed O&M: $m,3.4
+Gabon,Gabon,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Tchimbele,Variable Cost: $m,0.113642688
+Gabon,Gabon,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Kinguele,Fixed O&M: $m,2.85
+Gabon,Gabon,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Kinguele,Variable Cost: $m,0.1456865280414308
+Gabon,Gabon,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Poubara,Fixed O&M: $m,1.9
+Gabon,Gabon,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Poubara,Variable Cost: $m,0.0971243520276206
+Gabon,Gabon,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Bongolo,Fixed O&M: $m,0.3
+Gabon,Gabon,CostsPlant,2025,ReservoirHydro,Water,Reservoir,Bongolo,Variable Cost: $m,0.0153354240043611
+Gabon,Gabon,CostsPlant,2025,ROR,Water,ROR,FE-2 (Kinguele Aval),Investment costs: $m,11.419971547124613
+Gabon,Gabon,CostsPlant,2025,ROR,Water,ROR,FE-2 (Kinguele Aval),Fixed O&M: $m,1.372
+Gabon,Gabon,CostsPlant,2025,ROR,Water,ROR,FE-2 (Kinguele Aval),Variable Cost: $m,0.0717931536
+Gabon,Gabon,CostsPlant,2025,PV,Solar,PV,Ayeme I,Fixed O&M: $m,0.4499999999999999
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Grand Poubara,Fixed O&M: $m,8.0
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Grand Poubara,Variable Cost: $m,0.28317915446016
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Booue,Investment costs: $m,59.51074062331791
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Booue,Fixed O&M: $m,20.55
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Booue,Variable Cost: $m,1.0504765442987385
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Tchimbele,Fixed O&M: $m,3.4
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Tchimbele,Variable Cost: $m,0.113642688
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kinguele,Fixed O&M: $m,2.85
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kinguele,Variable Cost: $m,0.1456865280414308
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Chute de Tsamba,Investment costs: $m,15.607294446067751
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Chute de Tsamba,Fixed O&M: $m,4.5
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Chute de Tsamba,Variable Cost: $m,0.2300313600654171
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Poubara,Fixed O&M: $m,1.9
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Poubara,Variable Cost: $m,0.0971243520276205
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kongue,Investment costs: $m,16.495514457205207
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kongue,Fixed O&M: $m,5.2
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kongue,Variable Cost: $m,0.2658140160755932
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kouata Mango,Investment costs: $m,13.894298717780025
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kouata Mango,Fixed O&M: $m,3.5
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Kouata Mango,Variable Cost: $m,0.1789132800508799
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Lifouta,Investment costs: $m,16.5589587454824
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Lifouta,Fixed O&M: $m,5.25
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Lifouta,Variable Cost: $m,0.2860570800763199
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Mitoungou,Investment costs: $m,59.25696346050218
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Mitoungou,Fixed O&M: $m,20.5
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Mitoungou,Variable Cost: $m,1.0479206402980112
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Bongolo,Fixed O&M: $m,0.3
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Bongolo,Variable Cost: $m,0.0153354240043611
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Ngoulmendjim,Investment costs: $m,15.480405876746014
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Ngoulmendjim,Fixed O&M: $m,4.3999999999999995
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Ngoulmendjim,Variable Cost: $m,0.273826230953088
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Tsengue Leledi,Investment costs: $m,33.244806066250305
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Tsengue Leledi,Fixed O&M: $m,15.0
+Gabon,Gabon,CostsPlant,2040,ReservoirHydro,Water,Reservoir,Tsengue Leledi,Variable Cost: $m,0.7667712002180571
+Gabon,Gabon,CostsPlant,2040,ROR,Water,ROR,FE-2 (Kinguele Aval),Investment costs: $m,11.419971547124613
+Gabon,Gabon,CostsPlant,2040,ROR,Water,ROR,FE-2 (Kinguele Aval),Fixed O&M: $m,1.372
+Gabon,Gabon,CostsPlant,2040,ROR,Water,ROR,FE-2 (Kinguele Aval),Variable Cost: $m,0.0717931536
+Gabon,Gabon,CostsPlant,2040,PV,Solar,PV,Doubou,Investment costs: $m,0.7509764948378298
+Gabon,Gabon,CostsPlant,2040,PV,Solar,PV,Doubou,Fixed O&M: $m,0.3
+Gabon,Gabon,CostsPlant,2040,PV,Solar,PV,Ayeme I,Fixed O&M: $m,0.4499999999999999
+Gabon,Gabon,CostsPlant,2040,PV,Solar,PV,Generic_PV_Gabon,Investment costs: $m,25.34545670077675
+Gabon,Gabon,CostsPlant,2040,PV,Solar,PV,Generic_PV_Gabon,Fixed O&M: $m,10.125
+Gabon,Gabon,CostsPlant,2040,PV,Solar,PV,Oyem PV,Investment costs: $m,1.8774412370945743
+Gabon,Gabon,CostsPlant,2040,PV,Solar,PV,Oyem PV,Fixed O&M: $m,0.75
+Gabon,Gabon,EnergyPlant,2025,OCGT,Gas,GT-Gas,Owendo Gas,,1059.100347921639
+Gabon,Gabon,EnergyPlant,2025,OCGT,Gas,GT-Gas,Port Gentil Perenco,,376.8156792826941
+Gabon,Gabon,EnergyPlant,2025,OCGT,Gas,GT-Gas,Cap Lopez,,386.2058909951741
+Gabon,Gabon,EnergyPlant,2025,OCGT,Gas,GT-Gas,Alenakiri,,339.46004777298464
+Gabon,Gabon,EnergyPlant,2025,OCGT,Gas,GT-Gas,Rabi Kounga Field,,108.9495917952525
+Gabon,Gabon,EnergyPlant,2025,OCGT,Gas,GT-Gas,Gamba,,22.59079996510942
+Gabon,Gabon,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Grand Poubara,,566.3583089203202
+Gabon,Gabon,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Tchimbele,,227.2853760000001
+Gabon,Gabon,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Kinguele,,291.37305608286175
+Gabon,Gabon,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Poubara,,194.24870405524123
+Gabon,Gabon,EnergyPlant,2025,ReservoirHydro,Water,Reservoir,Bongolo,,30.670848008722277
+Gabon,Gabon,EnergyPlant,2025,ROR,Water,ROR,FE-2 (Kinguele Aval),,143.58630720000016
+Gabon,Gabon,EnergyPlant,2025,PV,Solar,PV,Ayeme I,,41.35504199999999
+Gabon,Gabon,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Grand Poubara,,566.3583089203202
+Gabon,Gabon,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Booue,,2100.9530885974764
+Gabon,Gabon,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Tchimbele,,227.285376
+Gabon,Gabon,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Kinguele,,291.37305608286175
+Gabon,Gabon,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Chute de Tsamba,,460.0627201308343
+Gabon,Gabon,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Poubara,,194.2487040552412
+Gabon,Gabon,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Kongue,,531.6280321511864
+Gabon,Gabon,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Kouata Mango,,357.82656010176
+Gabon,Gabon,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Lifouta,,572.1141601526399
+Gabon,Gabon,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Mitoungou,,2095.841280596023
+Gabon,Gabon,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Bongolo,,30.670848008722288
+Gabon,Gabon,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Ngoulmendjim,,547.6524619061761
+Gabon,Gabon,EnergyPlant,2040,ReservoirHydro,Water,Reservoir,Tsengue Leledi,,1533.5424004361143
+Gabon,Gabon,EnergyPlant,2040,ROR,Water,ROR,FE-2 (Kinguele Aval),,143.58630720000016
+Gabon,Gabon,EnergyPlant,2040,PV,Solar,PV,Doubou,,27.570028000000004
+Gabon,Gabon,EnergyPlant,2040,PV,Solar,PV,Ayeme I,,41.35504199999999
+Gabon,Gabon,EnergyPlant,2040,PV,Solar,PV,Generic_PV_Gabon,,930.4884449999996
+Gabon,Gabon,EnergyPlant,2040,PV,Solar,PV,Oyem PV,,68.92506999999999
+Gabon,Gabon,NewCapacityPlant,2025,ROR,Water,ROR,FE-2 (Kinguele Aval),,34.3
+Gabon,Gabon,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Booue,,411.0
+Gabon,Gabon,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Chute de Tsamba,,90.0
+Gabon,Gabon,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Kongue,,104.0
+Gabon,Gabon,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Kouata Mango,,70.0
+Gabon,Gabon,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Lifouta,,105.0
+Gabon,Gabon,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Mitoungou,,410.0
+Gabon,Gabon,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Ngoulmendjim,,88.0
+Gabon,Gabon,NewCapacityPlant,2040,ReservoirHydro,Water,Reservoir,Tsengue Leledi,,300.0
+Gabon,Gabon,NewCapacityPlant,2040,PV,Solar,PV,Doubou,,20.0
+Gabon,Gabon,NewCapacityPlant,2040,PV,Solar,PV,Generic_PV_Gabon,,675.0
+Gabon,Gabon,NewCapacityPlant,2040,PV,Solar,PV,Oyem PV,,50.0
+Gabon,Gabon,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,Owendo Gas,,86.07703927322731
+Gabon,Gabon,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,Port Gentil Perenco,,86.25192076935633
+Gabon,Gabon,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,Cap Lopez,,85.679944292755
+Gabon,Gabon,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,Alenakiri,,85.78920779049504
+Gabon,Gabon,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,Rabi Kounga Field,,85.8083754860126
+Gabon,Gabon,PlantAnnualLCOE,2025,OCGT,Gas,GT-Gas,Gamba,,85.97126211639505
+Gabon,Gabon,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Grand Poubara,,14.625333510601864
+Gabon,Gabon,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Tchimbele,,15.459167456510702
+Gabon,Gabon,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Kinguele,,10.28127503728247
+Gabon,Gabon,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Poubara,,10.281275037282464
+Gabon,Gabon,PlantAnnualLCOE,2025,ReservoirHydro,Water,Reservoir,Bongolo,,10.281275037282471
+Gabon,Gabon,PlantAnnualLCOE,2025,ROR,Water,ROR,FE-2 (Kinguele Aval),,89.58907678297474
+Gabon,Gabon,PlantAnnualLCOE,2025,PV,Solar,PV,Ayeme I,,10.88138176718573
+Gabon,Gabon,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Grand Poubara,,14.625333510601864
+Gabon,Gabon,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Booue,,38.6068673345599
+Gabon,Gabon,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Tchimbele,,15.459167456510707
+Gabon,Gabon,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Kinguele,,10.28127503728247
+Gabon,Gabon,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Chute de Tsamba,,44.20555049613576
+Gabon,Gabon,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Poubara,,10.281275037282466
+Gabon,Gabon,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Kongue,,41.30957576562734
+Gabon,Gabon,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Kouata Mango,,49.11097709693035
+Gabon,Gabon,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Lifouta,,38.61994225009879
+Gabon,Gabon,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Mitoungou,,38.55486808515415
+Gabon,Gabon,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Bongolo,,10.281275037282468
+Gabon,Gabon,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Ngoulmendjim,,36.80113486123966
+Gabon,Gabon,PlantAnnualLCOE,2040,ReservoirHydro,Water,Reservoir,Tsengue Leledi,,31.959714483623195
+Gabon,Gabon,PlantAnnualLCOE,2040,ROR,Water,ROR,FE-2 (Kinguele Aval),,89.58907678297474
+Gabon,Gabon,PlantAnnualLCOE,2040,PV,Solar,PV,Doubou,,38.12025489556375
+Gabon,Gabon,PlantAnnualLCOE,2040,PV,Solar,PV,Ayeme I,,10.88138176718573
+Gabon,Gabon,PlantAnnualLCOE,2040,PV,Solar,PV,Generic_PV_Gabon,,38.12025489556376
+Gabon,Gabon,PlantAnnualLCOE,2040,PV,Solar,PV,Oyem PV,,38.120254895563754
+Gabon,Gabon,UtilizationPlant,2025,OCGT,Gas,GT-Gas,Owendo Gas,,0.7327385830369718
+Gabon,Gabon,UtilizationPlant,2025,OCGT,Gas,GT-Gas,Port Gentil Perenco,,0.6937982016546878
+Gabon,Gabon,UtilizationPlant,2025,OCGT,Gas,GT-Gas,Cap Lopez,,0.8397605805504982
+Gabon,Gabon,UtilizationPlant,2025,OCGT,Gas,GT-Gas,Alenakiri,,0.8073155626260098
+Gabon,Gabon,UtilizationPlant,2025,OCGT,Gas,GT-Gas,Rabi Kounga Field,,0.8018805940139703
+Gabon,Gabon,UtilizationPlant,2025,OCGT,Gas,GT-Gas,Gamba,,0.7584877775016592
+Gabon,Gabon,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Grand Poubara,,0.4040798436931507
+Gabon,Gabon,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Tchimbele,,0.3815561643835618
+Gabon,Gabon,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Kinguele,,0.5835397261933464
+Gabon,Gabon,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Poubara,,0.5835397261933466
+Gabon,Gabon,UtilizationPlant,2025,ReservoirHydro,Water,Reservoir,Bongolo,,0.5835397261933462
+Gabon,Gabon,UtilizationPlant,2025,ROR,Water,ROR,FE-2 (Kinguele Aval),,0.4778755381604702
+Gabon,Gabon,UtilizationPlant,2025,PV,Solar,PV,Ayeme I,,0.1573631735159817
+Gabon,Gabon,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Grand Poubara,,0.4040798436931507
+Gabon,Gabon,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Booue,,0.5835397261933464
+Gabon,Gabon,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Tchimbele,,0.3815561643835616
+Gabon,Gabon,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Kinguele,,0.5835397261933464
+Gabon,Gabon,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Chute de Tsamba,,0.5835397261933464
+Gabon,Gabon,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Poubara,,0.5835397261933464
+Gabon,Gabon,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Kongue,,0.5835397261933465
+Gabon,Gabon,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Kouata Mango,,0.5835397261933463
+Gabon,Gabon,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Lifouta,,0.6219984346082189
+Gabon,Gabon,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Mitoungou,,0.5835397261933463
+Gabon,Gabon,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Bongolo,,0.5835397261933464
+Gabon,Gabon,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Ngoulmendjim,,0.7104250491726027
+Gabon,Gabon,UtilizationPlant,2040,ReservoirHydro,Water,Reservoir,Tsengue Leledi,,0.5835397261933464
+Gabon,Gabon,UtilizationPlant,2040,ROR,Water,ROR,FE-2 (Kinguele Aval),,0.4778755381604702
+Gabon,Gabon,UtilizationPlant,2040,PV,Solar,PV,Doubou,,0.1573631735159817
+Gabon,Gabon,UtilizationPlant,2040,PV,Solar,PV,Ayeme I,,0.1573631735159817
+Gabon,Gabon,UtilizationPlant,2040,PV,Solar,PV,Generic_PV_Gabon,,0.1573631735159817
+Gabon,Gabon,UtilizationPlant,2040,PV,Solar,PV,Oyem PV,,0.1573631735159817

@@ -1,0 +1,1665 @@
+c,z,attribute,y,tech,f,techfuel,value
+Angola,Angola,CapacityTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+Angola,Angola,CapacityTechFuel,2025,CCGT,Gas,CCGT-Gas,750.0
+Angola,Angola,CapacityTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+Angola,Angola,CapacityTechFuel,2025,ST,Coal,ST-Coal,0.0
+Angola,Angola,CapacityTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Angola,Angola,CapacityTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Angola,Angola,CapacityTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+Angola,Angola,CapacityTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+Angola,Angola,CapacityTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+Angola,Angola,CapacityTechFuel,2025,OCGT,Gas,GT-Gas,700.0
+Angola,Angola,CapacityTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+Angola,Angola,CapacityTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+Angola,Angola,CapacityTechFuel,2025,ICE,Diesel,ICE-Diesel,701.0
+Angola,Angola,CapacityTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+Angola,Angola,CapacityTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+Angola,Angola,CapacityTechFuel,2025,ReservoirHydro,Water,Reservoir,1540.0
+Angola,Angola,CapacityTechFuel,2025,ROR,Water,ROR,2206.6
+Angola,Angola,CapacityTechFuel,2025,CSPPlant,CSP,CSP,0.0
+Angola,Angola,CapacityTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Angola,Angola,CapacityTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Angola,Angola,CapacityTechFuel,2025,PV,Solar,PV,336.0
+Angola,Angola,CapacityTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+Angola,Angola,CapacityTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+Angola,Angola,CapacityTechFuel,2025,Storage,Battery,Battery,50.0
+Angola,Angola,CapacityTechFuel,2025,Storage,Water,PSH,0.0
+Angola,Angola,CapacityTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Angola,Angola,CapacityTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+Angola,Angola,CapacityTechFuel,2040,CCGT,Gas,CCGT-Gas,750.0
+Angola,Angola,CapacityTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+Angola,Angola,CapacityTechFuel,2040,ST,Coal,ST-Coal,0.0
+Angola,Angola,CapacityTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Angola,Angola,CapacityTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Angola,Angola,CapacityTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+Angola,Angola,CapacityTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+Angola,Angola,CapacityTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+Angola,Angola,CapacityTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+Angola,Angola,CapacityTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+Angola,Angola,CapacityTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+Angola,Angola,CapacityTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+Angola,Angola,CapacityTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+Angola,Angola,CapacityTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+Angola,Angola,CapacityTechFuel,2040,ReservoirHydro,Water,Reservoir,1540.0
+Angola,Angola,CapacityTechFuel,2040,ROR,Water,ROR,2206.6
+Angola,Angola,CapacityTechFuel,2040,CSPPlant,CSP,CSP,0.0
+Angola,Angola,CapacityTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Angola,Angola,CapacityTechFuel,2040,OnshoreWind,Wind,Onshore Wind,546.0
+Angola,Angola,CapacityTechFuel,2040,PV,Solar,PV,4101.0
+Angola,Angola,CapacityTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+Angola,Angola,CapacityTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+Angola,Angola,CapacityTechFuel,2040,Storage,Battery,Battery,1550.0
+Angola,Angola,CapacityTechFuel,2040,Storage,Water,PSH,0.0
+Angola,Angola,CapacityTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,Nuclear,Uranium,Nuclear,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,CCGT,Gas,CCGT-Gas,4361.839082029583
+Angola,Angola,EnergyTechFuelComplete,2025,CCGT,LNG,CCGT-LNG,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,ST,Coal,ST-Coal,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,ST,Geothermal,ST-Geothermal,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,ST,Lignite,ST-Lignite,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,OCGT,Diesel,GT-Diesel,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,OCGT,Gas,GT-Gas,2184.84
+Angola,Angola,EnergyTechFuelComplete,2025,OCGT,LNG,GT-LNG,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,OCGT,HFO,GT-HFO,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,ICE,Diesel,ICE-Diesel,118.22000587722488
+Angola,Angola,EnergyTechFuelComplete,2025,ICE,HFO,ICE-HFO,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,BiomassPlant,Biomass,Biomass,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,ReservoirHydro,Water,Reservoir,4395.557897942401
+Angola,Angola,EnergyTechFuelComplete,2025,ROR,Water,ROR,5328.78242055075
+Angola,Angola,EnergyTechFuelComplete,2025,CSPPlant,CSP,CSP,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,PV,Solar,PV,690.7605935999995
+Angola,Angola,EnergyTechFuelComplete,2025,pvwsto,Solar,PV+Storage,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,STOPV,Solar,Solar Thermal,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,Storage,Battery,Battery,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,Storage,Water,PSH,0.0
+Angola,Angola,EnergyTechFuelComplete,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,Nuclear,Uranium,Nuclear,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,CCGT,Gas,CCGT-Gas,47.27569360963616
+Angola,Angola,EnergyTechFuelComplete,2040,CCGT,LNG,CCGT-LNG,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,ST,Coal,ST-Coal,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,ST,Geothermal,ST-Geothermal,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,ST,Lignite,ST-Lignite,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,OCGT,Diesel,GT-Diesel,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,OCGT,Gas,GT-Gas,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,OCGT,LNG,GT-LNG,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,OCGT,HFO,GT-HFO,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,ICE,Diesel,ICE-Diesel,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,ICE,HFO,ICE-HFO,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,BiomassPlant,Biomass,Biomass,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,ReservoirHydro,Water,Reservoir,4395.5578979423935
+Angola,Angola,EnergyTechFuelComplete,2040,ROR,Water,ROR,5328.78242055075
+Angola,Angola,EnergyTechFuelComplete,2040,CSPPlant,CSP,CSP,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,OnshoreWind,Wind,Onshore Wind,1863.4010303999992
+Angola,Angola,EnergyTechFuelComplete,2040,PV,Solar,PV,8430.979745100007
+Angola,Angola,EnergyTechFuelComplete,2040,pvwsto,Solar,PV+Storage,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,STOPV,Solar,Solar Thermal,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,Storage,Battery,Battery,2389.4054533590925
+Angola,Angola,EnergyTechFuelComplete,2040,Storage,Water,PSH,0.0
+Angola,Angola,EnergyTechFuelComplete,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Angola,Angola,NewCapacityTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+Angola,Angola,NewCapacityTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+Angola,Angola,NewCapacityTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+Angola,Angola,NewCapacityTechFuel,2025,ST,Coal,ST-Coal,0.0
+Angola,Angola,NewCapacityTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Angola,Angola,NewCapacityTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Angola,Angola,NewCapacityTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+Angola,Angola,NewCapacityTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+Angola,Angola,NewCapacityTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+Angola,Angola,NewCapacityTechFuel,2025,OCGT,Gas,GT-Gas,0.0
+Angola,Angola,NewCapacityTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+Angola,Angola,NewCapacityTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+Angola,Angola,NewCapacityTechFuel,2025,ICE,Diesel,ICE-Diesel,0.0
+Angola,Angola,NewCapacityTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+Angola,Angola,NewCapacityTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+Angola,Angola,NewCapacityTechFuel,2025,ReservoirHydro,Water,Reservoir,0.0
+Angola,Angola,NewCapacityTechFuel,2025,ROR,Water,ROR,0.0
+Angola,Angola,NewCapacityTechFuel,2025,CSPPlant,CSP,CSP,0.0
+Angola,Angola,NewCapacityTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Angola,Angola,NewCapacityTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Angola,Angola,NewCapacityTechFuel,2025,PV,Solar,PV,67.0
+Angola,Angola,NewCapacityTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+Angola,Angola,NewCapacityTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+Angola,Angola,NewCapacityTechFuel,2025,Storage,Battery,Battery,0.0
+Angola,Angola,NewCapacityTechFuel,2025,Storage,Water,PSH,0.0
+Angola,Angola,NewCapacityTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Angola,Angola,NewCapacityTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+Angola,Angola,NewCapacityTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+Angola,Angola,NewCapacityTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+Angola,Angola,NewCapacityTechFuel,2040,ST,Coal,ST-Coal,0.0
+Angola,Angola,NewCapacityTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Angola,Angola,NewCapacityTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Angola,Angola,NewCapacityTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+Angola,Angola,NewCapacityTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+Angola,Angola,NewCapacityTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+Angola,Angola,NewCapacityTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+Angola,Angola,NewCapacityTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+Angola,Angola,NewCapacityTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+Angola,Angola,NewCapacityTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+Angola,Angola,NewCapacityTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+Angola,Angola,NewCapacityTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+Angola,Angola,NewCapacityTechFuel,2040,ReservoirHydro,Water,Reservoir,0.0
+Angola,Angola,NewCapacityTechFuel,2040,ROR,Water,ROR,0.0
+Angola,Angola,NewCapacityTechFuel,2040,CSPPlant,CSP,CSP,0.0
+Angola,Angola,NewCapacityTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Angola,Angola,NewCapacityTechFuel,2040,OnshoreWind,Wind,Onshore Wind,546.0
+Angola,Angola,NewCapacityTechFuel,2040,PV,Solar,PV,3765.0
+Angola,Angola,NewCapacityTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+Angola,Angola,NewCapacityTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+Angola,Angola,NewCapacityTechFuel,2040,Storage,Battery,Battery,1500.0
+Angola,Angola,NewCapacityTechFuel,2040,Storage,Water,PSH,0.0
+Angola,Angola,NewCapacityTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,Nuclear,Uranium,Nuclear,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,CCGT,Gas,CCGT-Gas,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,CCGT,LNG,CCGT-LNG,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,ST,Coal,ST-Coal,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,ST,Geothermal,ST-Geothermal,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,ST,Lignite,ST-Lignite,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,OCGT,Diesel,GT-Diesel,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,OCGT,Gas,GT-Gas,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,OCGT,LNG,GT-LNG,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,OCGT,HFO,GT-HFO,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,ICE,Diesel,ICE-Diesel,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,ICE,HFO,ICE-HFO,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,BiomassPlant,Biomass,Biomass,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,ReservoirHydro,Water,Reservoir,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,ROR,Water,ROR,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,CSPPlant,CSP,CSP,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,PV,Solar,PV,67.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,pvwsto,Solar,PV+Storage,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,STOPV,Solar,Solar Thermal,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,Storage,Battery,Battery,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,Storage,Water,PSH,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,Nuclear,Uranium,Nuclear,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,CCGT,Gas,CCGT-Gas,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,CCGT,LNG,CCGT-LNG,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,ST,Coal,ST-Coal,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,ST,Geothermal,ST-Geothermal,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,ST,Lignite,ST-Lignite,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,OCGT,Diesel,GT-Diesel,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,OCGT,Gas,GT-Gas,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,OCGT,LNG,GT-LNG,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,OCGT,HFO,GT-HFO,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,ICE,Diesel,ICE-Diesel,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,ICE,HFO,ICE-HFO,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,BiomassPlant,Biomass,Biomass,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,ReservoirHydro,Water,Reservoir,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,ROR,Water,ROR,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,CSPPlant,CSP,CSP,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,OnshoreWind,Wind,Onshore Wind,546.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,PV,Solar,PV,3832.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,pvwsto,Solar,PV+Storage,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,STOPV,Solar,Solar Thermal,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,Storage,Battery,Battery,1500.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,Storage,Water,PSH,0.0
+Angola,Angola,NewCapacityTechFuelCumulated,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,ST,Coal,ST-Coal,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,OCGT,Gas,GT-Gas,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,ICE,Diesel,ICE-Diesel,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,ReservoirHydro,Water,Reservoir,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,ROR,Water,ROR,1201.981007648014
+Angola,Angola,ReserveSpinningTechFuel,2025,CSPPlant,CSP,CSP,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,PV,Solar,PV,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,Storage,Battery,Battery,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,Storage,Water,PSH,0.0
+Angola,Angola,ReserveSpinningTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,CCGT,Gas,CCGT-Gas,308.68569371999996
+Angola,Angola,ReserveSpinningTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,ST,Coal,ST-Coal,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,ReservoirHydro,Water,Reservoir,1082.9782640733436
+Angola,Angola,ReserveSpinningTechFuel,2040,ROR,Water,ROR,193.23488656791588
+Angola,Angola,ReserveSpinningTechFuel,2040,CSPPlant,CSP,CSP,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,PV,Solar,PV,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,Storage,Battery,Battery,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,Storage,Water,PSH,0.0
+Angola,Angola,ReserveSpinningTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Angola,Angola,UtilizationTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+Angola,Angola,UtilizationTechFuel,2025,CCGT,Gas,CCGT-Gas,0.6639024477975012
+Angola,Angola,UtilizationTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+Angola,Angola,UtilizationTechFuel,2025,ST,Coal,ST-Coal,0.0
+Angola,Angola,UtilizationTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Angola,Angola,UtilizationTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Angola,Angola,UtilizationTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+Angola,Angola,UtilizationTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+Angola,Angola,UtilizationTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+Angola,Angola,UtilizationTechFuel,2025,OCGT,Gas,GT-Gas,0.3563013698630137
+Angola,Angola,UtilizationTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+Angola,Angola,UtilizationTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+Angola,Angola,UtilizationTechFuel,2025,ICE,Diesel,ICE-Diesel,0.0192516896731389
+Angola,Angola,UtilizationTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+Angola,Angola,UtilizationTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+Angola,Angola,UtilizationTechFuel,2025,ReservoirHydro,Water,Reservoir,0.3258285816537983
+Angola,Angola,UtilizationTechFuel,2025,ROR,Water,ROR,0.275676831096103
+Angola,Angola,UtilizationTechFuel,2025,CSPPlant,CSP,CSP,0.0
+Angola,Angola,UtilizationTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Angola,Angola,UtilizationTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Angola,Angola,UtilizationTechFuel,2025,PV,Solar,PV,0.2346843721461185
+Angola,Angola,UtilizationTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+Angola,Angola,UtilizationTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+Angola,Angola,UtilizationTechFuel,2025,Storage,Battery,Battery,0.0
+Angola,Angola,UtilizationTechFuel,2025,Storage,Water,PSH,0.0
+Angola,Angola,UtilizationTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Angola,Angola,UtilizationTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+Angola,Angola,UtilizationTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0071956915691988
+Angola,Angola,UtilizationTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+Angola,Angola,UtilizationTechFuel,2040,ST,Coal,ST-Coal,0.0
+Angola,Angola,UtilizationTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Angola,Angola,UtilizationTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Angola,Angola,UtilizationTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+Angola,Angola,UtilizationTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+Angola,Angola,UtilizationTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+Angola,Angola,UtilizationTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+Angola,Angola,UtilizationTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+Angola,Angola,UtilizationTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+Angola,Angola,UtilizationTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+Angola,Angola,UtilizationTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+Angola,Angola,UtilizationTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+Angola,Angola,UtilizationTechFuel,2040,ReservoirHydro,Water,Reservoir,0.3258285816537978
+Angola,Angola,UtilizationTechFuel,2040,ROR,Water,ROR,0.275676831096103
+Angola,Angola,UtilizationTechFuel,2040,CSPPlant,CSP,CSP,0.0
+Angola,Angola,UtilizationTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Angola,Angola,UtilizationTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.3895915981735158
+Angola,Angola,UtilizationTechFuel,2040,PV,Solar,PV,0.2346843721461189
+Angola,Angola,UtilizationTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+Angola,Angola,UtilizationTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+Angola,Angola,UtilizationTechFuel,2040,Storage,Battery,Battery,0.1759762449078724
+Angola,Angola,UtilizationTechFuel,2040,Storage,Water,PSH,0.0
+Angola,Angola,UtilizationTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+CAR,CAR,CapacityTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+CAR,CAR,CapacityTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+CAR,CAR,CapacityTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+CAR,CAR,CapacityTechFuel,2025,ST,Coal,ST-Coal,0.0
+CAR,CAR,CapacityTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+CAR,CAR,CapacityTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+CAR,CAR,CapacityTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+CAR,CAR,CapacityTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+CAR,CAR,CapacityTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+CAR,CAR,CapacityTechFuel,2025,OCGT,Gas,GT-Gas,0.0
+CAR,CAR,CapacityTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+CAR,CAR,CapacityTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+CAR,CAR,CapacityTechFuel,2025,ICE,Diesel,ICE-Diesel,20.0
+CAR,CAR,CapacityTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+CAR,CAR,CapacityTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+CAR,CAR,CapacityTechFuel,2025,ReservoirHydro,Water,Reservoir,29.0
+CAR,CAR,CapacityTechFuel,2025,ROR,Water,ROR,0.0
+CAR,CAR,CapacityTechFuel,2025,CSPPlant,CSP,CSP,0.0
+CAR,CAR,CapacityTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+CAR,CAR,CapacityTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+CAR,CAR,CapacityTechFuel,2025,PV,Solar,PV,40.0
+CAR,CAR,CapacityTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+CAR,CAR,CapacityTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+CAR,CAR,CapacityTechFuel,2025,Storage,Battery,Battery,0.0
+CAR,CAR,CapacityTechFuel,2025,Storage,Water,PSH,0.0
+CAR,CAR,CapacityTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+CAR,CAR,CapacityTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+CAR,CAR,CapacityTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+CAR,CAR,CapacityTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+CAR,CAR,CapacityTechFuel,2040,ST,Coal,ST-Coal,0.0
+CAR,CAR,CapacityTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+CAR,CAR,CapacityTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+CAR,CAR,CapacityTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+CAR,CAR,CapacityTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+CAR,CAR,CapacityTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+CAR,CAR,CapacityTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+CAR,CAR,CapacityTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+CAR,CAR,CapacityTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+CAR,CAR,CapacityTechFuel,2040,ICE,Diesel,ICE-Diesel,20.0
+CAR,CAR,CapacityTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+CAR,CAR,CapacityTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+CAR,CAR,CapacityTechFuel,2040,ReservoirHydro,Water,Reservoir,153.41187553230014
+CAR,CAR,CapacityTechFuel,2040,ROR,Water,ROR,0.0
+CAR,CAR,CapacityTechFuel,2040,CSPPlant,CSP,CSP,0.0
+CAR,CAR,CapacityTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+CAR,CAR,CapacityTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.0
+CAR,CAR,CapacityTechFuel,2040,PV,Solar,PV,140.0
+CAR,CAR,CapacityTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+CAR,CAR,CapacityTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+CAR,CAR,CapacityTechFuel,2040,Storage,Battery,Battery,60.0
+CAR,CAR,CapacityTechFuel,2040,Storage,Water,PSH,0.0
+CAR,CAR,CapacityTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,Nuclear,Uranium,Nuclear,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,CCGT,Gas,CCGT-Gas,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,CCGT,LNG,CCGT-LNG,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,ST,Coal,ST-Coal,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,ST,Geothermal,ST-Geothermal,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,ST,Lignite,ST-Lignite,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,OCGT,Diesel,GT-Diesel,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,OCGT,Gas,GT-Gas,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,OCGT,LNG,GT-LNG,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,OCGT,HFO,GT-HFO,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,ICE,Diesel,ICE-Diesel,19.13813039757551
+CAR,CAR,EnergyTechFuelComplete,2025,ICE,HFO,ICE-HFO,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,BiomassPlant,Biomass,Biomass,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,ReservoirHydro,Water,Reservoir,116.50443860504534
+CAR,CAR,EnergyTechFuelComplete,2025,ROR,Water,ROR,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,CSPPlant,CSP,CSP,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,OffshoreWind,Wind,Offshore Wind,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,OnshoreWind,Wind,Onshore Wind,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,PV,Solar,PV,56.78170399999994
+CAR,CAR,EnergyTechFuelComplete,2025,pvwsto,Solar,PV+Storage,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,STOPV,Solar,Solar Thermal,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,Storage,Battery,Battery,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,Storage,Water,PSH,0.0
+CAR,CAR,EnergyTechFuelComplete,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,Nuclear,Uranium,Nuclear,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,CCGT,Gas,CCGT-Gas,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,CCGT,LNG,CCGT-LNG,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,ST,Coal,ST-Coal,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,ST,Geothermal,ST-Geothermal,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,ST,Lignite,ST-Lignite,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,OCGT,Diesel,GT-Diesel,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,OCGT,Gas,GT-Gas,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,OCGT,LNG,GT-LNG,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,OCGT,HFO,GT-HFO,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,ICE,Diesel,ICE-Diesel,1.7961335339572049
+CAR,CAR,EnergyTechFuelComplete,2040,ICE,HFO,ICE-HFO,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,BiomassPlant,Biomass,Biomass,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,ReservoirHydro,Water,Reservoir,877.8887391117498
+CAR,CAR,EnergyTechFuelComplete,2040,ROR,Water,ROR,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,CSPPlant,CSP,CSP,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,OffshoreWind,Wind,Offshore Wind,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,OnshoreWind,Wind,Onshore Wind,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,PV,Solar,PV,198.735964
+CAR,CAR,EnergyTechFuelComplete,2040,pvwsto,Solar,PV+Storage,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,STOPV,Solar,Solar Thermal,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,Storage,Battery,Battery,32.77193246495644
+CAR,CAR,EnergyTechFuelComplete,2040,Storage,Water,PSH,0.0
+CAR,CAR,EnergyTechFuelComplete,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+CAR,CAR,NewCapacityTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+CAR,CAR,NewCapacityTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+CAR,CAR,NewCapacityTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+CAR,CAR,NewCapacityTechFuel,2040,ST,Coal,ST-Coal,0.0
+CAR,CAR,NewCapacityTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+CAR,CAR,NewCapacityTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+CAR,CAR,NewCapacityTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+CAR,CAR,NewCapacityTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+CAR,CAR,NewCapacityTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+CAR,CAR,NewCapacityTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+CAR,CAR,NewCapacityTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+CAR,CAR,NewCapacityTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+CAR,CAR,NewCapacityTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+CAR,CAR,NewCapacityTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+CAR,CAR,NewCapacityTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+CAR,CAR,NewCapacityTechFuel,2040,ReservoirHydro,Water,Reservoir,124.41187553230012
+CAR,CAR,NewCapacityTechFuel,2040,ROR,Water,ROR,0.0
+CAR,CAR,NewCapacityTechFuel,2040,CSPPlant,CSP,CSP,0.0
+CAR,CAR,NewCapacityTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+CAR,CAR,NewCapacityTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.0
+CAR,CAR,NewCapacityTechFuel,2040,PV,Solar,PV,100.0
+CAR,CAR,NewCapacityTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+CAR,CAR,NewCapacityTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+CAR,CAR,NewCapacityTechFuel,2040,Storage,Battery,Battery,60.0
+CAR,CAR,NewCapacityTechFuel,2040,Storage,Water,PSH,0.0
+CAR,CAR,NewCapacityTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,Nuclear,Uranium,Nuclear,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,CCGT,Gas,CCGT-Gas,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,CCGT,LNG,CCGT-LNG,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,ST,Coal,ST-Coal,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,ST,Geothermal,ST-Geothermal,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,ST,Lignite,ST-Lignite,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,OCGT,Diesel,GT-Diesel,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,OCGT,Gas,GT-Gas,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,OCGT,LNG,GT-LNG,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,OCGT,HFO,GT-HFO,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,ICE,Diesel,ICE-Diesel,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,ICE,HFO,ICE-HFO,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,BiomassPlant,Biomass,Biomass,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,ReservoirHydro,Water,Reservoir,124.41187553230012
+CAR,CAR,NewCapacityTechFuelCumulated,2040,ROR,Water,ROR,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,CSPPlant,CSP,CSP,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,OffshoreWind,Wind,Offshore Wind,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,OnshoreWind,Wind,Onshore Wind,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,PV,Solar,PV,100.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,pvwsto,Solar,PV+Storage,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,STOPV,Solar,Solar Thermal,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,Storage,Battery,Battery,60.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,Storage,Water,PSH,0.0
+CAR,CAR,NewCapacityTechFuelCumulated,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,ST,Coal,ST-Coal,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,OCGT,Gas,GT-Gas,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,ICE,Diesel,ICE-Diesel,16.0540704
+CAR,CAR,ReserveSpinningTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,ReservoirHydro,Water,Reservoir,13.5361206
+CAR,CAR,ReserveSpinningTechFuel,2025,ROR,Water,ROR,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,CSPPlant,CSP,CSP,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,PV,Solar,PV,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,Storage,Battery,Battery,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,Storage,Water,PSH,0.0
+CAR,CAR,ReserveSpinningTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,ST,Coal,ST-Coal,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,ICE,Diesel,ICE-Diesel,5.312
+CAR,CAR,ReserveSpinningTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,ReservoirHydro,Water,Reservoir,26.3663057
+CAR,CAR,ReserveSpinningTechFuel,2040,ROR,Water,ROR,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,CSPPlant,CSP,CSP,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,PV,Solar,PV,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,Storage,Battery,Battery,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,Storage,Water,PSH,0.0
+CAR,CAR,ReserveSpinningTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+CAR,CAR,UtilizationTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+CAR,CAR,UtilizationTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+CAR,CAR,UtilizationTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+CAR,CAR,UtilizationTechFuel,2025,ST,Coal,ST-Coal,0.0
+CAR,CAR,UtilizationTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+CAR,CAR,UtilizationTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+CAR,CAR,UtilizationTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+CAR,CAR,UtilizationTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+CAR,CAR,UtilizationTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+CAR,CAR,UtilizationTechFuel,2025,OCGT,Gas,GT-Gas,0.0
+CAR,CAR,UtilizationTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+CAR,CAR,UtilizationTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+CAR,CAR,UtilizationTechFuel,2025,ICE,Diesel,ICE-Diesel,0.1092359040957506
+CAR,CAR,UtilizationTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+CAR,CAR,UtilizationTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+CAR,CAR,UtilizationTechFuel,2025,ReservoirHydro,Water,Reservoir,0.458606670622915
+CAR,CAR,UtilizationTechFuel,2025,ROR,Water,ROR,0.0
+CAR,CAR,UtilizationTechFuel,2025,CSPPlant,CSP,CSP,0.0
+CAR,CAR,UtilizationTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+CAR,CAR,UtilizationTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+CAR,CAR,UtilizationTechFuel,2025,PV,Solar,PV,0.1620482420091322
+CAR,CAR,UtilizationTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+CAR,CAR,UtilizationTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+CAR,CAR,UtilizationTechFuel,2025,Storage,Battery,Battery,0.0
+CAR,CAR,UtilizationTechFuel,2025,Storage,Water,PSH,0.0
+CAR,CAR,UtilizationTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+CAR,CAR,UtilizationTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+CAR,CAR,UtilizationTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+CAR,CAR,UtilizationTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+CAR,CAR,UtilizationTechFuel,2040,ST,Coal,ST-Coal,0.0
+CAR,CAR,UtilizationTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+CAR,CAR,UtilizationTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+CAR,CAR,UtilizationTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+CAR,CAR,UtilizationTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+CAR,CAR,UtilizationTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+CAR,CAR,UtilizationTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+CAR,CAR,UtilizationTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+CAR,CAR,UtilizationTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+CAR,CAR,UtilizationTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0102519037326324
+CAR,CAR,UtilizationTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+CAR,CAR,UtilizationTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+CAR,CAR,UtilizationTechFuel,2040,ReservoirHydro,Water,Reservoir,0.653245448828
+CAR,CAR,UtilizationTechFuel,2040,ROR,Water,ROR,0.0
+CAR,CAR,UtilizationTechFuel,2040,CSPPlant,CSP,CSP,0.0
+CAR,CAR,UtilizationTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+CAR,CAR,UtilizationTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.0
+CAR,CAR,UtilizationTechFuel,2040,PV,Solar,PV,0.1620482420091324
+CAR,CAR,UtilizationTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+CAR,CAR,UtilizationTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+CAR,CAR,UtilizationTechFuel,2040,Storage,Battery,Battery,0.062351469682185
+CAR,CAR,UtilizationTechFuel,2040,Storage,Water,PSH,0.0
+CAR,CAR,UtilizationTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Congo,Congo,CapacityTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+Congo,Congo,CapacityTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+Congo,Congo,CapacityTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+Congo,Congo,CapacityTechFuel,2025,ST,Coal,ST-Coal,0.0
+Congo,Congo,CapacityTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Congo,Congo,CapacityTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Congo,Congo,CapacityTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+Congo,Congo,CapacityTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+Congo,Congo,CapacityTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+Congo,Congo,CapacityTechFuel,2025,OCGT,Gas,GT-Gas,534.0
+Congo,Congo,CapacityTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+Congo,Congo,CapacityTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+Congo,Congo,CapacityTechFuel,2025,ICE,Diesel,ICE-Diesel,64.0
+Congo,Congo,CapacityTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+Congo,Congo,CapacityTechFuel,2025,BiomassPlant,Biomass,Biomass,8.5
+Congo,Congo,CapacityTechFuel,2025,ReservoirHydro,Water,Reservoir,214.0
+Congo,Congo,CapacityTechFuel,2025,ROR,Water,ROR,0.0
+Congo,Congo,CapacityTechFuel,2025,CSPPlant,CSP,CSP,0.0
+Congo,Congo,CapacityTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Congo,Congo,CapacityTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Congo,Congo,CapacityTechFuel,2025,PV,Solar,PV,0.0
+Congo,Congo,CapacityTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+Congo,Congo,CapacityTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+Congo,Congo,CapacityTechFuel,2025,Storage,Battery,Battery,0.0
+Congo,Congo,CapacityTechFuel,2025,Storage,Water,PSH,0.0
+Congo,Congo,CapacityTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Congo,Congo,CapacityTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+Congo,Congo,CapacityTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+Congo,Congo,CapacityTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+Congo,Congo,CapacityTechFuel,2040,ST,Coal,ST-Coal,0.0
+Congo,Congo,CapacityTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Congo,Congo,CapacityTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Congo,Congo,CapacityTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+Congo,Congo,CapacityTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+Congo,Congo,CapacityTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+Congo,Congo,CapacityTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+Congo,Congo,CapacityTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+Congo,Congo,CapacityTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+Congo,Congo,CapacityTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+Congo,Congo,CapacityTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+Congo,Congo,CapacityTechFuel,2040,BiomassPlant,Biomass,Biomass,8.5
+Congo,Congo,CapacityTechFuel,2040,ReservoirHydro,Water,Reservoir,467.8538004370665
+Congo,Congo,CapacityTechFuel,2040,ROR,Water,ROR,0.0
+Congo,Congo,CapacityTechFuel,2040,CSPPlant,CSP,CSP,0.0
+Congo,Congo,CapacityTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Congo,Congo,CapacityTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.0
+Congo,Congo,CapacityTechFuel,2040,PV,Solar,PV,0.0
+Congo,Congo,CapacityTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+Congo,Congo,CapacityTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+Congo,Congo,CapacityTechFuel,2040,Storage,Battery,Battery,0.0
+Congo,Congo,CapacityTechFuel,2040,Storage,Water,PSH,0.0
+Congo,Congo,CapacityTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,Nuclear,Uranium,Nuclear,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,CCGT,Gas,CCGT-Gas,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,CCGT,LNG,CCGT-LNG,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,ST,Coal,ST-Coal,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,ST,Geothermal,ST-Geothermal,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,ST,Lignite,ST-Lignite,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,OCGT,Diesel,GT-Diesel,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,OCGT,Gas,GT-Gas,1911.1866198243224
+Congo,Congo,EnergyTechFuelComplete,2025,OCGT,LNG,GT-LNG,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,OCGT,HFO,GT-HFO,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,ICE,Diesel,ICE-Diesel,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,ICE,HFO,ICE-HFO,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,BiomassPlant,Biomass,Biomass,63.29099999999999
+Congo,Congo,EnergyTechFuelComplete,2025,ReservoirHydro,Water,Reservoir,944.825979069504
+Congo,Congo,EnergyTechFuelComplete,2025,ROR,Water,ROR,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,CSPPlant,CSP,CSP,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,PV,Solar,PV,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,pvwsto,Solar,PV+Storage,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,STOPV,Solar,Solar Thermal,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,Storage,Battery,Battery,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,Storage,Water,PSH,0.0
+Congo,Congo,EnergyTechFuelComplete,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,Nuclear,Uranium,Nuclear,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,CCGT,Gas,CCGT-Gas,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,CCGT,LNG,CCGT-LNG,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,ST,Coal,ST-Coal,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,ST,Geothermal,ST-Geothermal,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,ST,Lignite,ST-Lignite,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,OCGT,Diesel,GT-Diesel,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,OCGT,Gas,GT-Gas,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,OCGT,LNG,GT-LNG,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,OCGT,HFO,GT-HFO,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,ICE,Diesel,ICE-Diesel,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,ICE,HFO,ICE-HFO,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,BiomassPlant,Biomass,Biomass,63.291
+Congo,Congo,EnergyTechFuelComplete,2040,ReservoirHydro,Water,Reservoir,2054.658637254912
+Congo,Congo,EnergyTechFuelComplete,2040,ROR,Water,ROR,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,CSPPlant,CSP,CSP,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,OnshoreWind,Wind,Onshore Wind,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,PV,Solar,PV,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,pvwsto,Solar,PV+Storage,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,STOPV,Solar,Solar Thermal,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,Storage,Battery,Battery,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,Storage,Water,PSH,0.0
+Congo,Congo,EnergyTechFuelComplete,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Congo,Congo,NewCapacityTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+Congo,Congo,NewCapacityTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+Congo,Congo,NewCapacityTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+Congo,Congo,NewCapacityTechFuel,2040,ST,Coal,ST-Coal,0.0
+Congo,Congo,NewCapacityTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Congo,Congo,NewCapacityTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Congo,Congo,NewCapacityTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+Congo,Congo,NewCapacityTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+Congo,Congo,NewCapacityTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+Congo,Congo,NewCapacityTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+Congo,Congo,NewCapacityTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+Congo,Congo,NewCapacityTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+Congo,Congo,NewCapacityTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+Congo,Congo,NewCapacityTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+Congo,Congo,NewCapacityTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+Congo,Congo,NewCapacityTechFuel,2040,ReservoirHydro,Water,Reservoir,253.85380043706652
+Congo,Congo,NewCapacityTechFuel,2040,ROR,Water,ROR,0.0
+Congo,Congo,NewCapacityTechFuel,2040,CSPPlant,CSP,CSP,0.0
+Congo,Congo,NewCapacityTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Congo,Congo,NewCapacityTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.0
+Congo,Congo,NewCapacityTechFuel,2040,PV,Solar,PV,0.0
+Congo,Congo,NewCapacityTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+Congo,Congo,NewCapacityTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+Congo,Congo,NewCapacityTechFuel,2040,Storage,Battery,Battery,0.0
+Congo,Congo,NewCapacityTechFuel,2040,Storage,Water,PSH,0.0
+Congo,Congo,NewCapacityTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,Nuclear,Uranium,Nuclear,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,CCGT,Gas,CCGT-Gas,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,CCGT,LNG,CCGT-LNG,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,ST,Coal,ST-Coal,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,ST,Geothermal,ST-Geothermal,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,ST,Lignite,ST-Lignite,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,OCGT,Diesel,GT-Diesel,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,OCGT,Gas,GT-Gas,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,OCGT,LNG,GT-LNG,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,OCGT,HFO,GT-HFO,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,ICE,Diesel,ICE-Diesel,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,ICE,HFO,ICE-HFO,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,BiomassPlant,Biomass,Biomass,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,ReservoirHydro,Water,Reservoir,253.85380043706652
+Congo,Congo,NewCapacityTechFuelCumulated,2040,ROR,Water,ROR,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,CSPPlant,CSP,CSP,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,OnshoreWind,Wind,Onshore Wind,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,PV,Solar,PV,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,pvwsto,Solar,PV+Storage,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,STOPV,Solar,Solar Thermal,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,Storage,Battery,Battery,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,Storage,Water,PSH,0.0
+Congo,Congo,NewCapacityTechFuelCumulated,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Congo,Congo,UtilizationTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+Congo,Congo,UtilizationTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+Congo,Congo,UtilizationTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+Congo,Congo,UtilizationTechFuel,2025,ST,Coal,ST-Coal,0.0
+Congo,Congo,UtilizationTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Congo,Congo,UtilizationTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Congo,Congo,UtilizationTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+Congo,Congo,UtilizationTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+Congo,Congo,UtilizationTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+Congo,Congo,UtilizationTechFuel,2025,OCGT,Gas,GT-Gas,0.4085617763378659
+Congo,Congo,UtilizationTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+Congo,Congo,UtilizationTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+Congo,Congo,UtilizationTechFuel,2025,ICE,Diesel,ICE-Diesel,0.0
+Congo,Congo,UtilizationTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+Congo,Congo,UtilizationTechFuel,2025,BiomassPlant,Biomass,Biomass,0.8499999999999999
+Congo,Congo,UtilizationTechFuel,2025,ReservoirHydro,Water,Reservoir,0.5040039575969275
+Congo,Congo,UtilizationTechFuel,2025,ROR,Water,ROR,0.0
+Congo,Congo,UtilizationTechFuel,2025,CSPPlant,CSP,CSP,0.0
+Congo,Congo,UtilizationTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Congo,Congo,UtilizationTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Congo,Congo,UtilizationTechFuel,2025,PV,Solar,PV,0.0
+Congo,Congo,UtilizationTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+Congo,Congo,UtilizationTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+Congo,Congo,UtilizationTechFuel,2025,Storage,Battery,Battery,0.0
+Congo,Congo,UtilizationTechFuel,2025,Storage,Water,PSH,0.0
+Congo,Congo,UtilizationTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Congo,Congo,UtilizationTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+Congo,Congo,UtilizationTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+Congo,Congo,UtilizationTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+Congo,Congo,UtilizationTechFuel,2040,ST,Coal,ST-Coal,0.0
+Congo,Congo,UtilizationTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Congo,Congo,UtilizationTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Congo,Congo,UtilizationTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+Congo,Congo,UtilizationTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+Congo,Congo,UtilizationTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+Congo,Congo,UtilizationTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+Congo,Congo,UtilizationTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+Congo,Congo,UtilizationTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+Congo,Congo,UtilizationTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+Congo,Congo,UtilizationTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+Congo,Congo,UtilizationTechFuel,2040,BiomassPlant,Biomass,Biomass,0.8500000000000001
+Congo,Congo,UtilizationTechFuel,2040,ReservoirHydro,Water,Reservoir,0.5013319813302342
+Congo,Congo,UtilizationTechFuel,2040,ROR,Water,ROR,0.0
+Congo,Congo,UtilizationTechFuel,2040,CSPPlant,CSP,CSP,0.0
+Congo,Congo,UtilizationTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Congo,Congo,UtilizationTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.0
+Congo,Congo,UtilizationTechFuel,2040,PV,Solar,PV,0.0
+Congo,Congo,UtilizationTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+Congo,Congo,UtilizationTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+Congo,Congo,UtilizationTechFuel,2040,Storage,Battery,Battery,0.0
+Congo,Congo,UtilizationTechFuel,2040,Storage,Water,PSH,0.0
+Congo,Congo,UtilizationTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC,CapacityTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC,CapacityTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC,CapacityTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC,CapacityTechFuel,2025,ST,Coal,ST-Coal,0.0
+DRC,DRC,CapacityTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC,CapacityTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC,CapacityTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC,CapacityTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+DRC,DRC,CapacityTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC,CapacityTechFuel,2025,OCGT,Gas,GT-Gas,0.0
+DRC,DRC,CapacityTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+DRC,DRC,CapacityTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+DRC,DRC,CapacityTechFuel,2025,ICE,Diesel,ICE-Diesel,5.0
+DRC,DRC,CapacityTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+DRC,DRC,CapacityTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC,CapacityTechFuel,2025,ReservoirHydro,Water,Reservoir,1459.5
+DRC,DRC,CapacityTechFuel,2025,ROR,Water,ROR,0.0
+DRC,DRC,CapacityTechFuel,2025,CSPPlant,CSP,CSP,0.0
+DRC,DRC,CapacityTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC,CapacityTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+DRC,DRC,CapacityTechFuel,2025,PV,Solar,PV,0.0
+DRC,DRC,CapacityTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC,CapacityTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC,CapacityTechFuel,2025,Storage,Battery,Battery,0.0
+DRC,DRC,CapacityTechFuel,2025,Storage,Water,PSH,0.0
+DRC,DRC,CapacityTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC,CapacityTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC,CapacityTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC,CapacityTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC,CapacityTechFuel,2040,ST,Coal,ST-Coal,0.0
+DRC,DRC,CapacityTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC,CapacityTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC,CapacityTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC,CapacityTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+DRC,DRC,CapacityTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC,CapacityTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+DRC,DRC,CapacityTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+DRC,DRC,CapacityTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+DRC,DRC,CapacityTechFuel,2040,ICE,Diesel,ICE-Diesel,5.0
+DRC,DRC,CapacityTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+DRC,DRC,CapacityTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC,CapacityTechFuel,2040,ReservoirHydro,Water,Reservoir,4280.186076629945
+DRC,DRC,CapacityTechFuel,2040,ROR,Water,ROR,0.0
+DRC,DRC,CapacityTechFuel,2040,CSPPlant,CSP,CSP,0.0
+DRC,DRC,CapacityTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC,CapacityTechFuel,2040,OnshoreWind,Wind,Onshore Wind,750.0
+DRC,DRC,CapacityTechFuel,2040,PV,Solar,PV,0.0
+DRC,DRC,CapacityTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC,CapacityTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC,CapacityTechFuel,2040,Storage,Battery,Battery,0.0
+DRC,DRC,CapacityTechFuel,2040,Storage,Water,PSH,0.0
+DRC,DRC,CapacityTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,ST,Coal,ST-Coal,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,ST,Lignite,ST-Lignite,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,OCGT,Gas,GT-Gas,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,OCGT,LNG,GT-LNG,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,OCGT,HFO,GT-HFO,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,ICE,HFO,ICE-HFO,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,ReservoirHydro,Water,Reservoir,10874.90181290702
+DRC,DRC,EnergyTechFuelComplete,2025,ROR,Water,ROR,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,CSPPlant,CSP,CSP,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,OnshoreWind,Wind,Onshore Wind,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,PV,Solar,PV,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,Storage,Battery,Battery,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,Storage,Water,PSH,0.0
+DRC,DRC,EnergyTechFuelComplete,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,ST,Coal,ST-Coal,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,ST,Lignite,ST-Lignite,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,OCGT,Gas,GT-Gas,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,OCGT,LNG,GT-LNG,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,OCGT,HFO,GT-HFO,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,ICE,HFO,ICE-HFO,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,ReservoirHydro,Water,Reservoir,35093.50080752611
+DRC,DRC,EnergyTechFuelComplete,2040,ROR,Water,ROR,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,CSPPlant,CSP,CSP,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,OnshoreWind,Wind,Onshore Wind,2574.508875000001
+DRC,DRC,EnergyTechFuelComplete,2040,PV,Solar,PV,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,Storage,Battery,Battery,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,Storage,Water,PSH,0.0
+DRC,DRC,EnergyTechFuelComplete,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC,NewCapacityTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC,NewCapacityTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC,NewCapacityTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC,NewCapacityTechFuel,2040,ST,Coal,ST-Coal,0.0
+DRC,DRC,NewCapacityTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC,NewCapacityTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC,NewCapacityTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC,NewCapacityTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+DRC,DRC,NewCapacityTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC,NewCapacityTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+DRC,DRC,NewCapacityTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+DRC,DRC,NewCapacityTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+DRC,DRC,NewCapacityTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC,NewCapacityTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+DRC,DRC,NewCapacityTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC,NewCapacityTechFuel,2040,ReservoirHydro,Water,Reservoir,2820.6860766299455
+DRC,DRC,NewCapacityTechFuel,2040,ROR,Water,ROR,0.0
+DRC,DRC,NewCapacityTechFuel,2040,CSPPlant,CSP,CSP,0.0
+DRC,DRC,NewCapacityTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC,NewCapacityTechFuel,2040,OnshoreWind,Wind,Onshore Wind,750.0
+DRC,DRC,NewCapacityTechFuel,2040,PV,Solar,PV,0.0
+DRC,DRC,NewCapacityTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC,NewCapacityTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC,NewCapacityTechFuel,2040,Storage,Battery,Battery,0.0
+DRC,DRC,NewCapacityTechFuel,2040,Storage,Water,PSH,0.0
+DRC,DRC,NewCapacityTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,ST,Coal,ST-Coal,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,ST,Lignite,ST-Lignite,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,OCGT,Gas,GT-Gas,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,OCGT,LNG,GT-LNG,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,OCGT,HFO,GT-HFO,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,ICE,HFO,ICE-HFO,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,ReservoirHydro,Water,Reservoir,2820.6860766299455
+DRC,DRC,NewCapacityTechFuelCumulated,2040,ROR,Water,ROR,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,CSPPlant,CSP,CSP,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,OnshoreWind,Wind,Onshore Wind,750.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,PV,Solar,PV,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,Storage,Battery,Battery,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,Storage,Water,PSH,0.0
+DRC,DRC,NewCapacityTechFuelCumulated,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,ST,Coal,ST-Coal,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,OCGT,Gas,GT-Gas,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,ReservoirHydro,Water,Reservoir,25.313572500000003
+DRC,DRC,ReserveSpinningTechFuel,2025,ROR,Water,ROR,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,CSPPlant,CSP,CSP,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,PV,Solar,PV,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,Storage,Battery,Battery,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,Storage,Water,PSH,0.0
+DRC,DRC,ReserveSpinningTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,ST,Coal,ST-Coal,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,ICE,Diesel,ICE-Diesel,2.745
+DRC,DRC,ReserveSpinningTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,ReservoirHydro,Water,Reservoir,716.9118686718707
+DRC,DRC,ReserveSpinningTechFuel,2040,ROR,Water,ROR,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,CSPPlant,CSP,CSP,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,PV,Solar,PV,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,Storage,Battery,Battery,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,Storage,Water,PSH,0.0
+DRC,DRC,ReserveSpinningTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC,UtilizationTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC,UtilizationTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC,UtilizationTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC,UtilizationTechFuel,2025,ST,Coal,ST-Coal,0.0
+DRC,DRC,UtilizationTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC,UtilizationTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC,UtilizationTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC,UtilizationTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+DRC,DRC,UtilizationTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC,UtilizationTechFuel,2025,OCGT,Gas,GT-Gas,0.0
+DRC,DRC,UtilizationTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+DRC,DRC,UtilizationTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+DRC,DRC,UtilizationTechFuel,2025,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC,UtilizationTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+DRC,DRC,UtilizationTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC,UtilizationTechFuel,2025,ReservoirHydro,Water,Reservoir,0.8505838626873078
+DRC,DRC,UtilizationTechFuel,2025,ROR,Water,ROR,0.0
+DRC,DRC,UtilizationTechFuel,2025,CSPPlant,CSP,CSP,0.0
+DRC,DRC,UtilizationTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC,UtilizationTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+DRC,DRC,UtilizationTechFuel,2025,PV,Solar,PV,0.0
+DRC,DRC,UtilizationTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC,UtilizationTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC,UtilizationTechFuel,2025,Storage,Battery,Battery,0.0
+DRC,DRC,UtilizationTechFuel,2025,Storage,Water,PSH,0.0
+DRC,DRC,UtilizationTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC,UtilizationTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC,UtilizationTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC,UtilizationTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC,UtilizationTechFuel,2040,ST,Coal,ST-Coal,0.0
+DRC,DRC,UtilizationTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC,UtilizationTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC,UtilizationTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC,UtilizationTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+DRC,DRC,UtilizationTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC,UtilizationTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+DRC,DRC,UtilizationTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+DRC,DRC,UtilizationTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+DRC,DRC,UtilizationTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC,UtilizationTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+DRC,DRC,UtilizationTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC,UtilizationTechFuel,2040,ReservoirHydro,Water,Reservoir,0.9359657095267396
+DRC,DRC,UtilizationTechFuel,2040,ROR,Water,ROR,0.0
+DRC,DRC,UtilizationTechFuel,2040,CSPPlant,CSP,CSP,0.0
+DRC,DRC,UtilizationTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC,UtilizationTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.3918582762557079
+DRC,DRC,UtilizationTechFuel,2040,PV,Solar,PV,0.0
+DRC,DRC,UtilizationTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC,UtilizationTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC,UtilizationTechFuel,2040,Storage,Battery,Battery,0.0
+DRC,DRC,UtilizationTechFuel,2040,Storage,Water,PSH,0.0
+DRC,DRC,UtilizationTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC_South,CapacityTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC_South,CapacityTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC_South,CapacityTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC_South,CapacityTechFuel,2025,ST,Coal,ST-Coal,0.0
+DRC,DRC_South,CapacityTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC_South,CapacityTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC_South,CapacityTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC_South,CapacityTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+DRC,DRC_South,CapacityTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC_South,CapacityTechFuel,2025,OCGT,Gas,GT-Gas,0.0
+DRC,DRC_South,CapacityTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+DRC,DRC_South,CapacityTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+DRC,DRC_South,CapacityTechFuel,2025,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC_South,CapacityTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+DRC,DRC_South,CapacityTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC_South,CapacityTechFuel,2025,ReservoirHydro,Water,Reservoir,650.0
+DRC,DRC_South,CapacityTechFuel,2025,ROR,Water,ROR,0.0
+DRC,DRC_South,CapacityTechFuel,2025,CSPPlant,CSP,CSP,0.0
+DRC,DRC_South,CapacityTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC_South,CapacityTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+DRC,DRC_South,CapacityTechFuel,2025,PV,Solar,PV,100.0
+DRC,DRC_South,CapacityTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC_South,CapacityTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC_South,CapacityTechFuel,2025,Storage,Battery,Battery,0.0
+DRC,DRC_South,CapacityTechFuel,2025,Storage,Water,PSH,0.0
+DRC,DRC_South,CapacityTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC_South,CapacityTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC_South,CapacityTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC_South,CapacityTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC_South,CapacityTechFuel,2040,ST,Coal,ST-Coal,0.0
+DRC,DRC_South,CapacityTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC_South,CapacityTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC_South,CapacityTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC_South,CapacityTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+DRC,DRC_South,CapacityTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC_South,CapacityTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+DRC,DRC_South,CapacityTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+DRC,DRC_South,CapacityTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+DRC,DRC_South,CapacityTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC_South,CapacityTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+DRC,DRC_South,CapacityTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC_South,CapacityTechFuel,2040,ReservoirHydro,Water,Reservoir,650.0
+DRC,DRC_South,CapacityTechFuel,2040,ROR,Water,ROR,0.0
+DRC,DRC_South,CapacityTechFuel,2040,CSPPlant,CSP,CSP,0.0
+DRC,DRC_South,CapacityTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC_South,CapacityTechFuel,2040,OnshoreWind,Wind,Onshore Wind,540.0
+DRC,DRC_South,CapacityTechFuel,2040,PV,Solar,PV,1210.0
+DRC,DRC_South,CapacityTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC_South,CapacityTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC_South,CapacityTechFuel,2040,Storage,Battery,Battery,505.7085980154542
+DRC,DRC_South,CapacityTechFuel,2040,Storage,Water,PSH,0.0
+DRC,DRC_South,CapacityTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,ST,Coal,ST-Coal,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,ST,Lignite,ST-Lignite,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,OCGT,Gas,GT-Gas,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,OCGT,LNG,GT-LNG,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,OCGT,HFO,GT-HFO,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,ICE,HFO,ICE-HFO,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,ReservoirHydro,Water,Reservoir,3983.077714175232
+DRC,DRC_South,EnergyTechFuelComplete,2025,ROR,Water,ROR,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,CSPPlant,CSP,CSP,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,OnshoreWind,Wind,Onshore Wind,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,PV,Solar,PV,168.75715
+DRC,DRC_South,EnergyTechFuelComplete,2025,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,Storage,Battery,Battery,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,Storage,Water,PSH,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,ST,Coal,ST-Coal,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,ST,Lignite,ST-Lignite,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,OCGT,Gas,GT-Gas,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,OCGT,LNG,GT-LNG,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,OCGT,HFO,GT-HFO,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,ICE,HFO,ICE-HFO,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,ReservoirHydro,Water,Reservoir,3983.077714175233
+DRC,DRC_South,EnergyTechFuelComplete,2040,ROR,Water,ROR,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,CSPPlant,CSP,CSP,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,OnshoreWind,Wind,Onshore Wind,1853.6463900000008
+DRC,DRC_South,EnergyTechFuelComplete,2040,PV,Solar,PV,2041.961515000001
+DRC,DRC_South,EnergyTechFuelComplete,2040,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,Storage,Battery,Battery,500.6321515660774
+DRC,DRC_South,EnergyTechFuelComplete,2040,Storage,Water,PSH,0.0
+DRC,DRC_South,EnergyTechFuelComplete,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,ST,Coal,ST-Coal,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,OCGT,Gas,GT-Gas,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,ReservoirHydro,Water,Reservoir,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,ROR,Water,ROR,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,CSPPlant,CSP,CSP,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,PV,Solar,PV,100.0
+DRC,DRC_South,NewCapacityTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,Storage,Battery,Battery,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,Storage,Water,PSH,0.0
+DRC,DRC_South,NewCapacityTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,ST,Coal,ST-Coal,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,ReservoirHydro,Water,Reservoir,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,ROR,Water,ROR,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,CSPPlant,CSP,CSP,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,OnshoreWind,Wind,Onshore Wind,540.0
+DRC,DRC_South,NewCapacityTechFuel,2040,PV,Solar,PV,1110.0
+DRC,DRC_South,NewCapacityTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,Storage,Battery,Battery,505.7085980154542
+DRC,DRC_South,NewCapacityTechFuel,2040,Storage,Water,PSH,0.0
+DRC,DRC_South,NewCapacityTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,ST,Coal,ST-Coal,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,ST,Lignite,ST-Lignite,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,OCGT,Gas,GT-Gas,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,OCGT,LNG,GT-LNG,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,OCGT,HFO,GT-HFO,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,ICE,HFO,ICE-HFO,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,ReservoirHydro,Water,Reservoir,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,ROR,Water,ROR,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,CSPPlant,CSP,CSP,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,OnshoreWind,Wind,Onshore Wind,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,PV,Solar,PV,100.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,Storage,Battery,Battery,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,Storage,Water,PSH,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,ST,Coal,ST-Coal,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,ST,Lignite,ST-Lignite,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,OCGT,Gas,GT-Gas,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,OCGT,LNG,GT-LNG,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,OCGT,HFO,GT-HFO,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,ICE,HFO,ICE-HFO,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,ReservoirHydro,Water,Reservoir,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,ROR,Water,ROR,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,CSPPlant,CSP,CSP,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,OnshoreWind,Wind,Onshore Wind,540.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,PV,Solar,PV,1210.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,Storage,Battery,Battery,505.7085980154542
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,Storage,Water,PSH,0.0
+DRC,DRC_South,NewCapacityTechFuelCumulated,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,ST,Coal,ST-Coal,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,OCGT,Gas,GT-Gas,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,ReservoirHydro,Water,Reservoir,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,ROR,Water,ROR,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,CSPPlant,CSP,CSP,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,PV,Solar,PV,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,Storage,Battery,Battery,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,Storage,Water,PSH,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,ST,Coal,ST-Coal,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,ReservoirHydro,Water,Reservoir,270.3116129781178
+DRC,DRC_South,ReserveSpinningTechFuel,2040,ROR,Water,ROR,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,CSPPlant,CSP,CSP,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,PV,Solar,PV,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,Storage,Battery,Battery,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,Storage,Water,PSH,0.0
+DRC,DRC_South,ReserveSpinningTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,ST,Coal,ST-Coal,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,OCGT,Gas,GT-Gas,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,ReservoirHydro,Water,Reservoir,0.6995219027353762
+DRC,DRC_South,UtilizationTechFuel,2025,ROR,Water,ROR,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,CSPPlant,CSP,CSP,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,PV,Solar,PV,0.1926451484018264
+DRC,DRC_South,UtilizationTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,Storage,Battery,Battery,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,Storage,Water,PSH,0.0
+DRC,DRC_South,UtilizationTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,ST,Coal,ST-Coal,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,ReservoirHydro,Water,Reservoir,0.6995219027353763
+DRC,DRC_South,UtilizationTechFuel,2040,ROR,Water,ROR,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,CSPPlant,CSP,CSP,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.3918582762557079
+DRC,DRC_South,UtilizationTechFuel,2040,PV,Solar,PV,0.1926451484018266
+DRC,DRC_South,UtilizationTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,Storage,Battery,Battery,0.1130093283282775
+DRC,DRC_South,UtilizationTechFuel,2040,Storage,Water,PSH,0.0
+DRC,DRC_South,UtilizationTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Gabon,Gabon,CapacityTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+Gabon,Gabon,CapacityTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+Gabon,Gabon,CapacityTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+Gabon,Gabon,CapacityTechFuel,2025,ST,Coal,ST-Coal,0.0
+Gabon,Gabon,CapacityTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Gabon,Gabon,CapacityTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Gabon,Gabon,CapacityTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+Gabon,Gabon,CapacityTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+Gabon,Gabon,CapacityTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+Gabon,Gabon,CapacityTechFuel,2025,OCGT,Gas,GT-Gas,346.40999999999997
+Gabon,Gabon,CapacityTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+Gabon,Gabon,CapacityTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+Gabon,Gabon,CapacityTechFuel,2025,ICE,Diesel,ICE-Diesel,150.47
+Gabon,Gabon,CapacityTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+Gabon,Gabon,CapacityTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+Gabon,Gabon,CapacityTechFuel,2025,ReservoirHydro,Water,Reservoir,329.0
+Gabon,Gabon,CapacityTechFuel,2025,ROR,Water,ROR,34.3
+Gabon,Gabon,CapacityTechFuel,2025,CSPPlant,CSP,CSP,0.0
+Gabon,Gabon,CapacityTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Gabon,Gabon,CapacityTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Gabon,Gabon,CapacityTechFuel,2025,PV,Solar,PV,30.0
+Gabon,Gabon,CapacityTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+Gabon,Gabon,CapacityTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+Gabon,Gabon,CapacityTechFuel,2025,Storage,Battery,Battery,0.0
+Gabon,Gabon,CapacityTechFuel,2025,Storage,Water,PSH,0.0
+Gabon,Gabon,CapacityTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Gabon,Gabon,CapacityTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+Gabon,Gabon,CapacityTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+Gabon,Gabon,CapacityTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+Gabon,Gabon,CapacityTechFuel,2040,ST,Coal,ST-Coal,0.0
+Gabon,Gabon,CapacityTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Gabon,Gabon,CapacityTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Gabon,Gabon,CapacityTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+Gabon,Gabon,CapacityTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+Gabon,Gabon,CapacityTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+Gabon,Gabon,CapacityTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+Gabon,Gabon,CapacityTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+Gabon,Gabon,CapacityTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+Gabon,Gabon,CapacityTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+Gabon,Gabon,CapacityTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+Gabon,Gabon,CapacityTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+Gabon,Gabon,CapacityTechFuel,2040,ReservoirHydro,Water,Reservoir,1225.7328098049315
+Gabon,Gabon,CapacityTechFuel,2040,ROR,Water,ROR,34.3
+Gabon,Gabon,CapacityTechFuel,2040,CSPPlant,CSP,CSP,0.0
+Gabon,Gabon,CapacityTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Gabon,Gabon,CapacityTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.0
+Gabon,Gabon,CapacityTechFuel,2040,PV,Solar,PV,775.0
+Gabon,Gabon,CapacityTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+Gabon,Gabon,CapacityTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+Gabon,Gabon,CapacityTechFuel,2040,Storage,Battery,Battery,0.0
+Gabon,Gabon,CapacityTechFuel,2040,Storage,Water,PSH,0.0
+Gabon,Gabon,CapacityTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,Nuclear,Uranium,Nuclear,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,CCGT,Gas,CCGT-Gas,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,CCGT,LNG,CCGT-LNG,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,ST,Coal,ST-Coal,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,ST,Geothermal,ST-Geothermal,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,ST,Lignite,ST-Lignite,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,OCGT,Diesel,GT-Diesel,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,OCGT,Gas,GT-Gas,2293.1223577328533
+Gabon,Gabon,EnergyTechFuelComplete,2025,OCGT,LNG,GT-LNG,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,OCGT,HFO,GT-HFO,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,ICE,Diesel,ICE-Diesel,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,ICE,HFO,ICE-HFO,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,BiomassPlant,Biomass,Biomass,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,ReservoirHydro,Water,Reservoir,1309.9362930671452
+Gabon,Gabon,EnergyTechFuelComplete,2025,ROR,Water,ROR,143.58630720000016
+Gabon,Gabon,EnergyTechFuelComplete,2025,CSPPlant,CSP,CSP,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,PV,Solar,PV,41.35504199999999
+Gabon,Gabon,EnergyTechFuelComplete,2025,pvwsto,Solar,PV+Storage,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,STOPV,Solar,Solar Thermal,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,Storage,Battery,Battery,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,Storage,Water,PSH,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,Nuclear,Uranium,Nuclear,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,CCGT,Gas,CCGT-Gas,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,CCGT,LNG,CCGT-LNG,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,ST,Coal,ST-Coal,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,ST,Geothermal,ST-Geothermal,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,ST,Lignite,ST-Lignite,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,OCGT,Diesel,GT-Diesel,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,OCGT,Gas,GT-Gas,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,OCGT,LNG,GT-LNG,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,OCGT,HFO,GT-HFO,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,ICE,Diesel,ICE-Diesel,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,ICE,HFO,ICE-HFO,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,BiomassPlant,Biomass,Biomass,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,ReservoirHydro,Water,Reservoir,5991.675603172323
+Gabon,Gabon,EnergyTechFuelComplete,2040,ROR,Water,ROR,143.58630720000016
+Gabon,Gabon,EnergyTechFuelComplete,2040,CSPPlant,CSP,CSP,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,OnshoreWind,Wind,Onshore Wind,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,PV,Solar,PV,1068.3385849999995
+Gabon,Gabon,EnergyTechFuelComplete,2040,pvwsto,Solar,PV+Storage,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,STOPV,Solar,Solar Thermal,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,Storage,Battery,Battery,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,Storage,Water,PSH,0.0
+Gabon,Gabon,EnergyTechFuelComplete,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,ST,Coal,ST-Coal,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,OCGT,Gas,GT-Gas,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,ICE,Diesel,ICE-Diesel,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,ReservoirHydro,Water,Reservoir,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,ROR,Water,ROR,34.3
+Gabon,Gabon,NewCapacityTechFuel,2025,CSPPlant,CSP,CSP,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,PV,Solar,PV,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,Storage,Battery,Battery,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,Storage,Water,PSH,0.0
+Gabon,Gabon,NewCapacityTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,ST,Coal,ST-Coal,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,ReservoirHydro,Water,Reservoir,896.7328098049317
+Gabon,Gabon,NewCapacityTechFuel,2040,ROR,Water,ROR,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,CSPPlant,CSP,CSP,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,PV,Solar,PV,745.0
+Gabon,Gabon,NewCapacityTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,Storage,Battery,Battery,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,Storage,Water,PSH,0.0
+Gabon,Gabon,NewCapacityTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,Nuclear,Uranium,Nuclear,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,CCGT,Gas,CCGT-Gas,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,CCGT,LNG,CCGT-LNG,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,ST,Coal,ST-Coal,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,ST,Geothermal,ST-Geothermal,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,ST,Lignite,ST-Lignite,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,OCGT,Diesel,GT-Diesel,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,OCGT,Gas,GT-Gas,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,OCGT,LNG,GT-LNG,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,OCGT,HFO,GT-HFO,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,ICE,Diesel,ICE-Diesel,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,ICE,HFO,ICE-HFO,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,BiomassPlant,Biomass,Biomass,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,ReservoirHydro,Water,Reservoir,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,ROR,Water,ROR,34.3
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,CSPPlant,CSP,CSP,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,PV,Solar,PV,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,pvwsto,Solar,PV+Storage,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,STOPV,Solar,Solar Thermal,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,Storage,Battery,Battery,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,Storage,Water,PSH,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,Nuclear,Uranium,Nuclear,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,CCGT,Gas,CCGT-Gas,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,CCGT,LNG,CCGT-LNG,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,ST,Coal,ST-Coal,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,ST,Geothermal,ST-Geothermal,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,ST,Lignite,ST-Lignite,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,OCGT,Diesel,GT-Diesel,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,OCGT,Gas,GT-Gas,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,OCGT,LNG,GT-LNG,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,OCGT,HFO,GT-HFO,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,ICE,Diesel,ICE-Diesel,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,ICE,HFO,ICE-HFO,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,BiomassPlant,Biomass,Biomass,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,ReservoirHydro,Water,Reservoir,896.7328098049317
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,ROR,Water,ROR,34.3
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,CSPPlant,CSP,CSP,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,OnshoreWind,Wind,Onshore Wind,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,PV,Solar,PV,745.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,pvwsto,Solar,PV+Storage,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,STOPV,Solar,Solar Thermal,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,Storage,Battery,Battery,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,Storage,Water,PSH,0.0
+Gabon,Gabon,NewCapacityTechFuelCumulated,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,ST,Coal,ST-Coal,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,OCGT,Gas,GT-Gas,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,ICE,Diesel,ICE-Diesel,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,ReservoirHydro,Water,Reservoir,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,ROR,Water,ROR,156.88169280000056
+Gabon,Gabon,ReserveSpinningTechFuel,2025,CSPPlant,CSP,CSP,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,PV,Solar,PV,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,Storage,Battery,Battery,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,Storage,Water,PSH,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,ST,Coal,ST-Coal,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,ReservoirHydro,Water,Reservoir,93.79938382499996
+Gabon,Gabon,ReserveSpinningTechFuel,2040,ROR,Water,ROR,156.88169280000056
+Gabon,Gabon,ReserveSpinningTechFuel,2040,CSPPlant,CSP,CSP,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,PV,Solar,PV,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,Storage,Battery,Battery,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,Storage,Water,PSH,0.0
+Gabon,Gabon,ReserveSpinningTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,Nuclear,Uranium,Nuclear,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,CCGT,Gas,CCGT-Gas,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,CCGT,LNG,CCGT-LNG,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,ST,Coal,ST-Coal,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,ST,DomesticCoal,ST-DomesticCoal,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,ST,ImportedCoal,ST-ImportedCoal,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,ST,Geothermal,ST-Geothermal,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,ST,Lignite,ST-Lignite,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,OCGT,Diesel,GT-Diesel,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,OCGT,Gas,GT-Gas,0.7556709062824484
+Gabon,Gabon,UtilizationTechFuel,2025,OCGT,LNG,GT-LNG,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,OCGT,HFO,GT-HFO,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,ICE,Diesel,ICE-Diesel,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,ICE,HFO,ICE-HFO,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,BiomassPlant,Biomass,Biomass,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,ReservoirHydro,Water,Reservoir,0.4545170410775511
+Gabon,Gabon,UtilizationTechFuel,2025,ROR,Water,ROR,0.4778755381604702
+Gabon,Gabon,UtilizationTechFuel,2025,CSPPlant,CSP,CSP,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,OffshoreWind,Wind,Offshore Wind,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,OnshoreWind,Wind,Onshore Wind,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,PV,Solar,PV,0.1573631735159817
+Gabon,Gabon,UtilizationTechFuel,2025,pvwsto,Solar,PV+Storage,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,STOPV,Solar,Solar Thermal,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,Storage,Battery,Battery,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,Storage,Water,PSH,0.0
+Gabon,Gabon,UtilizationTechFuel,2025,ImportTransmission,Import,ImportTransmission-Import,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,Nuclear,Uranium,Nuclear,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,CCGT,Gas,CCGT-Gas,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,CCGT,LNG,CCGT-LNG,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,ST,Coal,ST-Coal,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,ST,DomesticCoal,ST-DomesticCoal,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,ST,ImportedCoal,ST-ImportedCoal,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,ST,Geothermal,ST-Geothermal,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,ST,Lignite,ST-Lignite,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,OCGT,Diesel,GT-Diesel,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,OCGT,Gas,GT-Gas,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,OCGT,LNG,GT-LNG,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,OCGT,HFO,GT-HFO,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,ICE,Diesel,ICE-Diesel,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,ICE,HFO,ICE-HFO,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,BiomassPlant,Biomass,Biomass,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,ReservoirHydro,Water,Reservoir,0.5580182138941857
+Gabon,Gabon,UtilizationTechFuel,2040,ROR,Water,ROR,0.4778755381604702
+Gabon,Gabon,UtilizationTechFuel,2040,CSPPlant,CSP,CSP,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,OffshoreWind,Wind,Offshore Wind,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,OnshoreWind,Wind,Onshore Wind,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,PV,Solar,PV,0.1573631735159816
+Gabon,Gabon,UtilizationTechFuel,2040,pvwsto,Solar,PV+Storage,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,STOPV,Solar,Solar Thermal,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,Storage,Battery,Battery,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,Storage,Water,PSH,0.0
+Gabon,Gabon,UtilizationTechFuel,2040,ImportTransmission,Import,ImportTransmission-Import,0.0

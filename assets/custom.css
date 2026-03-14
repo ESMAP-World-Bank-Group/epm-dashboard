@@ -1,0 +1,116 @@
+/* ============================================================
+   EPM Dashboard — Global Styles
+   ============================================================ */
+
+/* Base font */
+body {
+    font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+    background-color: #F0F2F5;
+    color: #212529;
+}
+
+/* ── Navbar ─────────────────────────────────────────────── */
+.navbar-main {
+    height: 58px;
+    padding: 0 1.5rem;
+}
+
+.nav-page-link {
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.82) !important;
+    padding: 0.4rem 0.8rem !important;
+    border-radius: 4px;
+    transition: background 0.15s ease, color 0.15s ease;
+}
+
+.nav-page-link:hover {
+    color: #ffffff !important;
+    background-color: rgba(255, 255, 255, 0.12) !important;
+}
+
+.nav-page-link.active {
+    color: #ffffff !important;
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    font-weight: 600;
+}
+
+/* ── Filter card ─────────────────────────────────────────── */
+.filter-card {
+    background-color: #ffffff;
+    border: 1px solid #e0e4ea !important;
+    border-radius: 8px !important;
+}
+
+.filter-card .card-body {
+    padding: 0.75rem 1rem;
+}
+
+.form-label-sm {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #6c757d;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    margin-bottom: 4px;
+    display: block;
+}
+
+/* ── KPI Cards ───────────────────────────────────────────── */
+.card {
+    border: 1px solid #e0e4ea !important;
+    border-radius: 8px !important;
+}
+
+.card h4 {
+    font-size: 1.4rem;
+    color: #1B2A4A;
+}
+
+.card .card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e0e4ea;
+    font-size: 0.88rem;
+    padding: 0.55rem 1rem;
+}
+
+/* ── Chart containers ────────────────────────────────────── */
+.js-plotly-plot .plotly .modebar {
+    background: transparent !important;
+}
+
+/* ── DataTable overrides ─────────────────────────────────── */
+.dash-table-container .dash-spreadsheet-container {
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.dash-table-container input.dash-filter {
+    font-size: 11px;
+}
+
+/* ── Dropdown ────────────────────────────────────────────── */
+.Select-control {
+    border-color: #ced4da !important;
+    border-radius: 5px !important;
+}
+
+.Select-control:hover {
+    border-color: #2c6fad !important;
+}
+
+/* ── Scrollbar ───────────────────────────────────────────── */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track { background: #f1f1f1; }
+::-webkit-scrollbar-thumb { background: #b0bec5; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #78909c; }
+
+/* ── Responsive padding ──────────────────────────────────── */
+@media (max-width: 768px) {
+    .py-3.px-4 {
+        padding: 1rem 0.75rem !important;
+    }
+}

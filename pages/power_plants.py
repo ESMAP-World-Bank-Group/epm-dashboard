@@ -1,6 +1,6 @@
 import dash
 import dash_bootstrap_components as dbc
-from dash import html, dcc, Input, Output, callback
+from dash import html, dcc, Input, Output, State, callback, ctx, no_update
 import plotly.graph_objects as go
 import plotly.express as px
 import pandas as pd
@@ -108,12 +108,20 @@ def init_pp_filters(store):
     Output("pp-zone",  "value"),
     Input("pp-spatial",  "value"),
     Input("global-store","data"),
+    State("pp-zone",     "value"),
 )
-def update_pp_zones(spatial, store):
+def update_pp_zones(spatial, store, current_value):
     mt, reg = store["model_type"], store["region"]
     units = loader.get_zones(mt, reg) if spatial == "z" else loader.get_countries(mt, reg)
     opts = [{"label": u, "value": u} for u in units]
-    return opts, None  # default: all zones (no filter)
+    # Reset only when spatial resolution changes; preserve selection on store refresh
+    if ctx.triggered_id == "pp-spatial":
+        return opts, None
+    valid = set(units)
+    if not current_value:
+        return opts, no_update
+    kept = [v for v in current_value if v in valid] if isinstance(current_value, list) else (current_value if current_value in valid else None)
+    return opts, kept
 
 
 @callback(

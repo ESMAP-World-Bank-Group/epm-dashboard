@@ -1,6 +1,6 @@
 import dash
 import dash_bootstrap_components as dbc
-from dash import html, dcc, Input, Output, State, callback
+from dash import html, dcc, Input, Output, State, callback, ctx, no_update
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import pandas as pd
@@ -118,11 +118,17 @@ def init_dp_scenario_year(store):
     Output("dp-zone", "value"),
     Input("dp-spatial",   "value"),
     Input("global-store", "data"),
+    State("dp-zone",      "value"),
 )
-def update_dp_zones(spatial, store):
+def update_dp_zones(spatial, store, current_value):
     mt, reg = store["model_type"], store["region"]
     units = loader.get_zones(mt, reg) if spatial == "z" else loader.get_countries(mt, reg)
     opts = [{"label": u, "value": u} for u in units]
+    # Reset only when spatial resolution changes; preserve selection on store refresh
+    if ctx.triggered_id == "dp-spatial":
+        return opts, (units[0] if units else None)
+    if current_value and current_value in set(units):
+        return opts, no_update
     return opts, (units[0] if units else None)
 
 

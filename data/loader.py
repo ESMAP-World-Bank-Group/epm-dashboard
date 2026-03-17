@@ -318,7 +318,7 @@ def load_phours(model_type: str, region: str) -> dict:
     return {}
 
 
-# Dispatch is heavy — no lru_cache, caller controls when it's loaded
+@lru_cache(maxsize=8)
 def load_dispatch(model_type: str, region: str) -> pd.DataFrame:
     df = _load_csv(model_type, region, "pDispatchComplete.csv")
     if not df.empty:

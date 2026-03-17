@@ -3,7 +3,7 @@ import dash_bootstrap_components as dbc
 from dash import html, dcc, Input, Output, State, callback, ctx, no_update
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-import pandas as pd
+
 import numpy as np
 from data import loader
 
@@ -171,9 +171,12 @@ def load_dp_data(n, scenarios, year, spatial, zone, store):
     q_opts = [{"label": q, "value": q} for q in quarters]
     d_opts = [{"label": d, "value": d} for d in days]
 
-    data_json = df[["scenario", "q", "d", "t", "uni", "value"]].to_json(orient="split")
+    # Store only metadata — avoids large JSON payload in dcc.Store
+    import json as _json
+    meta = {"zone": zone, "year": year, "scenarios": active,
+            "spatial": spatial, "mt": mt, "reg": reg}
     status = f"Loaded — {zone} / {', '.join(active)} / {int(year)}"
-    return data_json, status, q_opts, quarters[0], d_opts, days[0]
+    return _json.dumps(meta), status, q_opts, quarters[0], d_opts, days[0]
 
 
 # ---------------------------------------------------------------------------
@@ -467,9 +470,8 @@ def _build_chart(df, scenarios, zone, year, view, quarter=None, day=None, day_we
     Input("dp-view",         "value"),
     State("dp-year",         "value"),
     State("dp-zone",         "value"),
-    State("global-store",    "data"),
 )
-def update_dispatch_chart(data_json, quarter, day, view, year, zone, store):
+def update_dispatch_chart(data_json, quarter, day, view, year, zone):
     empty = go.Figure()
     empty.update_layout(paper_bgcolor="white", plot_bgcolor="white",
                          margin=dict(l=10, r=10, t=30, b=10), height=440)
@@ -479,10 +481,21 @@ def update_dispatch_chart(data_json, quarter, day, view, year, zone, store):
     if view == "single" and (not quarter or not day):
         return empty, empty
 
-    df = pd.read_json(data_json, orient="split")
-    scenarios = sorted(df["scenario"].unique())
+    import json as _json
+    meta = _json.loads(data_json)
+    mt, reg   = meta["mt"], meta["reg"]
+    zone      = meta["zone"]
+    year      = meta["year"]
+    scenarios = meta["scenarios"]
+    spatial   = meta["spatial"]
+    spatial_col = "z" if spatial == "z" else "c"
 
-    mt, reg = store["model_type"], store["region"]
+    full_df = loader.load_dispatch(mt, reg)
+    if full_df.empty:
+        return empty, empty
+    df = full_df[(full_df[spatial_col] == zone) &
+                 (full_df["y"] == year) &
+                 (full_df["scenario"].isin(scenarios))].copy()
     day_weights = loader.load_phours(mt, reg)
     price_df    = loader.load_hourly_price(mt, reg)
     dispatch_fig, scenarios_list = _build_chart(

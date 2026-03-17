@@ -259,11 +259,18 @@ layout = dbc.Container([
         ], className="shadow-sm h-100"), md=6),
     ], className="mb-3 g-3"),
 
-    # ── Country dispatch (on map click) ──────────────────────────────────
+    # ── Country dispatch ──────────────────────────────────────────────────
     dbc.Row([
         dbc.Col(dbc.Card([
-            dbc.CardHeader(html.B(id="ov-dispatch-title",
-                                  children="Annual Dispatch — click a zone on the map")),
+            dbc.CardHeader(dbc.Row([
+                dbc.Col(html.B("Annual Dispatch"), width="auto"),
+                dbc.Col(
+                    dcc.Dropdown(id="ov-dispatch-zone", placeholder="Select a zone…",
+                                 clearable=True,
+                                 style={"fontSize": "0.82rem", "minWidth": "160px"}),
+                    width="auto",
+                ),
+            ], align="center", className="g-2")),
             dbc.CardBody(dcc.Graph(id="ov-dispatch", config={"displayModeBar": False},
                                    style={"height": "380px"})),
         ], className="shadow-sm"), md=12),
@@ -628,37 +635,35 @@ def update_map_and_capacity(scenario, year, store):
 
 
 @callback(
-    Output("ov-dispatch",       "figure"),
-    Output("ov-dispatch-title", "children"),
-    Input("ov-map",             "clickData"),
-    State("ov-scenario",        "value"),
-    State("ov-year",            "value"),
-    State("global-store",       "data"),
+    Output("ov-dispatch-zone", "options"),
+    Input("global-store", "data"),
 )
-def update_country_dispatch(click, scenario, year, store):
-    empty = go.Figure()
-    empty.update_layout(paper_bgcolor="white", plot_bgcolor="white",
-                        margin=dict(l=10, r=10, t=10, b=10))
-    default_title = "Annual Dispatch — click a zone on the map"
-    if not click or not scenario or not year:
-        return empty, default_title
+def update_dispatch_zone_opts(store):
+    mt, reg = store["model_type"], store["region"]
+    zones = loader.get_zones(mt, reg)
+    return [{"label": z, "value": z} for z in zones]
 
-    # Zone dots carry text=zone_name; line/arrowhead traces don't
-    point = click["points"][0]
-    zone = point.get("text")
-    if not zone:
-        return empty, default_title
+
+@callback(
+    Output("ov-dispatch", "figure"),
+    Input("ov-dispatch-zone", "value"),
+    State("ov-scenario",      "value"),
+    State("ov-year",          "value"),
+    State("global-store",     "data"),
+)
+def update_country_dispatch(zone, scenario, year, store):
+    empty = go.Figure().update_layout(paper_bgcolor="white", plot_bgcolor="white",
+                                      margin=dict(l=10, r=10, t=10, b=10))
+    if not zone or not scenario or not year:
+        return empty
 
     mt, reg = store["model_type"], store["region"]
-    if zone not in loader.load_zone_coords(mt, reg):
-        return empty, default_title
     dispatch_df = loader.load_dispatch(mt, reg)
     if dispatch_df.empty:
-        return empty, f"Annual Dispatch — {zone} (no data)"
+        return empty
 
-    price_df = loader.load_hourly_price(mt, reg)
+    price_df   = loader.load_hourly_price(mt, reg)
     day_weights = loader.load_phours(mt, reg)
-    fig = _dispatch_annual_fig(dispatch_df, zone, scenario, year,
-                               price_df=price_df if not price_df.empty else None,
-                               day_weights=day_weights if day_weights else None)
-    return fig, f"Annual Dispatch — {zone}  |  {scenario}  |  {int(year)}"
+    return _dispatch_annual_fig(dispatch_df, zone, scenario, year,
+                                price_df=price_df if not price_df.empty else None,
+                                day_weights=day_weights if day_weights else None)

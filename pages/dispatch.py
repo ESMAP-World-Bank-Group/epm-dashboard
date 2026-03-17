@@ -242,6 +242,62 @@ def _add_row(fig, df, ti, row, legend_shown):
         ), row=row, col=1)
 
 
+def _add_price_overlay(fig, price_df, ti, n_rows, row, scenario, zone, year, view, quarter, day):
+    """Overlay marginal cost as secondary y-axis on subplot row."""
+    if price_df is None or price_df.empty:
+        return
+    filt = (price_df["scenario"] == scenario) & (price_df["y"] == year)
+    if "z" in price_df.columns:
+        filt &= (price_df["z"] == zone)
+    if view == "single":
+        filt &= (price_df["q"] == quarter) & (price_df["d"] == day)
+    p = price_df[filt].copy()
+    if p.empty:
+        return
+    p["t_num"] = p["t"].str.extract(r"(\d+)").astype(int)
+    p["q_num"] = p["q"].str.extract(r"(\d+)").astype(int)
+    p["d_num"] = p["d"].str.extract(r"(\d+)").astype(int)
+    if view == "single":
+        p = p.sort_values("t_num")
+        x_vals = p["t_num"].values
+    else:
+        p = p.merge(ti[["q_num", "d_num", "t_num", "x"]],
+                    on=["q_num", "d_num", "t_num"], how="inner").sort_values("x")
+        x_vals = p["x"].values
+    if len(x_vals) == 0:
+        return
+
+    # Secondary y-axis: n_rows primary axes already allocated (y1..yn), so use y(n+row)
+    sec_num    = n_rows + row
+    primary_y  = "y" if row == 1 else f"y{row}"
+    x_ax       = "x" if row == 1 else f"x{row}"
+    p_max      = float(p["value"].max()) if p["value"].max() > 0 else 100
+
+    fig.add_trace(go.Scatter(
+        x=x_vals, y=p["value"].values,
+        name="Marg. Cost",
+        mode="lines",
+        xaxis=x_ax,
+        yaxis=f"y{sec_num}",
+        line=dict(color="#2c3e50", width=1),
+        legendgroup="margcost",
+        showlegend=(row == 1),
+        hovertemplate="<b>Marg. Cost</b>: %{y:.1f} USD/MWh<extra></extra>",
+    ))
+    fig.update_layout(**{
+        f"yaxis{sec_num}": dict(
+            title="USD/MWh" if row == n_rows else "",
+            overlaying=primary_y,
+            anchor=x_ax,
+            side="right",
+            showgrid=False,
+            zeroline=False,
+            range=[0, p_max * 1.2],
+            tickfont=dict(size=9),
+        )
+    })
+
+
 def _year_separators(fig, ti, day_weights=None):
     """Quarter (thin solid) and day (thin dotted) separators with % weight labels."""
     qd = (ti.groupby(["q_num", "d_num", "q", "d"])["x"]
@@ -296,7 +352,7 @@ def _year_separators(fig, ti, day_weights=None):
 # Main chart builder
 # ---------------------------------------------------------------------------
 
-def _build_chart(df, scenarios, zone, year, view, quarter=None, day=None, day_weights=None):
+def _build_chart(df, scenarios, zone, year, view, quarter=None, day=None, day_weights=None, price_df=None):
     """Build dispatch figure. Returns (dispatch_fig, scenario_list_used)."""
     # Sort: baseline first
     all_s = sorted(df["scenario"].unique())
@@ -368,6 +424,7 @@ def _build_chart(df, scenarios, zone, year, view, quarter=None, day=None, day_we
         if view == "single":
             sdf = sdf[(sdf["q"] == quarter) & (sdf["d"] == day)]
         _add_row(fig, sdf, ti, i, legend_shown)
+        _add_price_overlay(fig, price_df, ti, n, i, scenario, zone, year, view, quarter, day)
 
     if view == "full":
         _year_separators(fig, ti, day_weights=day_weights)
@@ -382,8 +439,9 @@ def _build_chart(df, scenarios, zone, year, view, quarter=None, day=None, day_we
     fig.update_layout(
         title=dict(text=f"{zone} — Dispatch | {int(year)}{title_suffix}",
                    font=dict(size=12), x=0.01),
-        margin=dict(l=10, r=20, t=50, b=60),
-        legend=dict(orientation="v", x=1.01, y=1, font=dict(size=10)),
+        margin=dict(l=10, r=60 if price_df is not None else 20, t=50, b=60),
+        legend=dict(orientation="v", x=1.10 if price_df is not None else 1.01,
+                    y=1, font=dict(size=10)),
         plot_bgcolor="white", paper_bgcolor="white",
         hovermode="x unified", height=height,
     )
@@ -426,8 +484,12 @@ def update_dispatch_chart(data_json, quarter, day, view, year, zone, store):
 
     mt, reg = store["model_type"], store["region"]
     day_weights = loader.load_phours(mt, reg)
-    dispatch_fig, scenarios_list = _build_chart(df, scenarios, zone, year, view, quarter, day,
-                                                day_weights=day_weights)
+    price_df    = loader.load_hourly_price(mt, reg)
+    dispatch_fig, scenarios_list = _build_chart(
+        df, scenarios, zone, year, view, quarter, day,
+        day_weights=day_weights,
+        price_df=price_df if not price_df.empty else None,
+    )
 
     # ── Price chart (all scenarios overlaid) ─────────────────────────────
     price_df  = loader.load_hourly_price(mt, reg)

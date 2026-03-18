@@ -51,9 +51,14 @@ def update_global_store(model_value):
 def refresh_model_list(_, current_value):
     models = loader.get_available_models()
     options = [{"label": f"{mt} / {reg}", "value": f"{mt}|{reg}"} for mt, reg in models]
-    # Keep the current selection if it still exists, else fall back to first
+    # Keep the current selection if it still exists, else prefer EAPP, else first
     valid = current_value and any(o["value"] == current_value for o in options)
-    value = current_value if valid else (options[0]["value"] if options else None)
+    if valid:
+        value = current_value
+    elif any(o["value"] == "regional|EAPP" for o in options):
+        value = "regional|EAPP"
+    else:
+        value = options[0]["value"] if options else None
     return options, value
 
 

@@ -593,7 +593,6 @@ def update_map_and_capacity(scenario, year, store):
         lat_range, lon_range = [-12, 34], [10, 52]
 
     map_fig.update_geos(
-        scope="africa",
         showcoastlines=True, coastlinecolor="#cccccc",
         showcountries=True, countrycolor="#dddddd",
         showland=True, landcolor="#f5f5f5",

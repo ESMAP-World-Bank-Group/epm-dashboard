@@ -21,7 +21,9 @@ PAGES = [
 
 def make_navbar():
     model_options = _model_options()
-    default_model = model_options[0]["value"] if model_options else "regional|EAPP"
+    preferred = "regional|EAPP"
+    default_model = preferred if any(o["value"] == preferred for o in model_options) \
+        else (model_options[0]["value"] if model_options else preferred)
 
     nav_links = [
         dbc.NavItem(

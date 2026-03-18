@@ -135,7 +135,7 @@ def get_available_models():
         for region in mt.iterdir():
             if region.is_dir() and (region / "scenarios").exists():
                 options.append((mt.name, region.name))
-    return options
+    return sorted(options)
 
 
 def get_scenarios(model_type: str, region: str) -> list:

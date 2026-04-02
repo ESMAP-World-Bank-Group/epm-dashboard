@@ -1,6 +1,6 @@
 import dash
 import dash_bootstrap_components as dbc
-from dash import html, dcc, Input, Output, callback
+from dash import html, dcc, Input, Output, State, callback
 import plotly.graph_objects as go
 import plotly.express as px
 import pandas as pd
@@ -110,6 +110,21 @@ layout = dbc.Container([
                     "modeBarButtonsToRemove": ["lasso2d", "select2d"]},
             style={"height": "580px"},
         )),
+    ], className="shadow-sm mb-3"),
+
+    # ── Trade chart ───────────────────────────────────────────────────────
+    dbc.Card([
+        dbc.CardBody([
+            html.H6("Trade by Zone (GWh) — Imports (+) / Exports (−)",
+                    className="card-title mb-2",
+                    style={"fontSize": "0.9rem", "color": "#1B2A4A"}),
+            dcc.Graph(
+                id="evo-trade-chart",
+                config={"displayModeBar": True,
+                        "modeBarButtonsToRemove": ["lasso2d", "select2d"]},
+                style={"height": "450px"},
+            ),
+        ]),
     ], className="shadow-sm"),
 ], fluid=True, className="py-3 px-4")
 
@@ -129,8 +144,9 @@ layout = dbc.Container([
     Input("global-store",       "data"),
     Input("evo-spatial",        "value"),
     Input("evo-indicator",      "value"),
+    State("evo-scenarios",      "value"),
 )
-def init_evo_dropdowns(store, spatial, indicator):
+def init_evo_dropdowns(store, spatial, indicator, current_scenarios):
     mt, reg = store["model_type"], store["region"]
     scenarios = loader.get_scenarios(mt, reg)
     years     = loader.get_years(mt, reg)
@@ -154,8 +170,13 @@ def init_evo_dropdowns(store, spatial, indicator):
         leg_opts = [{"label": c, "value": c} for c in cats]
 
     default_ref = "baseline" if "baseline" in scenarios else (scenarios[0] if scenarios else None)
+
+    # Preserve the user's scenario selection if still valid; only reset on first load
+    valid = [s for s in (current_scenarios or []) if s in scenarios]
+    scenario_value = valid if valid else scenarios
+
     return (s_opts, default_ref,
-            s_opts, scenarios,       # all scenarios selected by default
+            s_opts, scenario_value,
             y_opts,
             u_opts, leg_opts)
 
@@ -424,5 +445,197 @@ def update_evolution(indicator, line_ind, scenarios, ref_scenario,
                 overlaying="y", side="right", showgrid=False,
             )
         )
+
+    return fig
+
+
+# ---------------------------------------------------------------------------
+# Trade chart callback
+# ---------------------------------------------------------------------------
+
+# Qualitative colour palette for zones — vibrant, well-separated colours
+_ZONE_PALETTE = [
+    "#E45756", "#F58518", "#EECA3B", "#72B7B2", "#54A24B",
+    "#4C78A8", "#B279A2", "#FF9DA6", "#9D755D", "#BAB0AC",
+    "#79706E", "#D67195", "#439894", "#83BCFF", "#E68310",
+]
+
+
+def _zone_colors(zones: list) -> dict:
+    return {z: _ZONE_PALETTE[i % len(_ZONE_PALETTE)] for i, z in enumerate(sorted(zones))}
+
+
+@callback(
+    Output("evo-trade-chart", "figure"),
+    Input("evo-scenarios",    "value"),
+    Input("evo-ref-scenario", "value"),
+    Input("evo-view",         "value"),
+    Input("evo-zones",        "value"),
+    Input("evo-years",        "value"),
+    Input("global-store",     "data"),
+)
+def update_trade_chart(scenarios, ref_scenario, view, zones, years_filter, store):
+    empty = go.Figure()
+    empty.update_layout(
+        paper_bgcolor="white", plot_bgcolor="white",
+        margin=dict(l=10, r=10, t=30, b=10),
+        annotations=[dict(text="No trade data available",
+                          xref="paper", yref="paper",
+                          x=0.5, y=0.5, showarrow=False,
+                          font=dict(size=13, color="#aaa"))],
+    )
+
+    mt, reg = store["model_type"], store["region"]
+    df = loader.load_transmission(mt, reg)
+    if df.empty:
+        return empty
+
+    df_itc = df[df["attribute"] == "Interchange"].copy()
+    df_itc["value"] = pd.to_numeric(df_itc["value"], errors="coerce")
+    df_itc = df_itc.dropna(subset=["value"])
+
+    if scenarios:
+        df_itc = df_itc[df_itc["scenario"].isin(scenarios)]
+    if years_filter:
+        df_itc = df_itc[df_itc["y"].isin(years_filter)]
+
+    # Filter by zone: keep rows where z OR z2 is in selected zones
+    if zones:
+        mask = df_itc["z"].isin(zones)
+        if "z2" in df_itc.columns:
+            mask = mask | df_itc["z2"].isin(zones)
+        df_itc = df_itc[mask]
+
+    if df_itc.empty:
+        return empty
+
+    # Compute gross imports and exports per zone from Interchange
+    # Interchange(z → z2): positive = z exports to z2; negative = z2 exports to z
+    # --- From z perspective ---
+    from_z = df_itc.copy()
+    from_z["exports"] = from_z["value"].clip(lower=0)      # z exports to z2
+    from_z["imports"] = (-from_z["value"]).clip(lower=0)   # z imports from z2
+    exp_from = from_z.groupby(["scenario", "y", "z"])[["exports", "imports"]].sum()
+
+    # --- From z2 perspective (if z2 column exists) ---
+    if "z2" in df_itc.columns:
+        to_z = df_itc.dropna(subset=["z2"]).copy()
+        to_z["exports"] = (-to_z["value"]).clip(lower=0)   # z2 exports to z
+        to_z["imports"] = to_z["value"].clip(lower=0)      # z2 imports from z
+        to_z = to_z.drop(columns=["z"]).rename(columns={"z2": "z"})
+        exp_to = to_z.groupby(["scenario", "y", "z"])[["exports", "imports"]].sum()
+        combined = exp_from.add(exp_to, fill_value=0).reset_index()
+    else:
+        combined = exp_from.reset_index()
+
+    # Filter by zone after combination
+    if zones:
+        combined = combined[combined["z"].isin(zones)]
+
+    combined = combined[(combined["exports"] > 1e-6) | (combined["imports"] > 1e-6)]
+    if combined.empty:
+        return empty
+
+    # Build x-axis: Year × Scenario
+    years_list = sorted(combined["y"].unique().tolist())
+    all_s = sorted(combined["scenario"].unique().tolist())
+    scenarios_list = (["baseline"] if "baseline" in all_s else []) + \
+                     [s for s in all_s if s != "baseline"]
+
+    combined["x_label"] = combined["y"].astype(int).astype(str) + " | " + combined["scenario"]
+    x_order = [f"{int(y)} | {s}" for y in years_list for s in scenarios_list]
+    x_order_filtered = [x for x in x_order if x in combined["x_label"].values]
+
+    zone_list = sorted(combined["z"].unique().tolist())
+    colors = _zone_colors(zone_list)
+
+    fig = go.Figure()
+    # One trace per zone: imports (positive) + exports (negative), same color
+    for z in zone_list:
+        z_df = combined[combined["z"] == z].copy()
+        if z_df.empty:
+            continue
+        color = colors[z]
+        # Imports — positive bars
+        fig.add_trace(go.Bar(
+            x=z_df["x_label"],
+            y=z_df["imports"],
+            name=z,
+            marker_color=color,
+            hovertemplate=(
+                "<b>%{x}</b><br>"
+                f"<b>{z}</b> Imports: %{{y:,.1f}} GWh<extra></extra>"
+            ),
+            legendgroup=z,
+            showlegend=True,
+        ))
+        # Exports — negative bars (same color, no duplicate legend entry)
+        fig.add_trace(go.Bar(
+            x=z_df["x_label"],
+            y=-z_df["exports"],
+            name=z,
+            marker_color=color,
+            hovertemplate=(
+                "<b>%{x}</b><br>"
+                f"<b>{z}</b> Exports: %{{y:,.1f}} GWh<extra></extra>"
+            ),
+            legendgroup=z,
+            showlegend=False,
+        ))
+
+    fig.update_layout(barmode="relative")
+    fig.update_xaxes(
+        categoryorder="array",
+        categoryarray=x_order_filtered,
+    )
+
+    # Tick labels + year annotations
+    pos_map = {x: i for i, x in enumerate(x_order_filtered)}
+    tick_labels = [f"{s}" for y in years_list for s in scenarios_list
+                   if f"{int(y)} | {s}" in x_order_filtered]
+    tick_vals = list(x_order_filtered)
+
+    for i_y, y in enumerate(years_list):
+        y_positions = [pos_map[x] for x in x_order_filtered
+                       if x.startswith(f"{int(y)} | ")]
+        if not y_positions:
+            continue
+        if i_y > 0:
+            fig.add_shape(
+                type="line",
+                x0=y_positions[0] - 0.5, x1=y_positions[0] - 0.5, y0=0, y1=1.0,
+                xref="x", yref="paper",
+                line=dict(color="#aaaaaa", width=1.5, dash="dot"),
+            )
+        fig.add_annotation(
+            x=np.mean(y_positions), y=1.04, xref="x", yref="paper",
+            text=f"<b>{int(y)}</b>",
+            showarrow=False,
+            font=dict(size=12, color="#1B2A4A"),
+            xanchor="center",
+        )
+
+    fig.update_xaxes(
+        ticktext=tick_labels,
+        tickvals=tick_vals,
+        tickangle=-30,
+        tickfont=dict(size=10),
+    )
+
+    # Zero line
+    fig.add_hline(y=0, line_color="black", line_width=1.2)
+
+    fig.update_layout(
+        margin=dict(l=10, r=20, t=50, b=60),
+        legend=dict(
+            orientation="v", x=1.01, y=1,
+            font=dict(size=10), title=dict(text="Zone"),
+        ),
+        yaxis_title="GWh",
+        plot_bgcolor="white", paper_bgcolor="white",
+        font=dict(size=11),
+        hovermode="closest",
+        bargap=0.2,
+    )
 
     return fig

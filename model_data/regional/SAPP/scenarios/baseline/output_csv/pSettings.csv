@@ -16,6 +16,7 @@ fApplyGenerationPhaseout,1.0
 fApplyPlanningReserveConstraint,1.0
 fCountIntercoForReserves,1.0
 fEnableCapacityExpansion,1.0
+fEnableCarbonPrice,1.0
 fEnableExternalExchange,1.0
 fEnableInternalExchange,1.0
 fEnableStorage,1.0
